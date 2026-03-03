@@ -1,7 +1,9 @@
 # psnppgl
 Game lists for PSNP+ addon on [PSNProfiles](https://psnprofiles.com)
 
-Forum topic: [Link](https://forum.psnprofiles.com/topic/78709-psnp-v1112-improved-psnp-game-lists-and-more/)
+Forum topics:   
+- [PSNP+ Addon](https://forum.psnprofiles.com/topic/78709-psnp-v1112-improved-psnp-game-lists-and-more/)  
+- [PSNP+ Game Lists](https://forum.psnprofiles.com/topic/132776-psnp-custom-game-lists/)
 
 ## Lists
 ### [PS+ Essential (EU)](ps_essential_eu.json)
