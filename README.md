@@ -17,7 +17,8 @@ Forum topics:
 > You can use a list, update it and make a pull request (or send it to me) to add it here!
 
 ### [PS+ Premium PS3 (EU)](ps_premium_ps3_eu.json)
-Original PS3 games only available for streaming (*209 unique*)
+Original PS3 games only available for streaming (*209 unique*)  
+`Last Update: 08/03/2026`  
 
 <details>
 <summary>Missing games (32)</summary>
@@ -58,11 +59,12 @@ Original PS3 games only available for streaming (*209 unique*)
 </details>
 
 ### [PS+ Premium PS4/PS5 (EU)](ps_premium_ps4ps5_eu.json)
-Classic games (original or remastered) on PS4/PS5, available for download and streaming (with a few exceptions) (*147 unique*)
+Classic games (original or remastered) on PS4/PS5, available for download and streaming (with a few exceptions) (*147 unique*)  
+`Last Update: 08/03/2026`  
 > :label: PS1, PS2, PSP, PS3, VITA, Original, Remaster, Download Only, Streaming Only
 
 <details>
-<summary>Missing games (27)</summary>
+<summary>Missing games (28)</summary>
 
 - Armored Core (PS4/PS5) [Original, PS1] - 2025.03.18
 - Armored Core Master of Arena (PS4/PS5) [Original, PS1] - 2025.03.18
@@ -86,6 +88,7 @@ Classic games (original or remastered) on PS4/PS5, available for download and st
 - Tekken 2 (PS4/PS5) [Original, PS1] - 2022.06.23
 - Tekken 3 (PS4/PS5) [Original, PS1] - 2025.10.21
 - Tekken 6 (PS4/PS5) [Original, PSP] - 2023.10.17
+- Tekken Dark Resurrection [Original, PSP] - 2026.03.17
 - The Last of Us: Left Behind[^2] (PS4) [Remaster, PS3] - 2022.06.23
 - Worms Armageddon (PS4/PS5) [Original, PS1] - 2022.06.23
 - Worms Pinball (PS4/PS5) [Original, PS1] - 2024.05.21
@@ -95,11 +98,13 @@ Classic games (original or remastered) on PS4/PS5, available for download and st
 </details>
 
 ### [PS+ Extra (EU)](ps_extra_eu.json)
-Games in PS+ Extra Catalogue (*473 unique*)
-> :label:  New, Leaving soon, Ubisoft+, Day one
+Games in PS+ Extra Catalogue (*480 unique*)
+`Last Update: 11/03/2026`
+> :label: Leaving soon, Ubisoft+, Day one
 
 ### [PS+ Essential (EU)](ps_essential_eu.json)
 Monthly games & PS Collection (*788 unique*)  
+`Last Update: 11/03/2026`  
 > :label: Collection, VR, Day one  
 
 <details>
