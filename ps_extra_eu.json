@@ -9,7 +9,7 @@
   "orderBy": "timestamp",
   "direction": "descending",
   "removeGames": "never",
-  "note": "Last update: 11/03/2026 / Leaving soon: 17/03/2026",
+  "note": "Last update: 20/03/2026 / Leaving soon: 21/04/2026",
   "games": [
     {
       "id": "25919",
@@ -2692,68 +2692,6 @@
       "note": ""
     },
     {
-      "id": "13430",
-      "scrapetime": 1771009200260,
-      "title": "Cris Tales",
-      "image": "https://i.psnprofiles.com/games/858823/L281967.png",
-      "url": "https://psnprofiles.com/trophies/13430-cris-tales",
-      "points": 1305,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 2,
-        "silver": 11,
-        "bronze": 33
-      },
-      "dlccount": 0,
-      "platinumpct": 11.41,
-      "completepct": 11.41,
-      "timestamp": 1655942400000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "13407",
-      "scrapetime": 1771009201339,
-      "title": "Cris Tales",
-      "image": "https://i.psnprofiles.com/games/642073/Ladadef.png",
-      "url": "https://psnprofiles.com/trophies/13407-cris-tales",
-      "points": 1305,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 2,
-        "silver": 11,
-        "bronze": 33
-      },
-      "dlccount": 0,
-      "platinumpct": 10.17,
-      "completepct": 10.17,
-      "timestamp": 1655942400000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
       "id": "30136",
       "scrapetime": 1771009212172,
       "title": "Crow Country",
@@ -2902,7 +2840,7 @@
     },
     {
       "id": "11981",
-      "scrapetime": 1771009273401,
+      "scrapetime": 1773854920186,
       "title": "Cyberpunk 2077",
       "image": "https://i.psnprofiles.com/games/c66113/L1c60e6.png",
       "url": "https://psnprofiles.com/trophies/11981-cyberpunk-2077",
@@ -2922,8 +2860,8 @@
         "bronze": 26
       },
       "dlccount": 0,
-      "platinumpct": 9.31,
-      "completepct": 9.31,
+      "platinumpct": 9.29,
+      "completepct": 9.29,
       "timestamp": 1752019200000,
       "psplus": false,
       "tags": [],
@@ -2931,7 +2869,7 @@
     },
     {
       "id": "15437",
-      "scrapetime": 1773005572134,
+      "scrapetime": 1773855024721,
       "title": "Cyberpunk 2077",
       "image": "https://i.psnprofiles.com/games/bbd1b5/L40eb6c.png",
       "url": "https://psnprofiles.com/trophies/15437-cyberpunk-2077",
@@ -2951,8 +2889,8 @@
         "bronze": 39
       },
       "dlccount": 1,
-      "platinumpct": 17.53,
-      "completepct": 6.51,
+      "platinumpct": 17.54,
+      "completepct": 6.52,
       "timestamp": 1752019200000,
       "psplus": false,
       "tags": [],
@@ -4177,7 +4115,9 @@
       "completepct": 9.16,
       "timestamp": 1744675200000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -7534,6 +7474,7 @@
       "timestamp": 1739836800000,
       "psplus": false,
       "tags": [
+        "Leaving soon",
         "Day one"
       ],
       "note": ""
@@ -7969,66 +7910,6 @@
       "timestamp": 1689638400000,
       "psplus": false,
       "tags": [],
-      "note": ""
-    },
-    {
-      "id": "14526",
-      "scrapetime": 1771012254101,
-      "title": "Mobile Suit Gundam: Battle Operation Code Fairy",
-      "image": "https://i.psnprofiles.com/games/421c5b/L26d553.png",
-      "url": "https://psnprofiles.com/trophies/14526-mobile-suit-gundam-battle-operation-code-fairy",
-      "points": 525,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 0,
-        "gold": 1,
-        "silver": 5,
-        "bronze": 19
-      },
-      "dlccount": 3,
-      "completepct": 17.82,
-      "timestamp": 1742256000000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "14355",
-      "scrapetime": 1771012255147,
-      "title": "Mobile Suit Gundam: Battle Operation Code Fairy",
-      "image": "https://i.psnprofiles.com/games/c36998/L6bbc72.png",
-      "url": "https://psnprofiles.com/trophies/14355-mobile-suit-gundam-battle-operation-code-fairy",
-      "points": 525,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 0,
-        "gold": 1,
-        "silver": 5,
-        "bronze": 19
-      },
-      "dlccount": 3,
-      "completepct": 8.12,
-      "timestamp": 1742256000000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
       "note": ""
     },
     {
@@ -9106,68 +8987,6 @@
       "timestamp": 1763424000000,
       "psplus": false,
       "tags": [],
-      "note": ""
-    },
-    {
-      "id": "15775",
-      "scrapetime": 1771012813558,
-      "title": "Paradise Killer",
-      "image": "https://i.psnprofiles.com/games/818d9f/L86f69a.png",
-      "url": "https://psnprofiles.com/trophies/15775-paradise-killer",
-      "points": 1260,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 2,
-        "silver": 15,
-        "bronze": 22
-      },
-      "dlccount": 0,
-      "platinumpct": 26.74,
-      "completepct": 26.74,
-      "timestamp": 1681776000000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "15697",
-      "scrapetime": 1771012814608,
-      "title": "Paradise Killer",
-      "image": "https://i.psnprofiles.com/games/7ca8d6/Lafa5ba.png",
-      "url": "https://psnprofiles.com/trophies/15697-paradise-killer",
-      "points": 1260,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 2,
-        "silver": 15,
-        "bronze": 22
-      },
-      "dlccount": 0,
-      "platinumpct": 22.05,
-      "completepct": 22.05,
-      "timestamp": 1681776000000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
       "note": ""
     },
     {
@@ -10480,7 +10299,7 @@
     },
     {
       "id": "5347",
-      "scrapetime": 1771013490892,
+      "scrapetime": 1773838188924,
       "title": "Rise of the Tomb Raider",
       "image": "https://i.psnprofiles.com/games/719afb/La495b1.png",
       "url": "https://psnprofiles.com/trophies/5347-rise-of-the-tomb-raider",
@@ -10500,7 +10319,7 @@
         "bronze": 118
       },
       "dlccount": 5,
-      "platinumpct": 5.72,
+      "platinumpct": 5.71,
       "completepct": 1.76,
       "timestamp": 1684195200000,
       "psplus": false,
@@ -12463,68 +12282,6 @@
       "note": ""
     },
     {
-      "id": "16696",
-      "scrapetime": 1771014324589,
-      "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
-      "image": "https://i.psnprofiles.com/games/068fbf/Lec0df2.png",
-      "url": "https://psnprofiles.com/trophies/16696-teenage-mutant-ninja-turtles-shredders-revenge",
-      "points": 1350,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 6,
-        "silver": 10,
-        "bronze": 14
-      },
-      "dlccount": 0,
-      "platinumpct": 13.33,
-      "completepct": 13.33,
-      "timestamp": 1687219200000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "19379",
-      "scrapetime": 1771014326298,
-      "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
-      "image": "https://i.psnprofiles.com/games/06efc9/L55ff72.png",
-      "url": "https://psnprofiles.com/trophies/19379-teenage-mutant-ninja-turtles-shredders-revenge",
-      "points": 1350,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 6,
-        "silver": 10,
-        "bronze": 14
-      },
-      "dlccount": 0,
-      "platinumpct": 7.24,
-      "completepct": 7.24,
-      "timestamp": 1687219200000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
       "id": "11398",
       "scrapetime": 1771014350731,
       "title": "Tennis World Tour 2",
@@ -13076,7 +12833,7 @@
     },
     {
       "id": "8200",
-      "scrapetime": 1771014580723,
+      "scrapetime": 1773940700084,
       "title": "The Gardens Between",
       "image": "https://i.psnprofiles.com/games/3a44be/L6ef0d2.png",
       "url": "https://psnprofiles.com/trophies/8200-the-gardens-between",
@@ -13096,8 +12853,8 @@
         "bronze": 0
       },
       "dlccount": 0,
-      "platinumpct": 80.36,
-      "completepct": 80.36,
+      "platinumpct": 80.32,
+      "completepct": 80.32,
       "timestamp": 1668470400000,
       "psplus": false,
       "tags": [],
@@ -13105,7 +12862,7 @@
     },
     {
       "id": "16702",
-      "scrapetime": 1772847393442,
+      "scrapetime": 1773940710228,
       "title": "The Gardens Between",
       "image": "https://i.psnprofiles.com/games/c44414/L8860d9.png",
       "url": "https://psnprofiles.com/trophies/16702-the-gardens-between",
@@ -13125,8 +12882,8 @@
         "bronze": 0
       },
       "dlccount": 0,
-      "platinumpct": 70.11,
-      "completepct": 70.11,
+      "platinumpct": 70.04,
+      "completepct": 70.04,
       "timestamp": 1668470400000,
       "psplus": false,
       "tags": [],
@@ -13454,7 +13211,7 @@
     },
     {
       "id": "12189",
-      "scrapetime": 1771014990132,
+      "scrapetime": 1773838604211,
       "title": "The Pedestrian",
       "image": "https://i.psnprofiles.com/games/e944c6/L182a85.png",
       "url": "https://psnprofiles.com/trophies/12189-the-pedestrian",
@@ -13474,7 +13231,7 @@
         "bronze": 4
       },
       "dlccount": 0,
-      "completepct": 40.17,
+      "completepct": 39.87,
       "timestamp": 1671494400000,
       "psplus": false,
       "tags": [],
@@ -14266,7 +14023,7 @@
     },
     {
       "id": "15250",
-      "scrapetime": 1773083082479,
+      "scrapetime": 1773838387883,
       "title": "Uncharted: Legacy of Thieves Collection",
       "image": "https://i.psnprofiles.com/games/551723/Ld60418.png",
       "url": "https://psnprofiles.com/trophies/15250-uncharted-legacy-of-thieves-collection",
@@ -14286,8 +14043,8 @@
         "bronze": 76
       },
       "dlccount": 1,
-      "platinumpct": 15.48,
-      "completepct": 15.48,
+      "platinumpct": 15.45,
+      "completepct": 15.45,
       "timestamp": 1679356800000,
       "psplus": false,
       "tags": [],
@@ -18023,7 +17780,7 @@
     },
     {
       "id": "22959",
-      "scrapetime": 1772847521162,
+      "scrapetime": 1773940838836,
       "title": "Venba",
       "image": "https://i.psnprofiles.com/games/9a97e6/L4e5de7.png",
       "url": "https://psnprofiles.com/trophies/22959-venba",
@@ -18043,8 +17800,8 @@
         "bronze": 1
       },
       "dlccount": 0,
-      "platinumpct": 74.18,
-      "completepct": 74.18,
+      "platinumpct": 74.98,
+      "completepct": 74.98,
       "timestamp": 1771286400000,
       "psplus": false,
       "tags": [],
@@ -18200,99 +17957,6 @@
       "note": ""
     },
     {
-      "id": "17765",
-      "scrapetime": 1771705776189,
-      "title": "Circus Electrique",
-      "image": "https://i.psnprofiles.com/games/859266/L86d7d2.png",
-      "url": "https://psnprofiles.com/trophies/17765-circus-electrique",
-      "points": 1350,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 3,
-        "silver": 5,
-        "bronze": 42
-      },
-      "dlccount": 0,
-      "platinumpct": 4.08,
-      "completepct": 4.08,
-      "timestamp": 1689638400000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "16719",
-      "scrapetime": 1771705924611,
-      "title": "Redout 2",
-      "image": "https://i.psnprofiles.com/games/96989b/L986159.png",
-      "url": "https://psnprofiles.com/trophies/16719-redout-2",
-      "points": 1275,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 1,
-        "silver": 8,
-        "bronze": 43
-      },
-      "dlccount": 0,
-      "platinumpct": 0.84,
-      "completepct": 0.84,
-      "timestamp": 1687219200000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "16717",
-      "scrapetime": 1771705926259,
-      "title": "Redout 2",
-      "image": "https://i.psnprofiles.com/games/6b076c/L911829.png",
-      "url": "https://psnprofiles.com/trophies/16717-redout-2",
-      "points": 1275,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 1,
-        "silver": 8,
-        "bronze": 43
-      },
-      "dlccount": 0,
-      "platinumpct": 0.67,
-      "completepct": 0.67,
-      "timestamp": 1687219200000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
       "id": "6921",
       "scrapetime": 1772634129543,
       "title": "A Hat in Time",
@@ -18410,7 +18074,7 @@
     },
     {
       "id": "29135",
-      "scrapetime": 1773251952967,
+      "scrapetime": 1773837754728,
       "title": "Warhammer 40,000: Space Marine 2",
       "image": "https://i.psnprofiles.com/games/319a9e/Ld1cfd2.png",
       "url": "https://psnprofiles.com/trophies/29135-warhammer-40000-space-marine-2",
@@ -18430,8 +18094,8 @@
         "bronze": 37
       },
       "dlccount": 0,
-      "platinumpct": 12.27,
-      "completepct": 12.27,
+      "platinumpct": 12.11,
+      "completepct": 12.11,
       "timestamp": 1773709200000,
       "psplus": false,
       "tags": [],
@@ -18700,5 +18364,5 @@
   ],
   "removeStartedGames": false,
   "id": "f895e4ec-79ea-4b66-8744-59e304fe7f17",
-  "url": ""
+  "url": "https://laulibrius.github.io/psnppgl/ps_extra_eu.json"
 }
