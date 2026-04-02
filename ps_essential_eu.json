@@ -9,8 +9,8 @@
   "orderBy": "timestamp",
   "direction": "descending",
   "removeGames": "never",
-  "note": "Last update: 11/03/2026",
-  "url": "",
+  "note": "Last update: 02/04/2026",
+  "url": "https://laulibrius.github.io/psnppgl/ps_essential_eu.json",
   "games": [
     {
       "id": "29885",
@@ -2078,7 +2078,7 @@
     },
     {
       "id": "12518",
-      "scrapetime": 1771618884033,
+      "scrapetime": 1774455204654,
       "title": "It Takes Two",
       "image": "https://i.psnprofiles.com/games/b536a2/L9768c5.png",
       "url": "https://psnprofiles.com/trophies/12518-it-takes-two",
@@ -2098,8 +2098,8 @@
         "bronze": 10
       },
       "dlccount": 0,
-      "platinumpct": 25.05,
-      "completepct": 25.05,
+      "platinumpct": 24.89,
+      "completepct": 24.89,
       "timestamp": 1733184000000,
       "psplus": false,
       "tags": [],
@@ -3947,7 +3947,7 @@
     },
     {
       "id": "20832",
-      "scrapetime": 1771621936587,
+      "scrapetime": 1773838424901,
       "title": "PowerWash Simulator",
       "image": "https://i.psnprofiles.com/games/a958a9/L378a65.png",
       "url": "https://psnprofiles.com/trophies/20832-powerwash-simulator",
@@ -3968,7 +3968,7 @@
       },
       "dlccount": 6,
       "platinumpct": 13.13,
-      "completepct": 2.91,
+      "completepct": 2.93,
       "timestamp": 1701734400000,
       "psplus": false,
       "tags": [],
@@ -9627,7 +9627,7 @@
     },
     {
       "id": "5347",
-      "scrapetime": 1771702700024,
+      "scrapetime": 1773838188924,
       "title": "Rise of the Tomb Raider",
       "image": "https://i.psnprofiles.com/games/719afb/La495b1.png",
       "url": "https://psnprofiles.com/trophies/5347-rise-of-the-tomb-raider",
@@ -9647,7 +9647,7 @@
         "bronze": 118
       },
       "dlccount": 5,
-      "platinumpct": 5.72,
+      "platinumpct": 5.71,
       "completepct": 1.76,
       "timestamp": 1594080000000,
       "psplus": false,
@@ -10238,7 +10238,7 @@
     },
     {
       "id": "8446",
-      "scrapetime": 1773073518392,
+      "scrapetime": 1773337124637,
       "title": "Darksiders III",
       "image": "https://i.psnprofiles.com/games/56e771/L973caf.png",
       "url": "https://psnprofiles.com/trophies/8446-darksiders-iii",
@@ -10258,7 +10258,7 @@
         "bronze": 36
       },
       "dlccount": 3,
-      "platinumpct": 10.35,
+      "platinumpct": 10.34,
       "completepct": 2.77,
       "timestamp": 1567468800000,
       "psplus": false,
@@ -17673,7 +17673,7 @@
     },
     {
       "id": "730",
-      "scrapetime": 1773176934575,
+      "scrapetime": 1773321892823,
       "title": "Mass Effect 2",
       "image": "https://i.psnprofiles.com/games/45a15d/La8ddd9.png",
       "url": "https://psnprofiles.com/trophies/730-mass-effect-2",
@@ -17693,8 +17693,8 @@
         "bronze": 50
       },
       "dlccount": 2,
-      "platinumpct": 9.9,
-      "completepct": 4.88,
+      "platinumpct": 9.91,
+      "completepct": 4.89,
       "timestamp": 1446508800000,
       "psplus": false,
       "tags": [],
@@ -22974,7 +22974,7 @@
     },
     {
       "id": "1126",
-      "scrapetime": 1772607517470,
+      "scrapetime": 1773838278618,
       "title": "Uncharted 3: Drake's Deception",
       "image": "https://i.psnprofiles.com/games/d0c13f/Lc57b10.png",
       "url": "https://psnprofiles.com/trophies/1126-uncharted-3-drakes-deception",
@@ -22994,7 +22994,7 @@
         "bronze": 78
       },
       "dlccount": 5,
-      "platinumpct": 8.97,
+      "platinumpct": 8.96,
       "completepct": 0.27,
       "timestamp": 1370995200000,
       "psplus": false,
@@ -23523,7 +23523,7 @@
     },
     {
       "id": "1292",
-      "scrapetime": 1773176757270,
+      "scrapetime": 1773321899868,
       "title": "Mass Effect 3",
       "image": "https://i.psnprofiles.com/games/15465a/L8b5e39.png",
       "url": "https://psnprofiles.com/trophies/1292-mass-effect-3",
@@ -23543,7 +23543,7 @@
         "bronze": 53
       },
       "dlccount": 4,
-      "platinumpct": 7.41,
+      "platinumpct": 7.42,
       "completepct": 2.14,
       "timestamp": 1362528000000,
       "psplus": false,
@@ -26956,6 +26956,180 @@
       "psplus": false,
       "tags": [],
       "note": "2026.03.03 > 2026.04.07"
+    },
+    {
+      "id": "24104",
+      "scrapetime": 1775063071850,
+      "title": "Lords of the Fallen",
+      "image": "https://i.psnprofiles.com/games/686935/Lb5af2d.png",
+      "url": "https://psnprofiles.com/trophies/24104-lords-of-the-fallen",
+      "points": 1590,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 0,
+        "silver": 10,
+        "bronze": 66
+      },
+      "dlccount": 2,
+      "platinumpct": 11.38,
+      "completepct": 1.42,
+      "timestamp": 1775084400000,
+      "psplus": false,
+      "tags": [],
+      "note": "2026.04.07 > 2026.05.05"
+    },
+    {
+      "id": "29759",
+      "scrapetime": 1775133178827,
+      "title": "Sword Art Online: Fractured Daydream",
+      "image": "https://i.psnprofiles.com/games/025117/L61a7d0.png",
+      "url": "https://psnprofiles.com/trophies/29759-sword-art-online-fractured-daydream",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 4,
+        "bronze": 44
+      },
+      "dlccount": 0,
+      "platinumpct": 10.07,
+      "completepct": 10.07,
+      "timestamp": 1775084400000,
+      "psplus": false,
+      "tags": [],
+      "note": "2026.04.07 > 2026.05.05"
+    },
+    {
+      "id": "25881",
+      "scrapetime": 1775133233783,
+      "title": "Tomb Raider I",
+      "image": "https://i.psnprofiles.com/games/5ddb4c/L344d42.png",
+      "url": "https://psnprofiles.com/trophies/25881-tomb-raider-i",
+      "points": 1815,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 0,
+        "silver": 2,
+        "bronze": 97
+      },
+      "dlccount": 3,
+      "platinumpct": 19.35,
+      "completepct": 12.43,
+      "timestamp": 1775084400000,
+      "psplus": false,
+      "tags": [],
+      "note": "2026.04.07 > 2026.05.05"
+    },
+    {
+      "id": "25882",
+      "scrapetime": 1775133235339,
+      "title": "Tomb Raider II",
+      "image": "https://i.psnprofiles.com/games/ea3617/Lcb8eec.png",
+      "url": "https://psnprofiles.com/trophies/25882-tomb-raider-ii",
+      "points": 1695,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 0,
+        "silver": 4,
+        "bronze": 85
+      },
+      "dlccount": 2,
+      "platinumpct": 14.61,
+      "completepct": 10.03,
+      "timestamp": 1775084400000,
+      "psplus": false,
+      "tags": [],
+      "note": "2026.04.07 > 2026.05.05"
+    },
+    {
+      "id": "25880",
+      "scrapetime": 1775133236586,
+      "title": "Tomb Raider III",
+      "image": "https://i.psnprofiles.com/games/600e8f/Lc5ec34.png",
+      "url": "https://psnprofiles.com/trophies/25880-tomb-raider-iii",
+      "points": 1890,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 0,
+        "silver": 10,
+        "bronze": 86
+      },
+      "dlccount": 4,
+      "platinumpct": 10.35,
+      "completepct": 2.28,
+      "timestamp": 1775084400000,
+      "psplus": false,
+      "tags": [],
+      "note": "2026.04.07 > 2026.05.05"
+    },
+    {
+      "id": "25883",
+      "scrapetime": 1775133239189,
+      "title": "Tomb Raider I-III Remastered",
+      "image": "https://i.psnprofiles.com/games/d76ea9/Laa6e86.png",
+      "url": "https://psnprofiles.com/trophies/25883-tomb-raider-i-iii-remastered",
+      "points": 4500,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 0,
+        "gold": 0,
+        "silver": 16,
+        "bronze": 268
+      },
+      "region": "EU",
+      "dlccount": 7,
+      "completepct": 0.58,
+      "timestamp": 1775084400000,
+      "psplus": false,
+      "tags": [],
+      "note": "2026.04.07 > 2026.05.05"
     }
   ],
   "removeStartedGames": false,

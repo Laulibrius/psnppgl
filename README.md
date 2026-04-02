@@ -17,7 +17,7 @@ Forum topics:
 > You can use a list, update it and make a pull request (or send it to me) to add it here!
 
 ### [PS+ Premium PS3 (EU)](ps_premium_ps3_eu.json)
-Original PS3 games only available for streaming (*209 unique*)  
+Original PS3 games only available for streaming (*221 unique*)  
 `Last Update: 08/03/2026`  
 
 <details>
@@ -59,7 +59,7 @@ Original PS3 games only available for streaming (*209 unique*)
 </details>
 
 ### [PS+ Premium PS4/PS5 (EU)](ps_premium_ps4ps5_eu.json)
-Classic games (original or remastered) on PS4/PS5, available for download and streaming (with a few exceptions) (*147 unique*)  
+Classic games (original or remastered) on PS4/PS5, available for download and streaming (with a few exceptions) (*145 unique*)  
 `Last Update: 08/03/2026`  
 > :label: PS1, PS2, PSP, PS3, VITA, Original, Remaster, Download Only, Streaming Only
 
@@ -99,12 +99,12 @@ Classic games (original or remastered) on PS4/PS5, available for download and st
 
 ### [PS+ Extra (EU)](ps_extra_eu.json)
 Games in PS+ Extra Catalogue (*459 unique*)  
-`Last Update: 20/03/2026`
+`Last Update: 02/04/2026`
 > :label: Leaving soon, Ubisoft+, Day one
 
 ### [PS+ Essential (EU)](ps_essential_eu.json)
-Monthly games & PS Collection (*788 unique*)  
-`Last Update: 11/03/2026`  
+Monthly games & PS Collection (*782 unique*)  
+`Last Update: 02/04/2026`  
 > :label: Collection, VR, Day one  
 
 <details>
