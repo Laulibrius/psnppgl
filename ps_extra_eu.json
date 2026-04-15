@@ -9,7 +9,7 @@
   "orderBy": "timestamp",
   "direction": "descending",
   "removeGames": "never",
-  "note": "Last update: 02/04/2026 / Leaving soon: 21/04/2026",
+  "note": "Last update: 15/04/2026 / Leaving soon: 21/04/2026",
   "games": [
     {
       "id": "25919",
@@ -3017,7 +3017,7 @@
     },
     {
       "id": "26853",
-      "scrapetime": 1771009340509,
+      "scrapetime": 1775835917473,
       "title": "Dave the Diver",
       "image": "https://i.psnprofiles.com/games/ebb0a7/L4a7142.png",
       "url": "https://psnprofiles.com/trophies/26853-dave-the-diver",
@@ -3037,8 +3037,8 @@
         "bronze": 26
       },
       "dlccount": 0,
-      "platinumpct": 23.47,
-      "completepct": 23.47,
+      "platinumpct": 23.52,
+      "completepct": 23.52,
       "timestamp": 1713225600000,
       "psplus": false,
       "tags": [
@@ -3515,7 +3515,7 @@
     },
     {
       "id": "11792",
-      "scrapetime": 1771009588171,
+      "scrapetime": 1776268682402,
       "title": "Demon's Souls",
       "image": "https://i.psnprofiles.com/games/54fddf/Le4464f.png",
       "url": "https://psnprofiles.com/trophies/11792-demons-souls",
@@ -3535,8 +3535,8 @@
         "bronze": 22
       },
       "dlccount": 0,
-      "platinumpct": 19.87,
-      "completepct": 19.87,
+      "platinumpct": 19.73,
+      "completepct": 19.73,
       "timestamp": 1655942400000,
       "psplus": false,
       "tags": [],
@@ -7455,7 +7455,7 @@
     },
     {
       "id": "32081",
-      "scrapetime": 1775022587580,
+      "scrapetime": 1776167676291,
       "title": "Lost Records: Bloom & Rage",
       "image": "https://i.psnprofiles.com/games/81966e/Lac266b.png",
       "url": "https://psnprofiles.com/trophies/32081-lost-records-bloom-rage",
@@ -7475,8 +7475,8 @@
         "bronze": 44
       },
       "dlccount": 0,
-      "platinumpct": 24.84,
-      "completepct": 24.84,
+      "platinumpct": 27.04,
+      "completepct": 27.04,
       "timestamp": 1739836800000,
       "psplus": false,
       "tags": [
@@ -9754,7 +9754,7 @@
     },
     {
       "id": "6118",
-      "scrapetime": 1771013200001,
+      "scrapetime": 1776268315009,
       "title": "Prey",
       "image": "https://i.psnprofiles.com/games/6fe5ef/L70bfcc.png",
       "url": "https://psnprofiles.com/trophies/6118-prey",
@@ -9774,7 +9774,7 @@
         "bronze": 45
       },
       "dlccount": 1,
-      "platinumpct": 5.06,
+      "platinumpct": 5.07,
       "completepct": 1.05,
       "timestamp": 1655942400000,
       "psplus": false,
@@ -11820,7 +11820,7 @@
     },
     {
       "id": "11017",
-      "scrapetime": 1771014092268,
+      "scrapetime": 1775844058118,
       "title": "Spitlings",
       "image": "https://i.psnprofiles.com/games/0a2968/L916ed4.png",
       "url": "https://psnprofiles.com/trophies/11017-spitlings",
@@ -11841,8 +11841,8 @@
       },
       "region": "EU",
       "dlccount": 0,
-      "platinumpct": 4.89,
-      "completepct": 4.89,
+      "platinumpct": 5.34,
+      "completepct": 5.34,
       "timestamp": 1655942400000,
       "psplus": false,
       "tags": [
@@ -14323,7 +14323,7 @@
     },
     {
       "id": "27631",
-      "scrapetime": 1771015525385,
+      "scrapetime": 1776268332523,
       "title": "V Rising",
       "image": "https://i.psnprofiles.com/games/b139ea/L167cd4.png",
       "url": "https://psnprofiles.com/trophies/27631-v-rising",
@@ -14343,8 +14343,8 @@
         "bronze": 32
       },
       "dlccount": 0,
-      "platinumpct": 15.16,
-      "completepct": 15.16,
+      "platinumpct": 15.17,
+      "completepct": 15.17,
       "timestamp": 1761004800000,
       "psplus": false,
       "tags": [],
@@ -17252,7 +17252,7 @@
     },
     {
       "id": "2621",
-      "scrapetime": 1771078366940,
+      "scrapetime": 1775647143041,
       "title": "Watch Dogs",
       "image": "https://i.psnprofiles.com/games/00a5ed/L5b7e92.png",
       "url": "https://psnprofiles.com/trophies/2621-watch-dogs",
@@ -17272,8 +17272,8 @@
         "bronze": 28
       },
       "dlccount": 1,
-      "platinumpct": 8.19,
-      "completepct": 1.76,
+      "platinumpct": 8.18,
+      "completepct": 1.77,
       "timestamp": 1716249600000,
       "psplus": false,
       "tags": [
@@ -17437,7 +17437,7 @@
     },
     {
       "id": "16889",
-      "scrapetime": 1771097359540,
+      "scrapetime": 1776100256358,
       "title": "Rabbids: Party of Legends",
       "image": "https://i.psnprofiles.com/games/2b7243/Lb6a2dc.png",
       "url": "https://psnprofiles.com/trophies/16889-rabbids-party-of-legends",
@@ -17457,7 +17457,7 @@
         "bronze": 7
       },
       "dlccount": 0,
-      "completepct": 13.42,
+      "completepct": 12.97,
       "timestamp": 1734393600000,
       "psplus": false,
       "tags": [
@@ -18084,7 +18084,7 @@
     },
     {
       "id": "29135",
-      "scrapetime": 1773837754728,
+      "scrapetime": 1776268086782,
       "title": "Warhammer 40,000: Space Marine 2",
       "image": "https://i.psnprofiles.com/games/319a9e/Ld1cfd2.png",
       "url": "https://psnprofiles.com/trophies/29135-warhammer-40000-space-marine-2",
@@ -18104,8 +18104,8 @@
         "bronze": 37
       },
       "dlccount": 0,
-      "platinumpct": 12.11,
-      "completepct": 12.11,
+      "platinumpct": 11.43,
+      "completepct": 11.43,
       "timestamp": 1773709200000,
       "psplus": false,
       "tags": [],
@@ -18367,6 +18367,300 @@
       "platinumpct": 3.97,
       "completepct": 2.32,
       "timestamp": 1773709200000,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "23657",
+      "scrapetime": 1776279716622,
+      "title": "The Crew Motorfest",
+      "image": "https://i.psnprofiles.com/games/2bb556/L3b29b3.png",
+      "url": "https://psnprofiles.com/trophies/23657-the-crew-motorfest",
+      "points": 1350,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 5,
+        "bronze": 42
+      },
+      "dlccount": 0,
+      "platinumpct": 12.59,
+      "completepct": 12.59,
+      "timestamp": 1776729600000,
+      "psplus": false,
+      "tags": [
+        "Ubisoft+"
+      ],
+      "note": ""
+    },
+    {
+      "id": "23634",
+      "scrapetime": 1776279718363,
+      "title": "The Crew Motorfest",
+      "image": "https://i.psnprofiles.com/games/439a1a/L40f565.png",
+      "url": "https://psnprofiles.com/trophies/23634-the-crew-motorfest",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 5,
+        "bronze": 42
+      },
+      "dlccount": 0,
+      "platinumpct": 15.35,
+      "completepct": 15.35,
+      "timestamp": 1776729600000,
+      "psplus": false,
+      "tags": [
+        "Ubisoft+"
+      ],
+      "note": ""
+    },
+    {
+      "id": "5879",
+      "scrapetime": 1776279764993,
+      "title": "Horizon Zero Dawn",
+      "image": "https://i.psnprofiles.com/games/1b7ae5/Lfad333.png",
+      "url": "https://psnprofiles.com/trophies/5879-horizon-zero-dawn",
+      "points": 1785,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 11,
+        "bronze": 65
+      },
+      "dlccount": 3,
+      "platinumpct": 26.62,
+      "completepct": 4.85,
+      "timestamp": 1776729600000,
+      "psplus": false,
+      "tags": [],
+      "note": "Complete Edition"
+    },
+    {
+      "id": "30188",
+      "scrapetime": 1776279766960,
+      "title": "Horizon Zero Dawn",
+      "image": "https://i.psnprofiles.com/games/802a2f/L162cd1.png",
+      "url": "https://psnprofiles.com/trophies/30188-horizon-zero-dawn",
+      "points": 1785,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": true
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 11,
+        "bronze": 65
+      },
+      "dlccount": 3,
+      "platinumpct": 31.46,
+      "completepct": 9.9,
+      "timestamp": 1776729600000,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "37959",
+      "scrapetime": 1776279973677,
+      "title": "Football Manager 26",
+      "image": "https://i.psnprofiles.com/games/3caf2b/Le02752.png",
+      "url": "https://psnprofiles.com/trophies/37959-football-manager-26",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 12,
+        "bronze": 28
+      },
+      "dlccount": 0,
+      "platinumpct": 7.5,
+      "completepct": 7.5,
+      "timestamp": 1776729600000,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "32014",
+      "scrapetime": 1776280008528,
+      "title": "Warriors: Abyss",
+      "image": "https://i.psnprofiles.com/games/847216/L1f157f.png",
+      "url": "https://psnprofiles.com/trophies/32014-warriors-abyss",
+      "points": 1290,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 4,
+        "silver": 12,
+        "bronze": 18
+      },
+      "dlccount": 0,
+      "platinumpct": 60.48,
+      "completepct": 60.48,
+      "timestamp": 1776729600000,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "32010",
+      "scrapetime": 1776280009496,
+      "title": "Warriors: Abyss",
+      "image": "https://i.psnprofiles.com/games/1f563f/Le866c0.png",
+      "url": "https://psnprofiles.com/trophies/32010-warriors-abyss",
+      "points": 1290,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 4,
+        "silver": 12,
+        "bronze": 18
+      },
+      "dlccount": 0,
+      "platinumpct": 37.42,
+      "completepct": 37.42,
+      "timestamp": 1776729600000,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "30006",
+      "scrapetime": 1776280056075,
+      "title": "Squirrel with a Gun",
+      "image": "https://i.psnprofiles.com/games/a6e27f/Le422e7.png",
+      "url": "https://psnprofiles.com/trophies/30006-squirrel-with-a-gun",
+      "points": 1290,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 8,
+        "silver": 7,
+        "bronze": 4
+      },
+      "dlccount": 0,
+      "platinumpct": 34.38,
+      "completepct": 34.38,
+      "timestamp": 1776729600000,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "29164",
+      "scrapetime": 1776280106543,
+      "title": "The Casting of Frank Stone",
+      "image": "https://i.psnprofiles.com/games/f090a6/Lf0b516.png",
+      "url": "https://psnprofiles.com/trophies/29164-the-casting-of-frank-stone",
+      "points": 1305,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 4,
+        "silver": 15,
+        "bronze": 13
+      },
+      "dlccount": 0,
+      "platinumpct": 13.92,
+      "completepct": 13.92,
+      "timestamp": 1776729600000,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "28469",
+      "scrapetime": 1776280191175,
+      "title": "Monster Train",
+      "image": "https://i.psnprofiles.com/games/189c2f/L4b67e1.png",
+      "url": "https://psnprofiles.com/trophies/28469-monster-train",
+      "points": 1290,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 1,
+        "silver": 9,
+        "bronze": 42
+      },
+      "dlccount": 0,
+      "platinumpct": 17.47,
+      "completepct": 17.47,
+      "timestamp": 1776729600000,
       "psplus": false,
       "tags": [],
       "note": ""
