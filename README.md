@@ -59,12 +59,12 @@ Original PS3 games only available for streaming (*221 unique*)
 </details>
 
 ### [PS+ Premium PS4/PS5 (EU)](ps_premium_ps4ps5_eu.json)
-Classic games (original or remastered) on PS4/PS5, available for download and streaming (with a few exceptions) (*145 unique*)  
-`Last Update: 15/04/2026`  
+Classic games (original or remastered) on PS4/PS5, available for download and streaming (with a few exceptions) (*146 unique*)  
+`Last Update: 28/04/2026`  
 > :label: PS1, PS2, PSP, PS3, VITA, Original, Remaster, Download Only, Streaming Only
 
 <details>
-<summary>Missing games (29)</summary>
+<summary>Missing games (28)</summary>
 
 - Armored Core (PS4/PS5) [Original, PS1] - 2025.03.18
 - Armored Core Master of Arena (PS4/PS5) [Original, PS1] - 2025.03.18
@@ -90,7 +90,6 @@ Classic games (original or remastered) on PS4/PS5, available for download and st
 - Tekken 6 (PS4/PS5) [Original, PSP] - 2023.10.17
 - Tekken Dark Resurrection [Original, PSP] - 2026.03.17
 - The Last of Us: Left Behind[^2] (PS4) [Remaster, PS3] - 2022.06.23
-- Wild Arms 4 (PS4/PS5) [Original, PS2] - 2026.04.21
 - Worms Armageddon (PS4/PS5) [Original, PS1] - 2022.06.23
 - Worms Pinball (PS4/PS5) [Original, PS1] - 2024.05.21
 - Worms (PS4/PS5) [Original, PS1] - 2023.06.20
@@ -99,8 +98,8 @@ Classic games (original or remastered) on PS4/PS5, available for download and st
 </details>
 
 ### [PS+ Extra (EU)](ps_extra_eu.json)
-Games in PS+ Extra Catalogue (*466 unique*)  
-`Last Update: 15/04/2026`
+Games in PS+ Extra Catalogue (*460 unique*)  
+`Last Update: 28/04/2026`
 > :label: Leaving soon, Ubisoft+, Day one
 
 ### [PS+ Essential (EU)](ps_essential_eu.json)
