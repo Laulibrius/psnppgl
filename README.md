@@ -103,8 +103,8 @@ Games in PS+ Extra Catalogue (*460 unique*)
 > :label: Leaving soon, Ubisoft+, Day one
 
 ### [PS+ Essential (EU)](ps_essential_eu.json)
-Monthly games & PS Collection (*782 unique*)  
-`Last Update: 02/04/2026`  
+Monthly games & PS Collection (*785 unique*)  
+`Last Update: 29/04/2026`  
 > :label: Collection, VR, Day one  
 
 <details>
