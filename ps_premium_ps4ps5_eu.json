@@ -15,7 +15,7 @@
   "orderBy": "alphabetical",
   "direction": "ascending",
   "removeGames": "never",
-  "note": "Last update: 28/04/2026",
+  "note": "Last update: 16/06/2026",
   "games": [
     {
       "id": "27405",
@@ -1072,7 +1072,7 @@
     },
     {
       "id": "3805",
-      "scrapetime": 1776518768402,
+      "scrapetime": 1779975844070,
       "title": "Dishonored",
       "image": "https://i.psnprofiles.com/games/5e4a68/L789d3a.png",
       "url": "https://psnprofiles.com/trophies/3805-dishonored",
@@ -1092,7 +1092,7 @@
         "bronze": 64
       },
       "dlccount": 3,
-      "platinumpct": 11.44,
+      "platinumpct": 11.45,
       "completepct": 0.95,
       "timestamp": 1681776000000,
       "psplus": false,
@@ -5851,7 +5851,7 @@
     },
     {
       "id": "2752",
-      "scrapetime": 1776521793649,
+      "scrapetime": 1781454942126,
       "title": "The Last of Us Remastered",
       "image": "https://i.psnprofiles.com/games/acbfe8/Lfd4cf0.png",
       "url": "https://psnprofiles.com/trophies/2752-the-last-of-us-remastered",
@@ -5871,7 +5871,7 @@
         "bronze": 22
       },
       "dlccount": 4,
-      "platinumpct": 4.7,
+      "platinumpct": 4.69,
       "completepct": 2.72,
       "timestamp": 1655942400000,
       "psplus": false,
@@ -6271,7 +6271,7 @@
     },
     {
       "id": "27705",
-      "scrapetime": 1772607284659,
+      "scrapetime": 1780766787167,
       "title": "Tomb Raider: Legend",
       "image": "https://i.psnprofiles.com/games/5854de/La31d81.png",
       "url": "https://psnprofiles.com/trophies/27705-tomb-raider-legend",
@@ -6291,8 +6291,8 @@
         "bronze": 24
       },
       "dlccount": 0,
-      "platinumpct": 25.57,
-      "completepct": 25.57,
+      "platinumpct": 25.21,
+      "completepct": 25.21,
       "timestamp": 1718064000000,
       "psplus": false,
       "tags": [
@@ -6655,7 +6655,7 @@
     },
     {
       "id": "3939",
-      "scrapetime": 1776522121394,
+      "scrapetime": 1780427277659,
       "title": "Uncharted 3: Drake's Deception Remastered",
       "image": "https://i.psnprofiles.com/games/888b56/L61c711.png",
       "url": "https://psnprofiles.com/trophies/3939-uncharted-3-drakes-deception-remastered",
@@ -6676,7 +6676,7 @@
       },
       "dlccount": 1,
       "platinumpct": 17.33,
-      "completepct": 3.1,
+      "completepct": 3.11,
       "timestamp": 1655942400000,
       "psplus": false,
       "tags": [
@@ -7441,6 +7441,66 @@
       "platinumpct": 2.37,
       "completepct": 2.37,
       "timestamp": 1776729600000,
+      "psplus": false,
+      "tags": [
+        "PS2",
+        "Original"
+      ],
+      "note": ""
+    },
+    {
+      "id": "42097",
+      "scrapetime": 1781616440412,
+      "title": "Gitaroo-Man",
+      "image": "https://i.psnprofiles.com/games/a7a432/Ld93c11.png",
+      "url": "https://psnprofiles.com/trophies/42097-gitaroo-man",
+      "points": 1350,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 8,
+        "silver": 10,
+        "bronze": 2
+      },
+      "dlccount": 0,
+      "timestamp": 1781568000000,
+      "psplus": false,
+      "tags": [
+        "PS2",
+        "Original"
+      ],
+      "note": ""
+    },
+    {
+      "id": "42098",
+      "scrapetime": 1781616441660,
+      "title": "Gitaroo-Man",
+      "image": "https://i.psnprofiles.com/games/e25908/L8442a7.png",
+      "url": "https://psnprofiles.com/trophies/42098-gitaroo-man",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 8,
+        "silver": 10,
+        "bronze": 2
+      },
+      "dlccount": 0,
+      "timestamp": 1781568000000,
       "psplus": false,
       "tags": [
         "PS2",
