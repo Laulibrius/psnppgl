@@ -9,7 +9,7 @@
   "orderBy": "timestamp",
   "direction": "descending",
   "removeGames": "never",
-  "note": "Last update: 16/06/2026 / Leaving soon: 21/07/2026",
+  "note": "Last update: 04/07/2026 / Leaving soon: 21/07/2026",
   "games": [
     {
       "id": "25919",
@@ -1408,9 +1408,7 @@
       "completepct": 7.76,
       "timestamp": 1655942400000,
       "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
+      "tags": [],
       "note": ""
     },
     {
@@ -2167,9 +2165,7 @@
       "completepct": 10.12,
       "timestamp": 1731974400000,
       "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
+      "tags": [],
       "note": ""
     },
     {
@@ -2198,9 +2194,7 @@
       "completepct": 7.21,
       "timestamp": 1731974400000,
       "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
+      "tags": [],
       "note": ""
     },
     {
@@ -8356,9 +8350,7 @@
       "completepct": 14.24,
       "timestamp": 1668470400000,
       "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
+      "tags": [],
       "note": ""
     },
     {
@@ -9904,7 +9896,7 @@
     },
     {
       "id": "29027",
-      "scrapetime": 1771013503626,
+      "scrapetime": 1781994009038,
       "title": "Risk of Rain 2",
       "image": "https://i.psnprofiles.com/games/a51970/L09d9e2.png",
       "url": "https://psnprofiles.com/trophies/29027-risk-of-rain-2",
@@ -9924,8 +9916,8 @@
         "bronze": 13
       },
       "dlccount": 3,
-      "platinumpct": 16.56,
-      "completepct": 1.25,
+      "platinumpct": 15.95,
+      "completepct": 1.6,
       "timestamp": 1752537600000,
       "psplus": false,
       "tags": [
@@ -10106,14 +10098,12 @@
       "completepct": 34.32,
       "timestamp": 1697500800000,
       "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
+      "tags": [],
       "note": ""
     },
     {
       "id": "14267",
-      "scrapetime": 1771013609142,
+      "scrapetime": 1782481302305,
       "title": "Röki",
       "image": "https://i.psnprofiles.com/games/ac2239/Led48af.png",
       "url": "https://psnprofiles.com/trophies/14267-röki",
@@ -10134,13 +10124,11 @@
       },
       "region": "EU",
       "dlccount": 0,
-      "platinumpct": 31.64,
-      "completepct": 31.64,
+      "platinumpct": 31.93,
+      "completepct": 31.93,
       "timestamp": 1697500800000,
       "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
+      "tags": [],
       "note": ""
     },
     {
@@ -11163,9 +11151,7 @@
       "completepct": 7.56,
       "timestamp": 1655942400000,
       "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
+      "tags": [],
       "note": ""
     },
     {
@@ -11579,7 +11565,7 @@
     },
     {
       "id": "19477",
-      "scrapetime": 1780600632754,
+      "scrapetime": 1782492354740,
       "title": "Syberia: The World Before",
       "image": "https://i.psnprofiles.com/games/bbdec0/L10d324.png",
       "url": "https://psnprofiles.com/trophies/19477-syberia-the-world-before",
@@ -11599,8 +11585,8 @@
         "bronze": 11
       },
       "dlccount": 0,
-      "platinumpct": 24.36,
-      "completepct": 24.36,
+      "platinumpct": 24.31,
+      "completepct": 24.31,
       "timestamp": 1742256000000,
       "psplus": false,
       "tags": [],
@@ -12241,7 +12227,9 @@
       "completepct": 1.44,
       "timestamp": 1721088000000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -12270,7 +12258,9 @@
       "completepct": 0.41,
       "timestamp": 1721088000000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -15472,7 +15462,7 @@
     },
     {
       "id": "11885",
-      "scrapetime": 1781445823867,
+      "scrapetime": 1782492592428,
       "title": "Immortals Fenyx Rising",
       "image": "https://i.psnprofiles.com/games/202247/Lb807a1.png",
       "url": "https://psnprofiles.com/trophies/11885-immortals-fenyx-rising",
@@ -15492,7 +15482,7 @@
         "bronze": 47
       },
       "dlccount": 3,
-      "platinumpct": 22.89,
+      "platinumpct": 22.86,
       "completepct": 3.57,
       "timestamp": 1679356800000,
       "psplus": false,
