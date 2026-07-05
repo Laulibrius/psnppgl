@@ -15,6 +15,8 @@ Forum topics:
 >
 > Other regions (NA, AS, JP...) have too many differences to make a unique list.  
 > You can use a list, update it and make a pull request (or send it to me) to add it here!
+>
+> Extra/Premium: Since June 2026, games are available on varying dates in some countries (UK, US, Japan). See [blog article](https://blog.playstation.com/2026/06/10/playstation-plus-game-catalog-for-june-final-fantasy-xvi-sonic-x-shadow-generations-kingdom-come-deliverance-and-more/)
 
 ### [PS+ Premium PS3 (EU)](ps_premium_ps3_eu.json)
 Original PS3 games only available for streaming (*221 unique*)  
@@ -99,7 +101,7 @@ Classic games (original or remastered) on PS4/PS5, available for download and st
 </details>
 
 ### [PS+ Extra (EU)](ps_extra_eu.json)
-Games in PS+ Extra Catalogue (*462 unique*)  
+Games in PS+ Extra Catalog (*462 unique*)  
 `Last Update: 04/07/2026`
 > :label: Leaving soon, Ubisoft+, Day one
 
