@@ -9,7 +9,7 @@
   "orderBy": "timestamp",
   "direction": "descending",
   "removeGames": "never",
-  "note": "Last update: 04/07/2026 / Leaving soon: 21/07/2026",
+  "note": "Last update: 17/07/2026 / Leaving soon: 21/07/2026",
   "games": [
     {
       "id": "25919",
@@ -6086,11 +6086,11 @@
     },
     {
       "id": "13267",
-      "scrapetime": 1771011346369,
+      "scrapetime": 1783606292706,
       "title": "Human Fall Flat",
       "image": "https://i.psnprofiles.com/games/88a81f/L75fdee.png",
       "url": "https://psnprofiles.com/trophies/13267-human-fall-flat",
-      "points": 2250,
+      "points": 2340,
       "platforms": {
         "ps5": true,
         "ps4": false,
@@ -6103,11 +6103,11 @@
         "platinum": 1,
         "gold": 1,
         "silver": 14,
-        "bronze": 96
+        "bronze": 102
       },
-      "dlccount": 20,
-      "platinumpct": 6.67,
-      "completepct": 0.98,
+      "dlccount": 22,
+      "platinumpct": 6.57,
+      "completepct": 0.38,
       "timestamp": 1655942400000,
       "psplus": false,
       "tags": [],
@@ -7424,7 +7424,7 @@
     },
     {
       "id": "11786",
-      "scrapetime": 1771012022116,
+      "scrapetime": 1783593360292,
       "title": "Marvel's Spider-Man Remastered",
       "image": "https://i.psnprofiles.com/games/ccad85/L8c23e0.png",
       "url": "https://psnprofiles.com/trophies/11786-marvels-spider-man-remastered",
@@ -7444,8 +7444,8 @@
         "bronze": 54
       },
       "dlccount": 5,
-      "platinumpct": 60.03,
-      "completepct": 20.03,
+      "platinumpct": 59.12,
+      "completepct": 19.49,
       "timestamp": 1755561600000,
       "psplus": false,
       "tags": [],
@@ -8471,7 +8471,7 @@
     },
     {
       "id": "11782",
-      "scrapetime": 1771012742426,
+      "scrapetime": 1783606278446,
       "title": "Overcooked! All You Can Eat",
       "image": "https://i.psnprofiles.com/games/134291/Ld4d82c.png",
       "url": "https://psnprofiles.com/trophies/11782-overcooked-all-you-can-eat",
@@ -8491,8 +8491,8 @@
         "bronze": 28
       },
       "dlccount": 0,
-      "platinumpct": 11.03,
-      "completepct": 11.03,
+      "platinumpct": 10.71,
+      "completepct": 10.71,
       "timestamp": 1731974400000,
       "psplus": false,
       "tags": [],
@@ -10630,7 +10630,7 @@
     },
     {
       "id": "8161",
-      "scrapetime": 1781446394115,
+      "scrapetime": 1783593362839,
       "title": "Shadow of the Tomb Raider",
       "image": "https://i.psnprofiles.com/games/1d3181/Lfd929b.png",
       "url": "https://psnprofiles.com/trophies/8161-shadow-of-the-tomb-raider",
@@ -10650,7 +10650,7 @@
         "bronze": 82
       },
       "dlccount": 7,
-      "platinumpct": 9.87,
+      "platinumpct": 9.85,
       "completepct": 2.72,
       "timestamp": 1684195200000,
       "psplus": false,
@@ -12498,7 +12498,7 @@
     },
     {
       "id": "12189",
-      "scrapetime": 1773838604211,
+      "scrapetime": 1783862303988,
       "title": "The Pedestrian",
       "image": "https://i.psnprofiles.com/games/e944c6/L182a85.png",
       "url": "https://psnprofiles.com/trophies/12189-the-pedestrian",
@@ -12518,7 +12518,7 @@
         "bronze": 4
       },
       "dlccount": 0,
-      "completepct": 39.87,
+      "completepct": 39.12,
       "timestamp": 1671494400000,
       "psplus": false,
       "tags": [],
@@ -16416,7 +16416,7 @@
     },
     {
       "id": "2621",
-      "scrapetime": 1781014284177,
+      "scrapetime": 1783593534476,
       "title": "Watch Dogs",
       "image": "https://i.psnprofiles.com/games/00a5ed/L5b7e92.png",
       "url": "https://psnprofiles.com/trophies/2621-watch-dogs",
@@ -16437,7 +16437,7 @@
       },
       "dlccount": 1,
       "platinumpct": 8.17,
-      "completepct": 1.77,
+      "completepct": 1.78,
       "timestamp": 1716249600000,
       "psplus": false,
       "tags": [
@@ -17599,7 +17599,7 @@
     },
     {
       "id": "5879",
-      "scrapetime": 1781445742939,
+      "scrapetime": 1783593357306,
       "title": "Horizon Zero Dawn",
       "image": "https://i.psnprofiles.com/games/1b7ae5/Lfad333.png",
       "url": "https://psnprofiles.com/trophies/5879-horizon-zero-dawn",
@@ -17619,8 +17619,8 @@
         "bronze": 65
       },
       "dlccount": 3,
-      "platinumpct": 26.56,
-      "completepct": 4.84,
+      "platinumpct": 26.53,
+      "completepct": 4.85,
       "timestamp": 1776729600000,
       "psplus": false,
       "tags": [],
@@ -18353,6 +18353,240 @@
       "psplus": false,
       "tags": [],
       "note": "Standard Edition\nUK: 30/06/2026"
+    },
+    {
+      "id": "24926",
+      "scrapetime": 1784146201006,
+      "title": "Avatar: Frontiers of Pandora",
+      "image": "https://i.psnprofiles.com/games/ef4ee9/L3e114f.png",
+      "url": "https://psnprofiles.com/trophies/24926-avatar-frontiers-of-pandora",
+      "points": 1845,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 6,
+        "silver": 21,
+        "bronze": 25
+      },
+      "dlccount": 3,
+      "platinumpct": 17.76,
+      "completepct": 1.59,
+      "timestamp": 1784588400000,
+      "psplus": false,
+      "tags": [
+        "Ubisoft+"
+      ],
+      "note": ""
+    },
+    {
+      "id": "26442",
+      "scrapetime": 1784146275701,
+      "title": "Rise of the Ronin",
+      "image": "https://i.psnprofiles.com/games/2f3a77/Lec7edc.png",
+      "url": "https://psnprofiles.com/trophies/26442-rise-of-the-ronin",
+      "points": 1335,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 9,
+        "bronze": 39
+      },
+      "dlccount": 0,
+      "platinumpct": 33.41,
+      "completepct": 33.41,
+      "timestamp": 1784584800000,
+      "psplus": false,
+      "tags": [],
+      "note": "UK: 15/07/2026"
+    },
+    {
+      "id": "36324",
+      "scrapetime": 1784146375548,
+      "title": "Firefighting Simulator: Ignite",
+      "image": "https://i.psnprofiles.com/games/c7d220/L6c641b.png",
+      "url": "https://psnprofiles.com/trophies/36324-firefighting-simulator-ignite",
+      "points": 1620,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 4,
+        "silver": 10,
+        "bronze": 44
+      },
+      "dlccount": 2,
+      "platinumpct": 14.8,
+      "completepct": 5.11,
+      "timestamp": 1784588400000,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "31070",
+      "scrapetime": 1784146413141,
+      "title": "Mighty Morphin Power Rangers: Rita's Rewind",
+      "image": "https://i.psnprofiles.com/games/beaab6/L966765.png",
+      "url": "https://psnprofiles.com/trophies/31070-mighty-morphin-power-rangers-ritas-rewind",
+      "points": 1320,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 5,
+        "silver": 12,
+        "bronze": 14
+      },
+      "dlccount": 0,
+      "platinumpct": 32.9,
+      "completepct": 32.9,
+      "timestamp": 1784595600000,
+      "psplus": false,
+      "tags": [],
+      "note": "UK: 28/07/2026"
+    },
+    {
+      "id": "31082",
+      "scrapetime": 1784146415437,
+      "title": "Mighty Morphin Power Rangers: Rita's Rewind",
+      "image": "https://i.psnprofiles.com/games/574db8/L9c6480.png",
+      "url": "https://psnprofiles.com/trophies/31082-mighty-morphin-power-rangers-ritas-rewind",
+      "points": 1320,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 5,
+        "silver": 12,
+        "bronze": 14
+      },
+      "dlccount": 0,
+      "platinumpct": 23.7,
+      "completepct": 23.7,
+      "timestamp": 1784595600000,
+      "psplus": false,
+      "tags": [],
+      "note": "UK: 28/07/2026"
+    },
+    {
+      "id": "3303",
+      "scrapetime": 1784146496253,
+      "title": "Dying Light",
+      "image": "https://i.psnprofiles.com/games/0ba6dd/La24a2c.png",
+      "url": "https://psnprofiles.com/trophies/3303-dying-light",
+      "points": 1770,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 15,
+        "bronze": 50
+      },
+      "dlccount": 3,
+      "platinumpct": 6.34,
+      "completepct": 0.83,
+      "timestamp": 1784595600000,
+      "psplus": false,
+      "tags": [],
+      "note": "UK: 28/07/2026"
+    },
+    {
+      "id": "31764",
+      "scrapetime": 1784146551672,
+      "title": "Citizen Sleeper 2: Starward Vector",
+      "image": "https://i.psnprofiles.com/games/70eb89/Lfccf2c.png",
+      "url": "https://psnprofiles.com/trophies/31764-citizen-sleeper-2-starward-vector",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 6,
+        "silver": 10,
+        "bronze": 14
+      },
+      "dlccount": 0,
+      "platinumpct": 16.93,
+      "completepct": 16.93,
+      "timestamp": 1784595600000,
+      "psplus": false,
+      "tags": [],
+      "note": "UK: 28/07/2026"
+    },
+    {
+      "id": "30779",
+      "scrapetime": 1784146634462,
+      "title": "Snow Bros. Wonderland",
+      "image": "https://i.psnprofiles.com/games/b6a8c4/Lb502a7.png",
+      "url": "https://psnprofiles.com/trophies/30779-snow-bros-wonderland",
+      "points": 1260,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 5,
+        "silver": 10,
+        "bronze": 14
+      },
+      "dlccount": 0,
+      "platinumpct": 7.18,
+      "completepct": 7.18,
+      "timestamp": 1784595600000,
+      "psplus": false,
+      "tags": [],
+      "note": "UK: 28/07/2026"
     }
   ],
   "removeStartedGames": false,
