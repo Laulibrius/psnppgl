@@ -9,7 +9,7 @@
   "orderBy": "timestamp",
   "direction": "descending",
   "removeGames": "never",
-  "note": "Last update: 17/07/2026 / Leaving soon: 21/07/2026",
+  "note": "Last update: 21/07/2026 / Leaving soon: 18/08/2026",
   "games": [
     {
       "id": "25919",
@@ -1408,7 +1408,9 @@
       "completepct": 7.76,
       "timestamp": 1655942400000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -2165,7 +2167,9 @@
       "completepct": 10.12,
       "timestamp": 1731974400000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -2194,7 +2198,9 @@
       "completepct": 7.21,
       "timestamp": 1731974400000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -2721,69 +2727,6 @@
       "note": ""
     },
     {
-      "id": "17419",
-      "scrapetime": 1771009253796,
-      "title": "Cursed to Golf",
-      "image": "https://i.psnprofiles.com/games/4ab3c5/L47ffb2.png",
-      "url": "https://psnprofiles.com/trophies/17419-cursed-to-golf",
-      "points": 1320,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 11,
-        "silver": 0,
-        "bronze": 2
-      },
-      "dlccount": 0,
-      "platinumpct": 7.52,
-      "completepct": 7.52,
-      "timestamp": 1692057600000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "17414",
-      "scrapetime": 1771009255963,
-      "title": "Cursed to Golf",
-      "image": "https://i.psnprofiles.com/games/59f68f/Lcce23c.png",
-      "url": "https://psnprofiles.com/trophies/17414-cursed-to-golf",
-      "points": 1320,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 11,
-        "silver": 0,
-        "bronze": 2
-      },
-      "region": "EU",
-      "dlccount": 0,
-      "platinumpct": 5.84,
-      "completepct": 5.84,
-      "timestamp": 1692057600000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
       "id": "11981",
       "scrapetime": 1781444939166,
       "title": "Cyberpunk 2077",
@@ -3101,7 +3044,9 @@
       "completepct": 4.54,
       "timestamp": 1728950400000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -3130,7 +3075,9 @@
       "completepct": 3.09,
       "timestamp": 1728950400000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -4034,7 +3981,9 @@
       "completepct": 8.1,
       "timestamp": 1755561600000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -4064,7 +4013,9 @@
       "completepct": 2.34,
       "timestamp": 1755561600000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -5093,37 +5044,6 @@
       "note": ""
     },
     {
-      "id": "6190",
-      "scrapetime": 1771010723732,
-      "title": "Get Even",
-      "image": "https://i.psnprofiles.com/games/6b815c/L8634c2.png",
-      "url": "https://psnprofiles.com/trophies/6190-get-even",
-      "points": 1320,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 4,
-        "silver": 8,
-        "bronze": 28
-      },
-      "dlccount": 0,
-      "platinumpct": 10.39,
-      "completepct": 10.39,
-      "timestamp": 1655942400000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
       "id": "11090",
       "scrapetime": 1776519219847,
       "title": "Ghost of Tsushima",
@@ -5759,7 +5679,9 @@
       "completepct": 23.16,
       "timestamp": 1755561600000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -6227,68 +6149,6 @@
       "timestamp": 1747699200000,
       "psplus": false,
       "tags": [],
-      "note": ""
-    },
-    {
-      "id": "15774",
-      "scrapetime": 1771011380309,
-      "title": "Hundred Days",
-      "image": "https://i.psnprofiles.com/games/0e49d7/L879845.png",
-      "url": "https://psnprofiles.com/trophies/15774-hundred-days",
-      "points": 1350,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 5,
-        "silver": 14,
-        "bronze": 12
-      },
-      "dlccount": 0,
-      "platinumpct": 4.04,
-      "completepct": 4.04,
-      "timestamp": 1687219200000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "15756",
-      "scrapetime": 1771011381346,
-      "title": "Hundred Days",
-      "image": "https://i.psnprofiles.com/games/d3a92c/L427cfc.png",
-      "url": "https://psnprofiles.com/trophies/15756-hundred-days",
-      "points": 1350,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 5,
-        "silver": 14,
-        "bronze": 12
-      },
-      "dlccount": 0,
-      "platinumpct": 3.04,
-      "completepct": 3.04,
-      "timestamp": 1687219200000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
       "note": ""
     },
     {
@@ -8350,7 +8210,9 @@
       "completepct": 14.24,
       "timestamp": 1668470400000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -9864,68 +9726,6 @@
       "note": ""
     },
     {
-      "id": "9578",
-      "scrapetime": 1771013502477,
-      "title": "Risk of Rain 2",
-      "image": "https://i.psnprofiles.com/games/60b9f4/Lb82748.png",
-      "url": "https://psnprofiles.com/trophies/9578-risk-of-rain-2",
-      "points": 1575,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 3,
-        "silver": 27,
-        "bronze": 13
-      },
-      "dlccount": 3,
-      "platinumpct": 16.57,
-      "completepct": 0.26,
-      "timestamp": 1752537600000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "29027",
-      "scrapetime": 1781994009038,
-      "title": "Risk of Rain 2",
-      "image": "https://i.psnprofiles.com/games/a51970/L09d9e2.png",
-      "url": "https://psnprofiles.com/trophies/29027-risk-of-rain-2",
-      "points": 1575,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 3,
-        "silver": 27,
-        "bronze": 13
-      },
-      "dlccount": 3,
-      "platinumpct": 15.95,
-      "completepct": 1.6,
-      "timestamp": 1752537600000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
       "id": "16214",
       "scrapetime": 1771013525830,
       "title": "Rogue Lords",
@@ -10098,7 +9898,9 @@
       "completepct": 34.32,
       "timestamp": 1697500800000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -10128,7 +9930,9 @@
       "completepct": 31.93,
       "timestamp": 1697500800000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -11062,70 +10866,6 @@
       "note": ""
     },
     {
-      "id": "16345",
-      "scrapetime": 1771014035663,
-      "title": "Source of Madness",
-      "image": "https://i.psnprofiles.com/games/fbee20/Lf2c8fd.png",
-      "url": "https://psnprofiles.com/trophies/16345-source-of-madness",
-      "points": 1260,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 6,
-        "silver": 10,
-        "bronze": 8
-      },
-      "region": "EU",
-      "dlccount": 0,
-      "platinumpct": 5.99,
-      "completepct": 5.99,
-      "timestamp": 1692057600000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "16174",
-      "scrapetime": 1771014037184,
-      "title": "Source of Madness",
-      "image": "https://i.psnprofiles.com/games/32e8f2/L3dcb0e.png",
-      "url": "https://psnprofiles.com/trophies/16174-source-of-madness",
-      "points": 1260,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 6,
-        "silver": 10,
-        "bronze": 8
-      },
-      "region": "EU",
-      "dlccount": 0,
-      "platinumpct": 3.53,
-      "completepct": 3.53,
-      "timestamp": 1692057600000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
       "id": "11519",
       "scrapetime": 1771014051996,
       "title": "Space Crew",
@@ -11151,7 +10891,9 @@
       "completepct": 7.56,
       "timestamp": 1655942400000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -12202,68 +11944,6 @@
       "note": ""
     },
     {
-      "id": "19072",
-      "scrapetime": 1771014629236,
-      "title": "The Jackbox Party Pack 9",
-      "image": "https://i.psnprofiles.com/games/6d8739/L048dd4.png",
-      "url": "https://psnprofiles.com/trophies/19072-the-jackbox-party-pack-9",
-      "points": 300,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 0,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 20
-      },
-      "region": "EU",
-      "dlccount": 0,
-      "completepct": 1.44,
-      "timestamp": 1721088000000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "18858",
-      "scrapetime": 1771014632462,
-      "title": "The Jackbox Party Pack 9",
-      "image": "https://i.psnprofiles.com/games/c7f1d0/L7b6d52.png",
-      "url": "https://psnprofiles.com/trophies/18858-the-jackbox-party-pack-9",
-      "points": 300,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 0,
-        "gold": 0,
-        "silver": 0,
-        "bronze": 20
-      },
-      "region": "EU",
-      "dlccount": 0,
-      "completepct": 0.41,
-      "timestamp": 1721088000000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
       "id": "5657",
       "scrapetime": 1779976372144,
       "title": "The Last Guardian",
@@ -13135,69 +12815,6 @@
       "note": ""
     },
     {
-      "id": "9688",
-      "scrapetime": 1771015338201,
-      "title": "Tropico 6",
-      "image": "https://i.psnprofiles.com/games/3c1b0e/L009179.png",
-      "url": "https://psnprofiles.com/trophies/9688-tropico-6",
-      "points": 1290,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 2,
-        "silver": 16,
-        "bronze": 22
-      },
-      "dlccount": 0,
-      "platinumpct": 6.43,
-      "completepct": 6.43,
-      "timestamp": 1752537600000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "15668",
-      "scrapetime": 1771015341463,
-      "title": "Tropico 6",
-      "image": "https://i.psnprofiles.com/games/e237bd/L8214cf.png",
-      "url": "https://psnprofiles.com/trophies/15668-tropico-6",
-      "points": 1290,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 2,
-        "silver": 16,
-        "bronze": 22
-      },
-      "region": "EU",
-      "dlccount": 0,
-      "platinumpct": 4.01,
-      "completepct": 4.01,
-      "timestamp": 1752537600000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
       "id": "17438",
       "scrapetime": 1771015360885,
       "title": "Two Point Campus",
@@ -13455,7 +13072,9 @@
       "completepct": 53.57,
       "timestamp": 1755561600000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -13484,7 +13103,9 @@
       "completepct": 43.47,
       "timestamp": 1755561600000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {

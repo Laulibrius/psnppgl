@@ -15,7 +15,7 @@
   "orderBy": "alphabetical",
   "direction": "ascending",
   "removeGames": "never",
-  "note": "Last update: 16/06/2026",
+  "note": "Last update: 21/07/2026",
   "games": [
     {
       "id": "27405",
@@ -7450,7 +7450,7 @@
     },
     {
       "id": "42097",
-      "scrapetime": 1781616440412,
+      "scrapetime": 1781638188420,
       "title": "Gitaroo-Man",
       "image": "https://i.psnprofiles.com/games/a7a432/Ld93c11.png",
       "url": "https://psnprofiles.com/trophies/42097-gitaroo-man",
@@ -7480,7 +7480,7 @@
     },
     {
       "id": "42098",
-      "scrapetime": 1781616441660,
+      "scrapetime": 1781638360542,
       "title": "Gitaroo-Man",
       "image": "https://i.psnprofiles.com/games/e25908/L8442a7.png",
       "url": "https://psnprofiles.com/trophies/42098-gitaroo-man",
@@ -7501,6 +7501,99 @@
       },
       "dlccount": 0,
       "timestamp": 1781568000000,
+      "psplus": false,
+      "tags": [
+        "PS2",
+        "Original"
+      ],
+      "note": ""
+    },
+    {
+      "id": "5131",
+      "scrapetime": 1784646897093,
+      "title": "Indigo Prophecy",
+      "image": "https://i.psnprofiles.com/games/9ab350/L247929.png",
+      "url": "https://psnprofiles.com/trophies/5131-indigo-prophecy",
+      "points": 1260,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 6,
+        "bronze": 40
+      },
+      "dlccount": 0,
+      "platinumpct": 11.05,
+      "completepct": 11.05,
+      "timestamp": 1784620800000,
+      "psplus": false,
+      "tags": [
+        "PS2",
+        "Original",
+        "Download only"
+      ],
+      "note": ""
+    },
+    {
+      "id": "42392",
+      "scrapetime": 1784646950174,
+      "title": "Psi-Ops: The Mindgate Conspiracy",
+      "image": "https://i.psnprofiles.com/games/4704a3/L230be9.png",
+      "url": "https://psnprofiles.com/trophies/42392-psi-ops-the-mindgate-conspiracy",
+      "points": 1350,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 8,
+        "silver": 11,
+        "bronze": 0
+      },
+      "dlccount": 0,
+      "timestamp": 1784620800000,
+      "psplus": false,
+      "tags": [
+        "PS2",
+        "Original"
+      ],
+      "note": ""
+    },
+    {
+      "id": "42397",
+      "scrapetime": 1784646952179,
+      "title": "Psi-Ops: The Mindgate Conspiracy",
+      "image": "https://i.psnprofiles.com/games/d63eec/Lb8f155.png",
+      "url": "https://psnprofiles.com/trophies/42397-psi-ops-the-mindgate-conspiracy",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 8,
+        "silver": 11,
+        "bronze": 0
+      },
+      "dlccount": 0,
+      "timestamp": 1784620800000,
       "psplus": false,
       "tags": [
         "PS2",
