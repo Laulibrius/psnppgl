@@ -9,7 +9,7 @@
   "orderBy": "timestamp",
   "direction": "descending",
   "removeGames": "never",
-  "note": "Last update: 04/07/2026",
+  "note": "Last update: 29/07/2026",
   "url": "https://laulibrius.github.io/psnppgl/ps_essential_eu.json",
   "games": [
     {
@@ -857,7 +857,7 @@
     },
     {
       "id": "22849",
-      "scrapetime": 1771616658795,
+      "scrapetime": 1784824665396,
       "title": "Viewfinder",
       "image": "https://i.psnprofiles.com/games/a5cbbe/L96a7d2.png",
       "url": "https://psnprofiles.com/trophies/22849-viewfinder",
@@ -878,8 +878,8 @@
       },
       "region": "EU",
       "dlccount": 0,
-      "platinumpct": 46.4,
-      "completepct": 46.4,
+      "platinumpct": 45.43,
+      "completepct": 45.43,
       "timestamp": 1756771200000,
       "psplus": false,
       "tags": [],
@@ -1467,7 +1467,7 @@
     },
     {
       "id": "25891",
-      "scrapetime": 1771618122228,
+      "scrapetime": 1783606334328,
       "title": "Balatro",
       "image": "https://i.psnprofiles.com/games/c62972/Lf81419.png",
       "url": "https://psnprofiles.com/trophies/25891-balatro",
@@ -1487,8 +1487,8 @@
         "bronze": 18
       },
       "dlccount": 0,
-      "platinumpct": 1.97,
-      "completepct": 1.97,
+      "platinumpct": 2.18,
+      "completepct": 2.18,
       "timestamp": 1746489600000,
       "psplus": false,
       "tags": [],
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "24295",
-      "scrapetime": 1771618249992,
+      "scrapetime": 1784824700447,
       "title": "RoboCop: Rogue City",
       "image": "https://i.psnprofiles.com/games/fe0ba2/L32fe3b.png",
       "url": "https://psnprofiles.com/trophies/24295-robocop-rogue-city",
@@ -1572,8 +1572,8 @@
         "bronze": 11
       },
       "dlccount": 0,
-      "platinumpct": 41.24,
-      "completepct": 41.24,
+      "platinumpct": 39.99,
+      "completepct": 39.99,
       "timestamp": 1743465600000,
       "psplus": false,
       "tags": [],
@@ -3537,7 +3537,7 @@
     },
     {
       "id": "19729",
-      "scrapetime": 1781121598449,
+      "scrapetime": 1784824769891,
       "title": "Hello Neighbor 2",
       "image": "https://i.psnprofiles.com/games/ef5e97/L8639e0.png",
       "url": "https://psnprofiles.com/trophies/19729-hello-neighbor-2",
@@ -3557,8 +3557,8 @@
         "bronze": 1
       },
       "dlccount": 0,
-      "platinumpct": 36.14,
-      "completepct": 36.14,
+      "platinumpct": 36,
+      "completepct": 36,
       "timestamp": 1709596800000,
       "psplus": false,
       "tags": [],
@@ -4646,7 +4646,7 @@
     },
     {
       "id": "14122",
-      "scrapetime": 1779299703577,
+      "scrapetime": 1783593449194,
       "title": "Alan Wake",
       "image": "https://i.psnprofiles.com/games/1c0856/Ld5ad69.png",
       "url": "https://psnprofiles.com/trophies/14122-alan-wake",
@@ -4668,7 +4668,7 @@
       "region": "EU",
       "dlccount": 2,
       "platinumpct": 13.35,
-      "completepct": 6.48,
+      "completepct": 6.47,
       "timestamp": 1688428800000,
       "psplus": false,
       "tags": [],
@@ -6989,7 +6989,7 @@
     },
     {
       "id": "9128",
-      "scrapetime": 1771625368818,
+      "scrapetime": 1783606027513,
       "title": "Team Sonic Racing",
       "image": "https://i.psnprofiles.com/games/1ed4c1/L120ddd.png",
       "url": "https://psnprofiles.com/trophies/9128-team-sonic-racing",
@@ -7009,8 +7009,8 @@
         "bronze": 40
       },
       "dlccount": 0,
-      "platinumpct": 2.26,
-      "completepct": 2.26,
+      "platinumpct": 2.22,
+      "completepct": 2.22,
       "timestamp": 1646092800000,
       "psplus": false,
       "tags": [],
@@ -7722,7 +7722,7 @@
     },
     {
       "id": "11782",
-      "scrapetime": 1771693964962,
+      "scrapetime": 1783606278446,
       "title": "Overcooked! All You Can Eat",
       "image": "https://i.psnprofiles.com/games/134291/Ld4d82c.png",
       "url": "https://psnprofiles.com/trophies/11782-overcooked-all-you-can-eat",
@@ -7742,8 +7742,8 @@
         "bronze": 28
       },
       "dlccount": 0,
-      "platinumpct": 11,
-      "completepct": 11,
+      "platinumpct": 10.71,
+      "completepct": 10.71,
       "timestamp": 1630972800000,
       "psplus": false,
       "tags": [],
@@ -8539,7 +8539,7 @@
     },
     {
       "id": "8161",
-      "scrapetime": 1781446394115,
+      "scrapetime": 1783593362839,
       "title": "Shadow of the Tomb Raider",
       "image": "https://i.psnprofiles.com/games/1d3181/Lfd929b.png",
       "url": "https://psnprofiles.com/trophies/8161-shadow-of-the-tomb-raider",
@@ -8559,7 +8559,7 @@
         "bronze": 82
       },
       "dlccount": 7,
-      "platinumpct": 9.87,
+      "platinumpct": 9.85,
       "completepct": 2.72,
       "timestamp": 1609804800000,
       "psplus": false,
@@ -9947,7 +9947,7 @@
     },
     {
       "id": "5286",
-      "scrapetime": 1779028160240,
+      "scrapetime": 1783593491009,
       "title": "BioShock 2",
       "image": "https://i.psnprofiles.com/games/055386/L6a52c8.png",
       "url": "https://psnprofiles.com/trophies/5286-bioshock-2",
@@ -9967,8 +9967,8 @@
         "bronze": 32
       },
       "dlccount": 2,
-      "platinumpct": 18.12,
-      "completepct": 6.58,
+      "platinumpct": 18.14,
+      "completepct": 6.59,
       "timestamp": 1580774400000,
       "psplus": false,
       "tags": [],
@@ -10237,9 +10237,9 @@
     },
     {
       "id": "8446",
-      "scrapetime": 1781445031308,
+      "scrapetime": 1785335736680,
       "title": "Darksiders III",
-      "image": "https://i.psnprofiles.com/games/56e771/L973caf.png",
+      "image": "https://img.psnprofiles.com/game/l/8446/a9345805-cda3-4d9c-a237-0351dde823b4.png",
       "url": "https://psnprofiles.com/trophies/8446-darksiders-iii",
       "points": 1830,
       "platforms": {
@@ -10257,7 +10257,7 @@
         "bronze": 36
       },
       "dlccount": 3,
-      "platinumpct": 10.31,
+      "platinumpct": 10.28,
       "completepct": 2.77,
       "timestamp": 1567468800000,
       "psplus": false,
@@ -12309,9 +12309,9 @@
     },
     {
       "id": "2434",
-      "scrapetime": 1771777238567,
+      "scrapetime": 1785335722159,
       "title": "Rayman Legends",
-      "image": "https://i.psnprofiles.com/games/7ce5f7/Ldaa4fc.png",
+      "image": "https://img.psnprofiles.com/game/l/2434/86e09f08-8b86-4d04-a878-01c9bf7367ed.png",
       "url": "https://psnprofiles.com/trophies/2434-rayman-legends",
       "points": 1350,
       "platforms": {
@@ -12329,8 +12329,8 @@
         "bronze": 38
       },
       "dlccount": 0,
-      "platinumpct": 3.83,
-      "completepct": 3.83,
+      "platinumpct": 3.82,
+      "completepct": 3.82,
       "timestamp": 1525132800000,
       "psplus": false,
       "tags": [],
@@ -15066,7 +15066,7 @@
     },
     {
       "id": "3127",
-      "scrapetime": 1781450407113,
+      "scrapetime": 1783606017601,
       "title": "LittleBigPlanet 3",
       "image": "https://i.psnprofiles.com/games/043a0e/Ld37870.png",
       "url": "https://psnprofiles.com/trophies/3127-littlebigplanet-3",
@@ -18472,7 +18472,7 @@
     },
     {
       "id": "2972",
-      "scrapetime": 1783169087503,
+      "scrapetime": 1783605159122,
       "title": "Styx: Master of Shadows",
       "image": "https://i.psnprofiles.com/games/488de2/Lbd2508.png",
       "url": "https://psnprofiles.com/trophies/2972-styx-master-of-shadows",
@@ -27447,7 +27447,7 @@
       "timestamp": 1783378800000,
       "psplus": false,
       "tags": [],
-      "note": "2026.07.07 > 2026.08.03"
+      "note": "2026.07.07 > 2026.08.04"
     },
     {
       "id": "35531",
@@ -27477,7 +27477,7 @@
       "timestamp": 1783378800000,
       "psplus": false,
       "tags": [],
-      "note": "2026.07.07 > 2026.08.03"
+      "note": "2026.07.07 > 2026.08.04"
     },
     {
       "id": "36211",
@@ -27506,7 +27506,7 @@
       "timestamp": 1783378800000,
       "psplus": false,
       "tags": [],
-      "note": "2026.07.07 > 2026.08.03"
+      "note": "2026.07.07 > 2026.08.04"
     },
     {
       "id": "31145",
@@ -27535,7 +27535,7 @@
       "timestamp": 1783378800000,
       "psplus": false,
       "tags": [],
-      "note": "2026.07.07 > 2026.08.03"
+      "note": "2026.07.07 > 2026.08.04"
     },
     {
       "id": "10938",
@@ -27564,7 +27564,7 @@
       "timestamp": 1783378800000,
       "psplus": false,
       "tags": [],
-      "note": "2026.07.07 > 2026.08.03"
+      "note": "2026.07.07 > 2026.08.04"
     },
     {
       "id": "13369",
@@ -27594,7 +27594,124 @@
       "timestamp": 1783378800000,
       "psplus": false,
       "tags": [],
-      "note": "2026.07.07 > 2026.08.03"
+      "note": "2026.07.07 > 2026.08.04"
+    },
+    {
+      "id": "15205",
+      "scrapetime": 1785335906156,
+      "title": "Dying Light 2: Stay Human",
+      "image": "https://img.psnprofiles.com/game/l/15205/ae3de5b6-34c4-4b29-b2cc-d66356ef0af0.png",
+      "url": "https://psnprofiles.com/trophies/15205-dying-light-2-stay-human",
+      "points": 1545,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 8,
+        "bronze": 55
+      },
+      "dlccount": 1,
+      "platinumpct": 3.15,
+      "completepct": 0.73,
+      "timestamp": 1785798000000,
+      "psplus": false,
+      "tags": [],
+      "note": "2026.08.04 > 2026.09.01 - Reloaded Edition"
+    },
+    {
+      "id": "15146",
+      "scrapetime": 1785335907577,
+      "title": "Dying Light 2: Stay Human",
+      "image": "https://img.psnprofiles.com/game/l/15146/e3bd2793-aefd-49f1-b5bb-d08f6c2ac38a.png",
+      "url": "https://psnprofiles.com/trophies/15146-dying-light-2-stay-human",
+      "points": 1545,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 8,
+        "bronze": 55
+      },
+      "dlccount": 1,
+      "platinumpct": 5.24,
+      "completepct": 1.19,
+      "timestamp": 1785798000000,
+      "psplus": false,
+      "tags": [],
+      "note": "2026.08.04 > 2026.09.01 - Reloaded Edition"
+    },
+    {
+      "id": "42435",
+      "scrapetime": 1785335924167,
+      "title": "Big Walk",
+      "image": "https://img.psnprofiles.com/game/l/42435/47464bbc-c715-4995-b3c2-d53167243127.png",
+      "url": "https://psnprofiles.com/trophies/42435-big-walk",
+      "points": 1260,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 10,
+        "silver": 2,
+        "bronze": 0
+      },
+      "dlccount": 0,
+      "platinumpct": 66.67,
+      "completepct": 66.67,
+      "timestamp": 1785798000000,
+      "psplus": false,
+      "tags": [],
+      "note": "2026.08.04 > 2026.09.01"
+    },
+    {
+      "id": "19014",
+      "scrapetime": 1785335938130,
+      "title": "Signalis",
+      "image": "https://img.psnprofiles.com/game/l/19014/7c0aeeeb-8402-4794-a57a-5d2de31ebd10.png",
+      "url": "https://psnprofiles.com/trophies/19014-signalis",
+      "points": 1260,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 10,
+        "silver": 2,
+        "bronze": 0
+      },
+      "region": "EU",
+      "dlccount": 0,
+      "platinumpct": 27.01,
+      "completepct": 27.01,
+      "timestamp": 1785798000000,
+      "psplus": false,
+      "tags": [],
+      "note": "2026.08.04 > 2026.09.01"
     }
   ],
   "removeStartedGames": false,
