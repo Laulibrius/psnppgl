@@ -10,12 +10,13 @@
     "Original",
     "Remaster",
     "Download only",
-    "Streaming only"
+    "Streaming only",
+    "Leaving soon"
   ],
   "orderBy": "alphabetical",
   "direction": "ascending",
   "removeGames": "never",
-  "note": "Last update: 21/07/2026",
+  "note": "Last update: 18/08/2026 - Leaving soon: 15/09/2026",
   "games": [
     {
       "id": "27405",
@@ -1072,9 +1073,9 @@
     },
     {
       "id": "3805",
-      "scrapetime": 1779975844070,
+      "scrapetime": 1787047206354,
       "title": "Dishonored",
-      "image": "https://i.psnprofiles.com/games/5e4a68/L789d3a.png",
+      "image": "https://img.psnprofiles.com/game/l/3805/20cec60e-5a23-4dc3-a588-eeff01cbde5f.png",
       "url": "https://psnprofiles.com/trophies/3805-dishonored",
       "points": 1920,
       "platforms": {
@@ -1092,8 +1093,8 @@
         "bronze": 64
       },
       "dlccount": 3,
-      "platinumpct": 11.45,
-      "completepct": 0.95,
+      "platinumpct": 11.48,
+      "completepct": 0.97,
       "timestamp": 1681776000000,
       "psplus": false,
       "tags": [
@@ -1130,7 +1131,8 @@
       "psplus": false,
       "tags": [
         "PS1",
-        "Original"
+        "Original",
+        "Leaving soon"
       ],
       "note": ""
     },
@@ -1162,7 +1164,8 @@
       "psplus": false,
       "tags": [
         "PS1",
-        "Original"
+        "Original",
+        "Leaving soon"
       ],
       "note": ""
     },
@@ -1194,7 +1197,8 @@
       "psplus": false,
       "tags": [
         "PSP",
-        "Original"
+        "Original",
+        "Leaving soon"
       ],
       "note": ""
     },
@@ -1226,7 +1230,8 @@
       "psplus": false,
       "tags": [
         "PSP",
-        "Original"
+        "Original",
+        "Leaving soon"
       ],
       "note": ""
     },
@@ -5851,9 +5856,9 @@
     },
     {
       "id": "2752",
-      "scrapetime": 1781454942126,
+      "scrapetime": 1786886437804,
       "title": "The Last of Us Remastered",
-      "image": "https://i.psnprofiles.com/games/acbfe8/Lfd4cf0.png",
+      "image": "https://img.psnprofiles.com/game/l/2752/90044d08-bc2b-46c7-a738-3592c4f76ff4.png",
       "url": "https://psnprofiles.com/trophies/2752-the-last-of-us-remastered",
       "points": 1980,
       "platforms": {
@@ -5871,8 +5876,8 @@
         "bronze": 22
       },
       "dlccount": 4,
-      "platinumpct": 4.69,
-      "completepct": 2.72,
+      "platinumpct": 4.66,
+      "completepct": 2.7,
       "timestamp": 1655942400000,
       "psplus": false,
       "tags": [
@@ -7597,6 +7602,66 @@
       "psplus": false,
       "tags": [
         "PS2",
+        "Original"
+      ],
+      "note": ""
+    },
+    {
+      "id": "42596",
+      "scrapetime": 1787057949800,
+      "title": "Disney's Atlantis: The Lost Empire",
+      "image": "https://img.psnprofiles.com/game/l/42596/5f69b749-7871-4f2b-9a6a-4d305d3e84d7.png",
+      "url": "https://psnprofiles.com/trophies/42596-disneys-atlantis-the-lost-empire",
+      "points": 1350,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 8,
+        "silver": 10,
+        "bronze": 2
+      },
+      "dlccount": 0,
+      "timestamp": 1787007600000,
+      "psplus": false,
+      "tags": [
+        "PS1",
+        "Original"
+      ],
+      "note": ""
+    },
+    {
+      "id": "42595",
+      "scrapetime": 1787057951822,
+      "title": "Disney's Atlantis: The Lost Empire",
+      "image": "https://img.psnprofiles.com/game/l/42595/32e035a5-907c-42ee-ac0c-be66da46e595.png",
+      "url": "https://psnprofiles.com/trophies/42595-disneys-atlantis-the-lost-empire",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 8,
+        "silver": 10,
+        "bronze": 2
+      },
+      "dlccount": 0,
+      "timestamp": 1787007600000,
+      "psplus": false,
+      "tags": [
+        "PS1",
         "Original"
       ],
       "note": ""

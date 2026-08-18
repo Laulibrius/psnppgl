@@ -62,11 +62,11 @@ Original PS3 games only available for streaming (*221 unique*)
 
 ### [PS+ Premium PS4/PS5 (EU)](ps_premium_ps4ps5_eu.json)
 Classic games (original or remastered) on PS4/PS5, available for download and streaming (with a few exceptions) (*148 unique*)  
-`Last Update: 21/07/2026`  
-> :label: PS1, PS2, PSP, PS3, VITA, Original, Remaster, Download Only, Streaming Only
+`Last Update: 18/08/2026`  
+> :label: PS1, PS2, PSP, PS3, VITA, Original, Remaster, Download Only, Streaming Only, Leaving soon
 
 <details>
-<summary>Missing games (29)</summary>
+<summary>Missing games (30)</summary>
 
 - Armored Core (PS4/PS5) [Original, PS1] - 2025.03.18
 - Armored Core Master of Arena (PS4/PS5) [Original, PS1] - 2025.03.18
@@ -77,6 +77,7 @@ Classic games (original or remastered) on PS4/PS5, available for download and st
 - Grandia (PS4/PS5) [Original, PS1] - 2023.11.21
 - Harvest Moon: Back to Nature (PS4/PS5) [Original, PS1] - 2023.02.21
 - Mr. Driller (PS4/PS5) [Original, PS1] - 2022.06.23
+- Onimusha: Dawn of Dreams (PS4/PS5) [Original, PS2] - 2026.08.18 
 - R4 Ridge Racer Type 4 (PS4/PS5) [Original, PS1] - 2023.03.21
 - Resident Evil Director's Cut (PS4/PS5) [Original, PS1] - 2022.06.23
 - Resident Evil 2 (PS4/PS5) [Original, PS1] - 2025.08.19
@@ -101,8 +102,8 @@ Classic games (original or remastered) on PS4/PS5, available for download and st
 </details>
 
 ### [PS+ Extra (EU)](ps_extra_eu.json)
-Games in PS+ Extra Catalog (*462 unique*)  
-`Last Update: 21/07/2026`
+Games in PS+ Extra Catalog (*461 unique*)  
+`Last Update: 18/08/2026`
 > :label: Leaving soon, Ubisoft+, Day one
 
 ### [PS+ Essential (EU)](ps_essential_eu.json)
