@@ -9,7 +9,7 @@
   "orderBy": "timestamp",
   "direction": "descending",
   "removeGames": "never",
-  "note": "Last update: 29/07/2026",
+  "note": "Last update: 02/09/2026",
   "url": "https://laulibrius.github.io/psnppgl/ps_essential_eu.json",
   "games": [
     {
@@ -449,9 +449,9 @@
     },
     {
       "id": "31525",
-      "scrapetime": 1771616254633,
+      "scrapetime": 1787171204851,
       "title": "Synduality: Echo of Ada",
-      "image": "https://i.psnprofiles.com/games/1cbe2a/Lec787d.png",
+      "image": "https://img.psnprofiles.com/game/l/31525/62f277d2-0653-40cc-a47f-1a674e44fbfc.png",
       "url": "https://psnprofiles.com/trophies/31525-synduality-echo-of-ada",
       "points": 1290,
       "platforms": {
@@ -469,8 +469,8 @@
         "bronze": 14
       },
       "dlccount": 0,
-      "platinumpct": 2.36,
-      "completepct": 2.36,
+      "platinumpct": 2.94,
+      "completepct": 2.94,
       "timestamp": 1764633600000,
       "psplus": false,
       "tags": [],
@@ -623,9 +623,9 @@
     },
     {
       "id": "17011",
-      "scrapetime": 1781446619029,
+      "scrapetime": 1788284338862,
       "title": "Stray",
-      "image": "https://i.psnprofiles.com/games/d9358b/L4495d1.png",
+      "image": "https://img.psnprofiles.com/game/l/17011/ee6ec04e-1d4d-4178-8ca2-6f7bb44cb55a.png",
       "url": "https://psnprofiles.com/trophies/17011-stray",
       "points": 1320,
       "platforms": {
@@ -643,8 +643,8 @@
         "bronze": 8
       },
       "dlccount": 0,
-      "platinumpct": 25.26,
-      "completepct": 25.26,
+      "platinumpct": 25.12,
+      "completepct": 25.12,
       "timestamp": 1762214400000,
       "psplus": false,
       "tags": [],
@@ -769,9 +769,9 @@
     },
     {
       "id": "19276",
-      "scrapetime": 1779040343147,
+      "scrapetime": 1788287040876,
       "title": "Goat Simulator 3",
-      "image": "https://i.psnprofiles.com/games/e17749/L6054cf.png",
+      "image": "https://img.psnprofiles.com/game/l/19276/82b14554-7b6b-4613-8161-9a1dcc406b14.png",
       "url": "https://psnprofiles.com/trophies/19276-goat-simulator-3",
       "points": 1635,
       "platforms": {
@@ -789,8 +789,8 @@
         "bronze": 49
       },
       "dlccount": 2,
-      "platinumpct": 18.96,
-      "completepct": 0.99,
+      "platinumpct": 18.33,
+      "completepct": 1.12,
       "timestamp": 1759795200000,
       "psplus": false,
       "tags": [],
@@ -857,9 +857,9 @@
     },
     {
       "id": "22849",
-      "scrapetime": 1784824665396,
+      "scrapetime": 1787421165798,
       "title": "Viewfinder",
-      "image": "https://i.psnprofiles.com/games/a5cbbe/L96a7d2.png",
+      "image": "https://img.psnprofiles.com/game/l/22849/e8e3ee6d-b7af-4deb-983f-cff5e74a3d4e.png",
       "url": "https://psnprofiles.com/trophies/22849-viewfinder",
       "points": 1350,
       "platforms": {
@@ -878,8 +878,8 @@
       },
       "region": "EU",
       "dlccount": 0,
-      "platinumpct": 45.43,
-      "completepct": 45.43,
+      "platinumpct": 45.18,
+      "completepct": 45.18,
       "timestamp": 1756771200000,
       "psplus": false,
       "tags": [],
@@ -1062,9 +1062,9 @@
     },
     {
       "id": "24305",
-      "scrapetime": 1782492477338,
+      "scrapetime": 1787155403454,
       "title": "Jusant",
-      "image": "https://i.psnprofiles.com/games/643807/L7bf732.png",
+      "image": "https://img.psnprofiles.com/game/l/24305/128604b4-45a1-4717-a0eb-87d6ee1302f9.png",
       "url": "https://psnprofiles.com/trophies/24305-jusant",
       "points": 1260,
       "platforms": {
@@ -1082,8 +1082,8 @@
         "bronze": 6
       },
       "dlccount": 0,
-      "platinumpct": 39.39,
-      "completepct": 39.39,
+      "platinumpct": 39.06,
+      "completepct": 39.06,
       "timestamp": 1751328000000,
       "psplus": false,
       "tags": [],
@@ -1178,9 +1178,9 @@
     },
     {
       "id": "22398",
-      "scrapetime": 1781445202688,
+      "scrapetime": 1787422409397,
       "title": "Diablo IV",
-      "image": "https://i.psnprofiles.com/games/ca7e0d/L39e64e.png",
+      "image": "https://img.psnprofiles.com/game/l/22398/c1cbcceb-9a1b-421f-84d4-de71d7665b93.png",
       "url": "https://psnprofiles.com/trophies/22398-diablo-iv",
       "points": 1695,
       "platforms": {
@@ -1198,7 +1198,8 @@
         "bronze": 21
       },
       "dlccount": 2,
-      "platinumpct": 12.46,
+      "platinumpct": 12.43,
+      "completepct": 0.19,
       "timestamp": 1751328000000,
       "psplus": false,
       "tags": [],
@@ -1552,9 +1553,9 @@
     },
     {
       "id": "24295",
-      "scrapetime": 1784824700447,
+      "scrapetime": 1787421252964,
       "title": "RoboCop: Rogue City",
-      "image": "https://i.psnprofiles.com/games/fe0ba2/L32fe3b.png",
+      "image": "https://img.psnprofiles.com/game/l/24295/66c1e574-a30e-4b46-a299-280239e1984d.png",
       "url": "https://psnprofiles.com/trophies/24295-robocop-rogue-city",
       "points": 1305,
       "platforms": {
@@ -1572,8 +1573,8 @@
         "bronze": 11
       },
       "dlccount": 0,
-      "platinumpct": 39.99,
-      "completepct": 39.99,
+      "platinumpct": 39.88,
+      "completepct": 39.88,
       "timestamp": 1743465600000,
       "psplus": false,
       "tags": [],
@@ -1670,9 +1671,9 @@
     },
     {
       "id": "30008",
-      "scrapetime": 1781445274754,
+      "scrapetime": 1785345941714,
       "title": "Dragon Age: The Veilguard",
-      "image": "https://i.psnprofiles.com/games/6cba8e/Ldbbdee.png",
+      "image": "https://img.psnprofiles.com/game/l/30008/af8fd808-f845-4346-9148-58b4f51bb9c4.png",
       "url": "https://psnprofiles.com/trophies/30008-dragon-age-the-veilguard",
       "points": 1350,
       "platforms": {
@@ -1690,8 +1691,8 @@
         "bronze": 38
       },
       "dlccount": 0,
-      "platinumpct": 22.11,
-      "completepct": 22.11,
+      "platinumpct": 21.9,
+      "completepct": 21.9,
       "timestamp": 1741046400000,
       "psplus": false,
       "tags": [],
@@ -1757,9 +1758,9 @@
     },
     {
       "id": "17710",
-      "scrapetime": 1781123369647,
+      "scrapetime": 1787421537824,
       "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
-      "image": "https://i.psnprofiles.com/games/dcf5fd/L14165c.png",
+      "image": "https://img.psnprofiles.com/game/l/17710/a0c19af9-5a2b-4c9e-b495-1e2b9ef44bcb.png",
       "url": "https://psnprofiles.com/trophies/17710-teenage-mutant-ninja-turtles-the-cowabunga-collection",
       "points": 1290,
       "platforms": {
@@ -1777,8 +1778,8 @@
         "bronze": 0
       },
       "dlccount": 0,
-      "platinumpct": 29.44,
-      "completepct": 29.44,
+      "platinumpct": 28.91,
+      "completepct": 28.91,
       "timestamp": 1741046400000,
       "psplus": false,
       "tags": [],
@@ -1931,9 +1932,9 @@
     },
     {
       "id": "25604",
-      "scrapetime": 1771618770915,
+      "scrapetime": 1786885314759,
       "title": "Suicide Squad: Kill the Justice League",
-      "image": "https://i.psnprofiles.com/games/099d35/Lb0573b.png",
+      "image": "https://img.psnprofiles.com/game/l/25604/1933633d-cdfa-4ca1-b3cc-6f34d99a5de6.png",
       "url": "https://psnprofiles.com/trophies/25604-suicide-squad-kill-the-justice-league",
       "points": 1350,
       "platforms": {
@@ -1951,8 +1952,8 @@
         "bronze": 34
       },
       "dlccount": 0,
-      "platinumpct": 12.07,
-      "completepct": 12.07,
+      "platinumpct": 11.49,
+      "completepct": 11.49,
       "timestamp": 1736208000000,
       "psplus": false,
       "tags": [],
@@ -2222,9 +2223,9 @@
     },
     {
       "id": "24064",
-      "scrapetime": 1779042779804,
+      "scrapetime": 1787244775353,
       "title": "Hot Wheels Unleashed 2: Turbocharged",
-      "image": "https://i.psnprofiles.com/games/076a3c/L414f33.png",
+      "image": "https://img.psnprofiles.com/game/l/24064/5d3ac6d9-2337-42e7-a6ef-baa3271876bb.png",
       "url": "https://psnprofiles.com/trophies/24064-hot-wheels-unleashed-2-turbocharged",
       "points": 1470,
       "platforms": {
@@ -2242,8 +2243,8 @@
         "bronze": 44
       },
       "dlccount": 4,
-      "platinumpct": 16.32,
-      "completepct": 4.12,
+      "platinumpct": 15.89,
+      "completepct": 4.03,
       "timestamp": 1730764800000,
       "psplus": false,
       "tags": [],
@@ -2400,9 +2401,9 @@
     },
     {
       "id": "20711",
-      "scrapetime": 1781445113536,
+      "scrapetime": 1785345596437,
       "title": "Dead Space",
-      "image": "https://i.psnprofiles.com/games/431126/Ld9aa01.png",
+      "image": "https://img.psnprofiles.com/game/l/20711/7e514cd1-f085-4d64-a135-9837ab07a49a.png",
       "url": "https://psnprofiles.com/trophies/20711-dead-space",
       "points": 1305,
       "platforms": {
@@ -2420,8 +2421,8 @@
         "bronze": 35
       },
       "dlccount": 0,
-      "platinumpct": 13.33,
-      "completepct": 13.33,
+      "platinumpct": 13.24,
+      "completepct": 13.24,
       "timestamp": 1727740800000,
       "psplus": false,
       "tags": [],
@@ -3247,9 +3248,9 @@
     },
     {
       "id": "18334",
-      "scrapetime": 1771620192447,
+      "scrapetime": 1787421817732,
       "title": "Tunic",
-      "image": "https://i.psnprofiles.com/games/cdde36/Laed7bb.png",
+      "image": "https://img.psnprofiles.com/game/l/18334/9c59b523-a1e4-4598-971f-ab9f60c662c7.png",
       "url": "https://psnprofiles.com/trophies/18334-tunic",
       "points": 1305,
       "platforms": {
@@ -3267,8 +3268,8 @@
         "bronze": 17
       },
       "dlccount": 0,
-      "platinumpct": 27.4,
-      "completepct": 27.4,
+      "platinumpct": 27.1,
+      "completepct": 27.1,
       "timestamp": 1715040000000,
       "psplus": false,
       "tags": [],
@@ -3537,9 +3538,9 @@
     },
     {
       "id": "19729",
-      "scrapetime": 1784824769891,
+      "scrapetime": 1787421320734,
       "title": "Hello Neighbor 2",
-      "image": "https://i.psnprofiles.com/games/ef5e97/L8639e0.png",
+      "image": "https://img.psnprofiles.com/game/l/19729/dd6a8b61-f21b-4e63-96d3-3bada41fdfad.png",
       "url": "https://psnprofiles.com/trophies/19729-hello-neighbor-2",
       "points": 1305,
       "platforms": {
@@ -3557,8 +3558,8 @@
         "bronze": 1
       },
       "dlccount": 0,
-      "platinumpct": 36,
-      "completepct": 36,
+      "platinumpct": 35.99,
+      "completepct": 35.99,
       "timestamp": 1709596800000,
       "psplus": false,
       "tags": [],
@@ -3713,9 +3714,9 @@
     },
     {
       "id": "18796",
-      "scrapetime": 1781444405489,
+      "scrapetime": 1785344342804,
       "title": "A Plague Tale: Requiem",
-      "image": "https://i.psnprofiles.com/games/6991d8/Lf8d3a0.png",
+      "image": "https://img.psnprofiles.com/game/l/18796/e6cc0b64-f472-4526-a930-8535aa8fa355.png",
       "url": "https://psnprofiles.com/trophies/18796-a-plague-tale-requiem",
       "points": 1260,
       "platforms": {
@@ -3733,8 +3734,8 @@
         "bronze": 22
       },
       "dlccount": 0,
-      "platinumpct": 29.92,
-      "completepct": 29.92,
+      "platinumpct": 29.82,
+      "completepct": 29.82,
       "timestamp": 1704153600000,
       "psplus": false,
       "tags": [],
@@ -3946,9 +3947,9 @@
     },
     {
       "id": "20832",
-      "scrapetime": 1779042910021,
+      "scrapetime": 1787835281182,
       "title": "PowerWash Simulator",
-      "image": "https://i.psnprofiles.com/games/a958a9/L378a65.png",
+      "image": "https://img.psnprofiles.com/game/l/20832/e910b965-1609-4fa7-876e-9e2ccdaec15a.png",
       "url": "https://psnprofiles.com/trophies/20832-powerwash-simulator",
       "points": 2520,
       "platforms": {
@@ -3966,8 +3967,8 @@
         "bronze": 72
       },
       "dlccount": 6,
-      "platinumpct": 13.11,
-      "completepct": 3.01,
+      "platinumpct": 13.14,
+      "completepct": 3.16,
       "timestamp": 1701734400000,
       "psplus": false,
       "tags": [],
@@ -4151,9 +4152,9 @@
     },
     {
       "id": "19593",
-      "scrapetime": 1779979595307,
+      "scrapetime": 1785412962313,
       "title": "The Callisto Protocol",
-      "image": "https://i.psnprofiles.com/games/83bfb0/L09b19f.png",
+      "image": "https://img.psnprofiles.com/game/l/19593/d3a48352-a285-417b-9d08-2ec0f4c506c4.png",
       "url": "https://psnprofiles.com/trophies/19593-the-callisto-protocol",
       "points": 1980,
       "platforms": {
@@ -4171,7 +4172,7 @@
         "bronze": 24
       },
       "dlccount": 5,
-      "platinumpct": 20.37,
+      "platinumpct": 20.2,
       "completepct": 1.06,
       "timestamp": 1696291200000,
       "psplus": false,
@@ -4646,9 +4647,9 @@
     },
     {
       "id": "14122",
-      "scrapetime": 1783593449194,
+      "scrapetime": 1787422497072,
       "title": "Alan Wake",
-      "image": "https://i.psnprofiles.com/games/1c0856/Ld5ad69.png",
+      "image": "https://img.psnprofiles.com/game/l/14122/15f85052-bdfe-4d98-bc5f-60040f5c5d88.png",
       "url": "https://psnprofiles.com/trophies/14122-alan-wake",
       "points": 1605,
       "platforms": {
@@ -4667,8 +4668,8 @@
       },
       "region": "EU",
       "dlccount": 2,
-      "platinumpct": 13.35,
-      "completepct": 6.47,
+      "platinumpct": 13.37,
+      "completepct": 6.48,
       "timestamp": 1688428800000,
       "psplus": false,
       "tags": [],
@@ -5526,9 +5527,9 @@
     },
     {
       "id": "13143",
-      "scrapetime": 1779973909899,
+      "scrapetime": 1785412811418,
       "title": "Star Wars Jedi: Fallen Order",
-      "image": "https://i.psnprofiles.com/games/85aa0d/La357cd.png",
+      "image": "https://img.psnprofiles.com/game/l/13143/5ecaf484-004f-4549-aba8-e8eebd74976b.png",
       "url": "https://psnprofiles.com/trophies/13143-star-wars-jedi-fallen-order",
       "points": 1275,
       "platforms": {
@@ -5546,8 +5547,8 @@
         "bronze": 25
       },
       "dlccount": 0,
-      "platinumpct": 27.04,
-      "completepct": 27.04,
+      "platinumpct": 26.91,
+      "completepct": 26.91,
       "timestamp": 1672704000000,
       "psplus": false,
       "tags": [],
@@ -5704,9 +5705,9 @@
     },
     {
       "id": "12901",
-      "scrapetime": 1779974517528,
+      "scrapetime": 1785412155880,
       "title": "Mass Effect",
-      "image": "https://i.psnprofiles.com/games/20f9c3/L9fb0e7.png",
+      "image": "https://img.psnprofiles.com/game/l/12901/62a2aa85-b998-47d8-826c-22e437934e1d.png",
       "url": "https://psnprofiles.com/trophies/12901-mass-effect",
       "points": 1260,
       "platforms": {
@@ -5724,8 +5725,8 @@
         "bronze": 20
       },
       "dlccount": 0,
-      "platinumpct": 21.53,
-      "completepct": 21.53,
+      "platinumpct": 21.39,
+      "completepct": 21.39,
       "timestamp": 1670284800000,
       "psplus": false,
       "tags": [],
@@ -5733,9 +5734,9 @@
     },
     {
       "id": "12909",
-      "scrapetime": 1779973502843,
+      "scrapetime": 1785411992163,
       "title": "Mass Effect 2",
-      "image": "https://i.psnprofiles.com/games/d8ced2/Lf8b383.png",
+      "image": "https://img.psnprofiles.com/game/l/12909/eb7d27b4-bf89-43f4-b121-4d195156e714.png",
       "url": "https://psnprofiles.com/trophies/12909-mass-effect-2",
       "points": 1290,
       "platforms": {
@@ -5753,8 +5754,8 @@
         "bronze": 34
       },
       "dlccount": 0,
-      "platinumpct": 40.63,
-      "completepct": 40.63,
+      "platinumpct": 40.49,
+      "completepct": 40.49,
       "timestamp": 1670284800000,
       "psplus": false,
       "tags": [],
@@ -5762,9 +5763,9 @@
     },
     {
       "id": "12908",
-      "scrapetime": 1781116941909,
+      "scrapetime": 1785411993056,
       "title": "Mass Effect 3",
-      "image": "https://i.psnprofiles.com/games/fb2bc9/L4c19a1.png",
+      "image": "https://img.psnprofiles.com/game/l/12908/53bedb85-4c09-4061-9c3d-66847a5a93fc.png",
       "url": "https://psnprofiles.com/trophies/12908-mass-effect-3",
       "points": 1290,
       "platforms": {
@@ -5782,8 +5783,8 @@
         "bronze": 22
       },
       "dlccount": 0,
-      "platinumpct": 38.08,
-      "completepct": 38.08,
+      "platinumpct": 37.96,
+      "completepct": 37.96,
       "timestamp": 1670284800000,
       "psplus": false,
       "tags": [],
@@ -5791,9 +5792,9 @@
     },
     {
       "id": "12900",
-      "scrapetime": 1781116896700,
+      "scrapetime": 1785411976553,
       "title": "Mass Effect: Legendary Edition",
-      "image": "https://i.psnprofiles.com/games/1918c3/L1c6c7e.png",
+      "image": "https://img.psnprofiles.com/game/l/12900/ac24f867-8ad6-4747-8d6b-2e2dea01d24a.png",
       "url": "https://psnprofiles.com/trophies/12900-mass-effect-legendary-edition",
       "points": 315,
       "platforms": {
@@ -5812,7 +5813,7 @@
       },
       "region": "BO",
       "dlccount": 0,
-      "completepct": 6.7,
+      "completepct": 6.69,
       "timestamp": 1670284800000,
       "psplus": false,
       "tags": [],
@@ -5849,9 +5850,9 @@
     },
     {
       "id": "17935",
-      "scrapetime": 1779975591729,
+      "scrapetime": 1785345440287,
       "title": "Biomutant",
-      "image": "https://i.psnprofiles.com/games/bcf1ac/La25660.png",
+      "image": "https://img.psnprofiles.com/game/l/17935/a4cf1adf-b390-4fcc-b170-99853ee678e9.png",
       "url": "https://psnprofiles.com/trophies/17935-biomutant",
       "points": 1305,
       "platforms": {
@@ -5870,8 +5871,8 @@
       },
       "region": "EU",
       "dlccount": 0,
-      "platinumpct": 13.73,
-      "completepct": 13.73,
+      "platinumpct": 13.62,
+      "completepct": 13.62,
       "timestamp": 1670284800000,
       "psplus": false,
       "tags": [],
@@ -6082,9 +6083,9 @@
     },
     {
       "id": "14007",
-      "scrapetime": 1779042818806,
+      "scrapetime": 1787423775561,
       "title": "Hot Wheels Unleashed",
-      "image": "https://i.psnprofiles.com/games/e8cb6f/Lf01c18.png",
+      "image": "https://img.psnprofiles.com/game/l/14007/6d1a9b27-5fe5-4ec4-ab88-404c9115c170.png",
       "url": "https://psnprofiles.com/trophies/14007-hot-wheels-unleashed",
       "points": 1485,
       "platforms": {
@@ -6102,7 +6103,7 @@
         "bronze": 43
       },
       "dlccount": 3,
-      "platinumpct": 6.54,
+      "platinumpct": 6.48,
       "completepct": 2.08,
       "timestamp": 1664841600000,
       "psplus": false,
@@ -6458,9 +6459,9 @@
     },
     {
       "id": "9560",
-      "scrapetime": 1777489359487,
+      "scrapetime": 1787171285232,
       "title": "The Dark Pictures Anthology: Man of Medan",
-      "image": "https://i.psnprofiles.com/games/a0bd16/L15c089.png",
+      "image": "https://img.psnprofiles.com/game/l/9560/203ce712-0a69-40fe-b7db-bafb4cc358bc.png",
       "url": "https://psnprofiles.com/trophies/9560-the-dark-pictures-anthology-man-of-medan",
       "points": 1305,
       "platforms": {
@@ -6478,8 +6479,8 @@
         "bronze": 17
       },
       "dlccount": 0,
-      "platinumpct": 5.67,
-      "completepct": 5.67,
+      "platinumpct": 5.68,
+      "completepct": 5.68,
       "timestamp": 1656979200000,
       "psplus": false,
       "tags": [],
@@ -6487,9 +6488,9 @@
     },
     {
       "id": "18351",
-      "scrapetime": 1777489332311,
+      "scrapetime": 1787171287890,
       "title": "The Dark Pictures Anthology: Man of Medan",
-      "image": "https://i.psnprofiles.com/games/bee803/Lc8fe46.png",
+      "image": "https://img.psnprofiles.com/game/l/18351/9c4ca531-0d53-4ac5-a534-bb35aa7bc999.png",
       "url": "https://psnprofiles.com/trophies/18351-the-dark-pictures-anthology-man-of-medan",
       "points": 1305,
       "platforms": {
@@ -6507,8 +6508,8 @@
         "bronze": 17
       },
       "dlccount": 0,
-      "platinumpct": 6.56,
-      "completepct": 6.56,
+      "platinumpct": 6.9,
+      "completepct": 6.9,
       "timestamp": 1656979200000,
       "psplus": false,
       "tags": [],
@@ -6815,9 +6816,9 @@
     },
     {
       "id": "12237",
-      "scrapetime": 1781460889461,
+      "scrapetime": 1785345507375,
       "title": "Curse of the Dead Gods",
-      "image": "https://i.psnprofiles.com/games/d1d102/Lf0840c.png",
+      "image": "https://img.psnprofiles.com/game/l/12237/67a95356-d7ba-4666-a59d-aa02aca59ab6.png",
       "url": "https://psnprofiles.com/trophies/12237-curse-of-the-dead-gods",
       "points": 1275,
       "platforms": {
@@ -6989,9 +6990,9 @@
     },
     {
       "id": "9128",
-      "scrapetime": 1783606027513,
+      "scrapetime": 1787315817036,
       "title": "Team Sonic Racing",
-      "image": "https://i.psnprofiles.com/games/1ed4c1/L120ddd.png",
+      "image": "https://img.psnprofiles.com/game/l/9128/16e632b2-aba0-4853-b73c-b427eda8bfac.png",
       "url": "https://psnprofiles.com/trophies/9128-team-sonic-racing",
       "points": 1350,
       "platforms": {
@@ -7009,8 +7010,8 @@
         "bronze": 40
       },
       "dlccount": 0,
-      "platinumpct": 2.22,
-      "completepct": 2.22,
+      "platinumpct": 2.21,
+      "completepct": 2.21,
       "timestamp": 1646092800000,
       "psplus": false,
       "tags": [],
@@ -7722,9 +7723,9 @@
     },
     {
       "id": "11782",
-      "scrapetime": 1783606278446,
+      "scrapetime": 1786713104417,
       "title": "Overcooked! All You Can Eat",
-      "image": "https://i.psnprofiles.com/games/134291/Ld4d82c.png",
+      "image": "https://img.psnprofiles.com/game/l/11782/75b040d8-243e-464a-93b8-d3ea3ead8459.png",
       "url": "https://psnprofiles.com/trophies/11782-overcooked-all-you-can-eat",
       "points": 1320,
       "platforms": {
@@ -7742,8 +7743,8 @@
         "bronze": 28
       },
       "dlccount": 0,
-      "platinumpct": 10.71,
-      "completepct": 10.71,
+      "platinumpct": 10.65,
+      "completepct": 10.65,
       "timestamp": 1630972800000,
       "psplus": false,
       "tags": [],
@@ -7981,9 +7982,9 @@
     },
     {
       "id": "13342",
-      "scrapetime": 1781280701486,
+      "scrapetime": 1785344313236,
       "title": "A Plague Tale: Innocence",
-      "image": "https://i.psnprofiles.com/games/2444a0/L717d80.png",
+      "image": "https://img.psnprofiles.com/game/l/13342/f4c649ea-3d30-4a15-a025-c1989199732a.png",
       "url": "https://psnprofiles.com/trophies/13342-a-plague-tale-innocence",
       "points": 1260,
       "platforms": {
@@ -8001,8 +8002,8 @@
         "bronze": 22
       },
       "dlccount": 0,
-      "platinumpct": 35.74,
-      "completepct": 35.74,
+      "platinumpct": 35.7,
+      "completepct": 35.7,
       "timestamp": 1625529600000,
       "psplus": false,
       "tags": [],
@@ -8127,9 +8128,9 @@
     },
     {
       "id": "8418",
-      "scrapetime": 1779976352413,
+      "scrapetime": 1785345411605,
       "title": "Battlefield V",
-      "image": "https://i.psnprofiles.com/games/b1da27/L04e16b.png",
+      "image": "https://img.psnprofiles.com/game/l/8418/8d1db38d-e46b-4045-a3e9-13183d08c9fb.png",
       "url": "https://psnprofiles.com/trophies/8418-battlefield-v",
       "points": 1305,
       "platforms": {
@@ -8147,8 +8148,8 @@
         "bronze": 3
       },
       "dlccount": 0,
-      "platinumpct": 4.56,
-      "completepct": 4.56,
+      "platinumpct": 4.52,
+      "completepct": 4.52,
       "timestamp": 1620086400000,
       "psplus": false,
       "tags": [],
@@ -8186,9 +8187,9 @@
     },
     {
       "id": "12644",
-      "scrapetime": 1779976453408,
+      "scrapetime": 1785412622993,
       "title": "Oddworld: Soulstorm",
-      "image": "https://i.psnprofiles.com/games/87b2ee/L28db74.png",
+      "image": "https://img.psnprofiles.com/game/l/12644/e291e073-aa97-4740-9868-acab9d243438.png",
       "url": "https://psnprofiles.com/trophies/12644-oddworld-soulstorm",
       "points": 1290,
       "platforms": {
@@ -8215,9 +8216,9 @@
     },
     {
       "id": "9035",
-      "scrapetime": 1779974164698,
+      "scrapetime": 1785345538338,
       "title": "Days Gone",
-      "image": "https://i.psnprofiles.com/games/a37304/L43c1f4.png",
+      "image": "https://img.psnprofiles.com/game/l/9035/570602f2-68ae-42b0-9307-58fa93d72a09.png",
       "url": "https://psnprofiles.com/trophies/9035-days-gone",
       "points": 1785,
       "platforms": {
@@ -8235,7 +8236,7 @@
         "bronze": 37
       },
       "dlccount": 3,
-      "platinumpct": 24,
+      "platinumpct": 23.9,
       "completepct": 1.17,
       "timestamp": 1617667200000,
       "psplus": false,
@@ -8275,9 +8276,9 @@
     },
     {
       "id": "10660",
-      "scrapetime": 1781445506068,
+      "scrapetime": 1785345976132,
       "title": "Final Fantasy VII Remake",
-      "image": "https://i.psnprofiles.com/games/592be4/Le59079.png",
+      "image": "https://img.psnprofiles.com/game/l/10660/3838159c-ddcf-45c0-98c3-3ad5aad42916.png",
       "url": "https://psnprofiles.com/trophies/10660-final-fantasy-vii-remake",
       "points": 1350,
       "platforms": {
@@ -8295,8 +8296,8 @@
         "bronze": 44
       },
       "dlccount": 0,
-      "platinumpct": 12.05,
-      "completepct": 12.05,
+      "platinumpct": 12,
+      "completepct": 12,
       "timestamp": 1614643200000,
       "psplus": false,
       "tags": [],
@@ -8801,9 +8802,9 @@
     },
     {
       "id": "3431",
-      "scrapetime": 1779974493511,
+      "scrapetime": 1787046954717,
       "title": "Bloodborne",
-      "image": "https://i.psnprofiles.com/games/b9aa79/L57216c.png",
+      "image": "https://img.psnprofiles.com/game/l/3431/eb6656e5-85b8-4075-82dd-a96852d18b07.png",
       "url": "https://psnprofiles.com/trophies/3431-bloodborne",
       "points": 1530,
       "platforms": {
@@ -8821,7 +8822,7 @@
         "bronze": 24
       },
       "dlccount": 1,
-      "platinumpct": 22.18,
+      "platinumpct": 22.22,
       "completepct": 14.08,
       "timestamp": 1520294400000,
       "psplus": false,
@@ -8832,9 +8833,9 @@
     },
     {
       "id": "7678",
-      "scrapetime": 1779975788877,
+      "scrapetime": 1785345731186,
       "title": "Detroit: Become Human",
-      "image": "https://i.psnprofiles.com/games/d93914/L598da0.png",
+      "image": "https://img.psnprofiles.com/game/l/7678/a512a888-fea4-4b55-8921-710f53265dbf.png",
       "url": "https://psnprofiles.com/trophies/7678-detroit-become-human",
       "points": 1320,
       "platforms": {
@@ -8852,8 +8853,8 @@
         "bronze": 40
       },
       "dlccount": 0,
-      "platinumpct": 12.25,
-      "completepct": 12.25,
+      "platinumpct": 12.21,
+      "completepct": 12.22,
       "timestamp": 1562025600000,
       "psplus": false,
       "tags": [
@@ -8863,9 +8864,9 @@
     },
     {
       "id": "2481",
-      "scrapetime": 1771696634872,
+      "scrapetime": 1786885753529,
       "title": "inFamous: Second Son",
-      "image": "https://i.psnprofiles.com/games/3ce090/L14bfb5.png",
+      "image": "https://img.psnprofiles.com/game/l/2481/ecfd4b39-1254-4102-a24d-8f89e7eea7dc.png",
       "url": "https://psnprofiles.com/trophies/2481-infamous-second-son",
       "points": 1320,
       "platforms": {
@@ -8883,8 +8884,8 @@
         "bronze": 34
       },
       "dlccount": 0,
-      "platinumpct": 25.84,
-      "completepct": 25.84,
+      "platinumpct": 25.74,
+      "completepct": 25.74,
       "timestamp": 1504569600000,
       "psplus": false,
       "tags": [
@@ -8925,9 +8926,9 @@
     },
     {
       "id": "5657",
-      "scrapetime": 1779976372144,
+      "scrapetime": 1785413017763,
       "title": "The Last Guardian",
-      "image": "https://i.psnprofiles.com/games/699fb6/L5e6b82.png",
+      "image": "https://img.psnprofiles.com/game/l/5657/2648ab61-d18b-43ad-b01f-e5fc8a7c0c22.png",
       "url": "https://psnprofiles.com/trophies/5657-the-last-guardian",
       "points": 1275,
       "platforms": {
@@ -8945,8 +8946,8 @@
         "bronze": 9
       },
       "dlccount": 0,
-      "platinumpct": 2.93,
-      "completepct": 2.93,
+      "platinumpct": 2.92,
+      "completepct": 2.92,
       "timestamp": 1605744000000,
       "psplus": false,
       "tags": [
@@ -8956,9 +8957,9 @@
     },
     {
       "id": "2752",
-      "scrapetime": 1781454942126,
+      "scrapetime": 1787059850977,
       "title": "The Last of Us Remastered",
-      "image": "https://i.psnprofiles.com/games/acbfe8/Lfd4cf0.png",
+      "image": "https://img.psnprofiles.com/game/l/2752/90044d08-bc2b-46c7-a738-3592c4f76ff4.png",
       "url": "https://psnprofiles.com/trophies/2752-the-last-of-us-remastered",
       "points": 1980,
       "platforms": {
@@ -8976,8 +8977,8 @@
         "bronze": 22
       },
       "dlccount": 4,
-      "platinumpct": 4.69,
-      "completepct": 2.72,
+      "platinumpct": 4.66,
+      "completepct": 2.7,
       "timestamp": 1569888000000,
       "psplus": false,
       "tags": [
@@ -8987,9 +8988,9 @@
     },
     {
       "id": "3804",
-      "scrapetime": 1779974054982,
+      "scrapetime": 1785413492295,
       "title": "Until Dawn",
-      "image": "https://i.psnprofiles.com/games/7b85ad/L172c11.png",
+      "image": "https://img.psnprofiles.com/game/l/3804/5004e096-4d42-4efc-81bb-aa40d312ba29.png",
       "url": "https://psnprofiles.com/trophies/3804-until-dawn",
       "points": 1320,
       "platforms": {
@@ -9007,8 +9008,8 @@
         "bronze": 4
       },
       "dlccount": 0,
-      "platinumpct": 15.81,
-      "completepct": 15.81,
+      "platinumpct": 15.77,
+      "completepct": 15.77,
       "timestamp": 1499126400000,
       "psplus": false,
       "tags": [
@@ -9049,9 +9050,9 @@
     },
     {
       "id": "3634",
-      "scrapetime": 1779976156245,
+      "scrapetime": 1787046969868,
       "title": "Batman: Arkham Knight",
-      "image": "https://i.psnprofiles.com/games/a62ab7/L2259cf.png",
+      "image": "https://img.psnprofiles.com/game/l/3634/e46cc991-97cc-4aa2-bfc5-94326acb437a.png",
       "url": "https://psnprofiles.com/trophies/3634-batman-arkham-knight",
       "points": 2415,
       "platforms": {
@@ -9069,8 +9070,8 @@
         "bronze": 81
       },
       "dlccount": 16,
-      "platinumpct": 6.57,
-      "completepct": 0.91,
+      "platinumpct": 6.6,
+      "completepct": 0.92,
       "timestamp": 1567468800000,
       "psplus": false,
       "tags": [
@@ -9080,9 +9081,9 @@
     },
     {
       "id": "5442",
-      "scrapetime": 1779976171997,
+      "scrapetime": 1787014703246,
       "title": "Battlefield 1",
-      "image": "https://i.psnprofiles.com/games/9ab56d/L3851fb.png",
+      "image": "https://img.psnprofiles.com/game/l/5442/65441c80-0929-4c13-8af9-08cdbd3aac32.png",
       "url": "https://psnprofiles.com/trophies/5442-battlefield-1",
       "points": 1935,
       "platforms": {
@@ -9100,7 +9101,7 @@
         "bronze": 31
       },
       "dlccount": 4,
-      "platinumpct": 6.29,
+      "platinumpct": 6.26,
       "completepct": 0.85,
       "timestamp": 1605744000000,
       "psplus": false,
@@ -9831,9 +9832,9 @@
     },
     {
       "id": "7210",
-      "scrapetime": 1781446387655,
+      "scrapetime": 1787061115407,
       "title": "Shadow of the Colossus",
-      "image": "https://i.psnprofiles.com/games/7dc8e7/Leb6b0f.png",
+      "image": "https://img.psnprofiles.com/game/l/7210/1f380f61-8607-467a-9b03-d1aab7c6256c.png",
       "url": "https://psnprofiles.com/trophies/7210-shadow-of-the-colossus",
       "points": 1335,
       "platforms": {
@@ -9851,8 +9852,8 @@
         "bronze": 25
       },
       "dlccount": 0,
-      "platinumpct": 7.04,
-      "completepct": 7.04,
+      "platinumpct": 7.05,
+      "completepct": 7.05,
       "timestamp": 1583193600000,
       "psplus": false,
       "tags": [],
@@ -9918,9 +9919,9 @@
     },
     {
       "id": "5289",
-      "scrapetime": 1779028143169,
+      "scrapetime": 1787242537790,
       "title": "BioShock",
-      "image": "https://i.psnprofiles.com/games/6d25e9/Ld89acb.png",
+      "image": "https://img.psnprofiles.com/game/l/5289/294511aa-a0e7-470b-ae7a-ff3a068f6285.png",
       "url": "https://psnprofiles.com/trophies/5289-bioshock",
       "points": 1545,
       "platforms": {
@@ -9938,8 +9939,8 @@
         "bronze": 59
       },
       "dlccount": 1,
-      "platinumpct": 11.69,
-      "completepct": 3.57,
+      "platinumpct": 11.7,
+      "completepct": 3.58,
       "timestamp": 1580774400000,
       "psplus": false,
       "tags": [],
@@ -10237,7 +10238,7 @@
     },
     {
       "id": "8446",
-      "scrapetime": 1785335736680,
+      "scrapetime": 1786632867672,
       "title": "Darksiders III",
       "image": "https://img.psnprofiles.com/game/l/8446/a9345805-cda3-4d9c-a237-0351dde823b4.png",
       "url": "https://psnprofiles.com/trophies/8446-darksiders-iii",
@@ -14093,9 +14094,9 @@
     },
     {
       "id": "2440",
-      "scrapetime": 1779976028945,
+      "scrapetime": 1785344417670,
       "title": "Assassin's Creed Freedom Cry",
-      "image": "https://i.psnprofiles.com/games/289a2f/L83661c.png",
+      "image": "https://img.psnprofiles.com/game/l/2440/1f708856-138b-43f2-b621-b3974c1b7831.png",
       "url": "https://psnprofiles.com/trophies/2440-assassins-creed-freedom-cry",
       "points": 285,
       "platforms": {
@@ -14113,7 +14114,7 @@
         "bronze": 9
       },
       "dlccount": 0,
-      "completepct": 8.53,
+      "completepct": 8.55,
       "timestamp": 1501545600000,
       "psplus": false,
       "tags": [],
@@ -14607,9 +14608,9 @@
     },
     {
       "id": "2024",
-      "scrapetime": 1771782272211,
+      "scrapetime": 1787169378760,
       "title": "Blood Knights",
-      "image": "https://i.psnprofiles.com/games/913abe/L5e9b5c.png",
+      "image": "https://img.psnprofiles.com/game/l/2024/93b9d32c-dd60-49c7-930c-576ac15ff977.png",
       "url": "https://psnprofiles.com/trophies/2024-blood-knights",
       "points": 300,
       "platforms": {
@@ -17672,9 +17673,9 @@
     },
     {
       "id": "730",
-      "scrapetime": 1779973521355,
+      "scrapetime": 1788285724556,
       "title": "Mass Effect 2",
-      "image": "https://i.psnprofiles.com/games/45a15d/La8ddd9.png",
+      "image": "https://img.psnprofiles.com/game/l/730/f42f8798-923f-4a47-b762-7b1d126827d3.png",
       "url": "https://psnprofiles.com/trophies/730-mass-effect-2",
       "points": 1410,
       "platforms": {
@@ -17692,8 +17693,8 @@
         "bronze": 50
       },
       "dlccount": 2,
-      "platinumpct": 9.89,
-      "completepct": 4.87,
+      "platinumpct": 9.88,
+      "completepct": 4.89,
       "timestamp": 1446508800000,
       "psplus": false,
       "tags": [],
@@ -19125,9 +19126,9 @@
     },
     {
       "id": "1647",
-      "scrapetime": 1781445278799,
+      "scrapetime": 1785345770899,
       "title": "Dishonored",
-      "image": "https://i.psnprofiles.com/games/0fe297/Lfdd582.png",
+      "image": "https://img.psnprofiles.com/game/l/1647/dd2c8aa2-45d9-43b2-bfce-80e9104acd17.png",
       "url": "https://psnprofiles.com/trophies/1647-dishonored",
       "points": 1920,
       "platforms": {
@@ -19145,7 +19146,7 @@
         "bronze": 64
       },
       "dlccount": 3,
-      "platinumpct": 5.8,
+      "platinumpct": 5.79,
       "completepct": 0.29,
       "timestamp": 1428451200000,
       "psplus": false,
@@ -20411,9 +20412,9 @@
     },
     {
       "id": "117",
-      "scrapetime": 1781444701955,
+      "scrapetime": 1786886096059,
       "title": "Batman: Arkham Asylum",
-      "image": "https://i.psnprofiles.com/games/b7abe5/Lcbdea7.png",
+      "image": "https://img.psnprofiles.com/game/l/117/dcbf3293-523d-47ee-8649-aa7a6bf77c65.png",
       "url": "https://psnprofiles.com/trophies/117-batman-arkham-asylum",
       "points": 1350,
       "platforms": {
@@ -20431,8 +20432,8 @@
         "bronze": 28
       },
       "dlccount": 0,
-      "platinumpct": 8.33,
-      "completepct": 8.33,
+      "platinumpct": 8.32,
+      "completepct": 8.32,
       "timestamp": 1412726400000,
       "psplus": false,
       "tags": [],
@@ -22395,9 +22396,9 @@
     },
     {
       "id": "1709",
-      "scrapetime": 1781444510486,
+      "scrapetime": 1788006833976,
       "title": "Assassin's Creed III",
-      "image": "https://i.psnprofiles.com/games/5ac8f9/Ldc4936.png",
+      "image": "https://img.psnprofiles.com/game/l/1709/11840bf7-f164-4b22-82db-5c3d4ea5c1fb.png",
       "url": "https://psnprofiles.com/trophies/1709-assassins-creed-iii",
       "points": 1755,
       "platforms": {
@@ -22415,7 +22416,7 @@
         "bronze": 35
       },
       "dlccount": 4,
-      "platinumpct": 4.57,
+      "platinumpct": 4.55,
       "completepct": 1.06,
       "timestamp": 1377648000000,
       "psplus": false,
@@ -23118,9 +23119,9 @@
     },
     {
       "id": "1034",
-      "scrapetime": 1779976118962,
+      "scrapetime": 1785412778828,
       "title": "Shadow of the Colossus",
-      "image": "https://i.psnprofiles.com/games/ac2b43/L86eeaa.png",
+      "image": "https://img.psnprofiles.com/game/l/1034/a61056c5-68b0-4f60-a2c1-2faa0e1c6fde.png",
       "url": "https://psnprofiles.com/trophies/1034-shadow-of-the-colossus",
       "points": 1290,
       "platforms": {
@@ -23522,9 +23523,9 @@
     },
     {
       "id": "1292",
-      "scrapetime": 1781445999871,
+      "scrapetime": 1788285690082,
       "title": "Mass Effect 3",
-      "image": "https://i.psnprofiles.com/games/15465a/L8b5e39.png",
+      "image": "https://img.psnprofiles.com/game/l/1292/a515c400-27c3-42f9-b5d5-c4fde627000f.png",
       "url": "https://psnprofiles.com/trophies/1292-mass-effect-3",
       "points": 1665,
       "platforms": {
@@ -23542,8 +23543,8 @@
         "bronze": 53
       },
       "dlccount": 4,
-      "platinumpct": 7.4,
-      "completepct": 2.14,
+      "platinumpct": 7.39,
+      "completepct": 2.15,
       "timestamp": 1362528000000,
       "psplus": false,
       "tags": [],
@@ -23979,9 +23980,9 @@
     },
     {
       "id": "1081",
-      "scrapetime": 1778958053975,
+      "scrapetime": 1787243029363,
       "title": "Batman: Arkham City",
-      "image": "https://i.psnprofiles.com/games/aaa0a9/Lf94e02.png",
+      "image": "https://img.psnprofiles.com/game/l/1081/58b62a97-72b9-4986-85ff-666df4495d42.png",
       "url": "https://psnprofiles.com/trophies/1081-batman-arkham-city",
       "points": 1740,
       "platforms": {
@@ -23999,7 +24000,7 @@
         "bronze": 48
       },
       "dlccount": 4,
-      "platinumpct": 4.14,
+      "platinumpct": 4.13,
       "completepct": 0.88,
       "timestamp": 1354665600000,
       "psplus": false,
@@ -24493,9 +24494,9 @@
     },
     {
       "id": "282",
-      "scrapetime": 1781446307655,
+      "scrapetime": 1786713215782,
       "title": "Red Dead Redemption",
-      "image": "https://i.psnprofiles.com/games/c066b2/L73f9a0.png",
+      "image": "https://img.psnprofiles.com/game/l/282/5f07e823-6ef9-4e86-bcdc-2dacc8efd7a0.png",
       "url": "https://psnprofiles.com/trophies/282-red-dead-redemption",
       "points": 2055,
       "platforms": {
@@ -24513,7 +24514,7 @@
         "bronze": 71
       },
       "dlccount": 4,
-      "platinumpct": 2.87,
+      "platinumpct": 2.86,
       "completepct": 0.72,
       "timestamp": 1346803200000,
       "psplus": false,
@@ -24977,9 +24978,9 @@
     },
     {
       "id": "887",
-      "scrapetime": 1771877115504,
+      "scrapetime": 1787317063150,
       "title": "inFamous 2",
-      "image": "https://i.psnprofiles.com/games/4d2437/L7ecdc0.png",
+      "image": "https://img.psnprofiles.com/game/l/887/82098440-36ea-4ae3-8aad-307b24a1515b.png",
       "url": "https://psnprofiles.com/trophies/887-infamous-2",
       "points": 1350,
       "platforms": {
@@ -24997,8 +24998,8 @@
         "bronze": 40
       },
       "dlccount": 0,
-      "platinumpct": 16.08,
-      "completepct": 16.08,
+      "platinumpct": 16.04,
+      "completepct": 16.04,
       "timestamp": 1338940800000,
       "psplus": false,
       "tags": [],
@@ -25035,9 +25036,9 @@
     },
     {
       "id": "731",
-      "scrapetime": 1771877142815,
+      "scrapetime": 1786886294412,
       "title": "LittleBigPlanet 2",
-      "image": "https://i.psnprofiles.com/games/d3f2b9/L2f6692.png",
+      "image": "https://img.psnprofiles.com/game/l/731/4235e702-ee1c-4150-8319-e40f14be4f21.png",
       "url": "https://psnprofiles.com/trophies/731-littlebigplanet-2",
       "points": 2100,
       "platforms": {
@@ -25055,7 +25056,7 @@
         "bronze": 60
       },
       "dlccount": 4,
-      "platinumpct": 2.83,
+      "platinumpct": 2.8,
       "completepct": 0.22,
       "timestamp": 1338940800000,
       "psplus": false,
@@ -25373,9 +25374,9 @@
     },
     {
       "id": "1241",
-      "scrapetime": 1771878988543,
+      "scrapetime": 1785413455181,
       "title": "Trine 2",
-      "image": "https://i.psnprofiles.com/games/3cf15e/L7227fd.png",
+      "image": "https://img.psnprofiles.com/game/l/1241/42d4b81f-e166-41a0-9c32-26a025bc57b1.png",
       "url": "https://psnprofiles.com/trophies/1241-trine-2",
       "points": 1320,
       "platforms": {
@@ -25393,8 +25394,8 @@
         "bronze": 0
       },
       "dlccount": 0,
-      "platinumpct": 33.05,
-      "completepct": 33.05,
+      "platinumpct": 32.95,
+      "completepct": 32.95,
       "timestamp": 1331078400000,
       "psplus": false,
       "tags": [],
@@ -25545,9 +25546,9 @@
     },
     {
       "id": "73",
-      "scrapetime": 1775647157395,
+      "scrapetime": 1787937651130,
       "title": "Tomb Raider: Underworld",
-      "image": "https://i.psnprofiles.com/games/8340c9/L82d338.png",
+      "image": "https://img.psnprofiles.com/game/l/73/f6ebc720-01fe-4f46-a92a-4f70857fb14f.png",
       "url": "https://psnprofiles.com/trophies/73-tomb-raider-underworld",
       "points": 1305,
       "platforms": {
@@ -25565,8 +25566,8 @@
         "bronze": 17
       },
       "dlccount": 0,
-      "platinumpct": 15.05,
-      "completepct": 15.05,
+      "platinumpct": 14.98,
+      "completepct": 14.98,
       "timestamp": 1323216000000,
       "psplus": false,
       "tags": [],
@@ -25630,9 +25631,9 @@
     },
     {
       "id": "462",
-      "scrapetime": 1781445114883,
+      "scrapetime": 1788006857865,
       "title": "Dead Nation",
-      "image": "https://i.psnprofiles.com/games/b62eda/L0167c0.png",
+      "image": "https://img.psnprofiles.com/game/l/462/9b57ca23-05e1-403a-9305-e9dfc77f9698.png",
       "url": "https://psnprofiles.com/trophies/462-dead-nation",
       "points": 1500,
       "platforms": {
@@ -25650,7 +25651,7 @@
         "bronze": 24
       },
       "dlccount": 1,
-      "platinumpct": 5.23,
+      "platinumpct": 5.22,
       "completepct": 1.2,
       "timestamp": 1319587200000,
       "psplus": false,
@@ -26416,9 +26417,9 @@
     },
     {
       "id": "36",
-      "scrapetime": 1777737985793,
+      "scrapetime": 1786885895613,
       "title": "WipEout HD",
-      "image": "https://i.psnprofiles.com/games/436cab/Lf9c88f.png",
+      "image": "https://img.psnprofiles.com/game/l/36/16e2f92a-138c-4609-b89e-f6309c84be51.png",
       "url": "https://psnprofiles.com/trophies/36-wipeout-hd",
       "points": 1530,
       "platforms": {
@@ -26436,8 +26437,8 @@
         "bronze": 38
       },
       "dlccount": 1,
-      "platinumpct": 0.97,
-      "completepct": 0.76,
+      "platinumpct": 0.96,
+      "completepct": 0.75,
       "timestamp": 1277769600000,
       "psplus": false,
       "tags": [],
@@ -26987,9 +26988,9 @@
     },
     {
       "id": "29759",
-      "scrapetime": 1775133178827,
+      "scrapetime": 1787171238578,
       "title": "Sword Art Online: Fractured Daydream",
-      "image": "https://i.psnprofiles.com/games/025117/L61a7d0.png",
+      "image": "https://img.psnprofiles.com/game/l/29759/681b24c4-c266-4104-b1d9-203db6775086.png",
       "url": "https://psnprofiles.com/trophies/29759-sword-art-online-fractured-daydream",
       "points": 1350,
       "platforms": {
@@ -27007,8 +27008,8 @@
         "bronze": 44
       },
       "dlccount": 0,
-      "platinumpct": 10.07,
-      "completepct": 10.07,
+      "platinumpct": 6.09,
+      "completepct": 6.09,
       "timestamp": 1775516400000,
       "psplus": false,
       "tags": [],
@@ -27016,9 +27017,9 @@
     },
     {
       "id": "25881",
-      "scrapetime": 1780600882736,
+      "scrapetime": 1788365168597,
       "title": "Tomb Raider I",
-      "image": "https://i.psnprofiles.com/games/5ddb4c/L344d42.png",
+      "image": "https://img.psnprofiles.com/game/l/25881/84479e0b-7795-43b5-942f-142b84f0c906.png",
       "url": "https://psnprofiles.com/trophies/25881-tomb-raider-i",
       "points": 1815,
       "platforms": {
@@ -27036,8 +27037,8 @@
         "bronze": 97
       },
       "dlccount": 3,
-      "platinumpct": 16.61,
-      "completepct": 10.68,
+      "platinumpct": 16.28,
+      "completepct": 10.5,
       "timestamp": 1775516400000,
       "psplus": false,
       "tags": [],
@@ -27045,9 +27046,9 @@
     },
     {
       "id": "25882",
-      "scrapetime": 1775133235339,
+      "scrapetime": 1788365429653,
       "title": "Tomb Raider II",
-      "image": "https://i.psnprofiles.com/games/ea3617/Lcb8eec.png",
+      "image": "https://img.psnprofiles.com/game/l/25882/410fe223-75a7-47c2-867e-8f426e19bc83.png",
       "url": "https://psnprofiles.com/trophies/25882-tomb-raider-ii",
       "points": 1695,
       "platforms": {
@@ -27065,8 +27066,8 @@
         "bronze": 85
       },
       "dlccount": 2,
-      "platinumpct": 14.61,
-      "completepct": 10.03,
+      "platinumpct": 12.1,
+      "completepct": 8.46,
       "timestamp": 1775516400000,
       "psplus": false,
       "tags": [],
@@ -27074,9 +27075,9 @@
     },
     {
       "id": "25880",
-      "scrapetime": 1775133236586,
+      "scrapetime": 1788365431636,
       "title": "Tomb Raider III",
-      "image": "https://i.psnprofiles.com/games/600e8f/Lc5ec34.png",
+      "image": "https://img.psnprofiles.com/game/l/25880/9e2733f8-09cd-4e92-a5fa-6e5afc0499f9.png",
       "url": "https://psnprofiles.com/trophies/25880-tomb-raider-iii",
       "points": 1890,
       "platforms": {
@@ -27094,8 +27095,8 @@
         "bronze": 86
       },
       "dlccount": 4,
-      "platinumpct": 10.35,
-      "completepct": 2.28,
+      "platinumpct": 8.57,
+      "completepct": 3.38,
       "timestamp": 1775516400000,
       "psplus": false,
       "tags": [],
@@ -27103,9 +27104,9 @@
     },
     {
       "id": "25883",
-      "scrapetime": 1780600640195,
+      "scrapetime": 1788365178257,
       "title": "Tomb Raider I-III Remastered",
-      "image": "https://i.psnprofiles.com/games/d76ea9/Laa6e86.png",
+      "image": "https://img.psnprofiles.com/game/l/25883/58fb296a-a527-4d6d-90a7-e3024c19bddb.png",
       "url": "https://psnprofiles.com/trophies/25883-tomb-raider-i-iii-remastered",
       "points": 4500,
       "platforms": {
@@ -27124,7 +27125,7 @@
       },
       "region": "EU",
       "dlccount": 7,
-      "completepct": 0.71,
+      "completepct": 0.79,
       "timestamp": 1775516400000,
       "psplus": false,
       "tags": [],
@@ -27190,9 +27191,9 @@
     },
     {
       "id": "35370",
-      "scrapetime": 1781447008588,
+      "scrapetime": 1787177017406,
       "title": "Wuchang: Fallen Feathers",
-      "image": "https://i.psnprofiles.com/games/c1d5ee/L2926a3.png",
+      "image": "https://img.psnprofiles.com/game/l/35370/793a677e-fc57-4474-a9ba-4cd4f4c87f3b.png",
       "url": "https://psnprofiles.com/trophies/35370-wuchang-fallen-feathers",
       "points": 1350,
       "platforms": {
@@ -27210,8 +27211,8 @@
         "bronze": 24
       },
       "dlccount": 0,
-      "platinumpct": 28.28,
-      "completepct": 28.28,
+      "platinumpct": 25.43,
+      "completepct": 25.43,
       "timestamp": 1777935600000,
       "psplus": false,
       "tags": [],
@@ -27422,9 +27423,9 @@
     },
     {
       "id": "35530",
-      "scrapetime": 1783169974983,
+      "scrapetime": 1787169508491,
       "title": "Call of Duty: Modern Warfare III",
-      "image": "https://i.psnprofiles.com/games/fbb765/L222059.png",
+      "image": "https://img.psnprofiles.com/game/l/35530/334f569a-08dc-49d0-99fb-2cf17b329a52.png",
       "url": "https://psnprofiles.com/trophies/35530-call-of-duty-modern-warfare-iii",
       "points": 1335,
       "platforms": {
@@ -27442,8 +27443,8 @@
         "bronze": 29
       },
       "dlccount": 0,
-      "platinumpct": 13.75,
-      "completepct": 13.75,
+      "platinumpct": 8,
+      "completepct": 8,
       "timestamp": 1783378800000,
       "psplus": false,
       "tags": [],
@@ -27481,11 +27482,11 @@
     },
     {
       "id": "36211",
-      "scrapetime": 1783170011224,
+      "scrapetime": 1787170081734,
       "title": "For the King II",
-      "image": "https://i.psnprofiles.com/games/4244c5/Le9037e.png",
+      "image": "https://img.psnprofiles.com/game/l/36211/cdc60553-6cbc-43a1-80a0-96c59a46638c.png",
       "url": "https://psnprofiles.com/trophies/36211-for-the-king-ii",
-      "points": 2025,
+      "points": 2355,
       "platforms": {
         "ps5": false,
         "ps4": true,
@@ -27497,12 +27498,12 @@
       "trophies": {
         "platinum": 1,
         "gold": 0,
-        "silver": 7,
-        "bronze": 101
+        "silver": 11,
+        "bronze": 115
       },
       "region": "EU",
-      "dlccount": 4,
-      "platinumpct": 3.57,
+      "dlccount": 6,
+      "platinumpct": 0.93,
       "timestamp": 1783378800000,
       "psplus": false,
       "tags": [],
@@ -27510,9 +27511,9 @@
     },
     {
       "id": "31145",
-      "scrapetime": 1783170013125,
+      "scrapetime": 1787170073689,
       "title": "For the King II",
-      "image": "https://i.psnprofiles.com/games/9170e8/L5747f0.png",
+      "image": "https://img.psnprofiles.com/game/l/31145/64d2896a-fc93-4679-8e63-425ea5f1d76d.png",
       "url": "https://psnprofiles.com/trophies/31145-for-the-king-ii",
       "points": 2325,
       "platforms": {
@@ -27530,8 +27531,8 @@
         "bronze": 117
       },
       "dlccount": 6,
-      "platinumpct": 3.01,
-      "completepct": 0.22,
+      "platinumpct": 1.61,
+      "completepct": 0.24,
       "timestamp": 1783378800000,
       "psplus": false,
       "tags": [],
@@ -27539,9 +27540,9 @@
     },
     {
       "id": "10938",
-      "scrapetime": 1783170024118,
+      "scrapetime": 1787169610484,
       "title": "CrossCode",
-      "image": "https://i.psnprofiles.com/games/ff3f09/L0bf947.png",
+      "image": "https://img.psnprofiles.com/game/l/10938/a40787da-7c25-49cd-a163-6f191967ff3d.png",
       "url": "https://psnprofiles.com/trophies/10938-crosscode",
       "points": 1275,
       "platforms": {
@@ -27559,8 +27560,8 @@
         "bronze": 3
       },
       "dlccount": 0,
-      "platinumpct": 24.68,
-      "completepct": 24.68,
+      "platinumpct": 23.31,
+      "completepct": 23.31,
       "timestamp": 1783378800000,
       "psplus": false,
       "tags": [],
@@ -27568,9 +27569,9 @@
     },
     {
       "id": "13369",
-      "scrapetime": 1783170026545,
+      "scrapetime": 1787169612231,
       "title": "CrossCode",
-      "image": "https://i.psnprofiles.com/games/a31952/L0f51eb.png",
+      "image": "https://img.psnprofiles.com/game/l/13369/90064cae-86fe-4216-b6a9-0c047bb01411.png",
       "url": "https://psnprofiles.com/trophies/13369-crosscode",
       "points": 1275,
       "platforms": {
@@ -27589,8 +27590,8 @@
       },
       "region": "EU",
       "dlccount": 0,
-      "platinumpct": 18.99,
-      "completepct": 18.99,
+      "platinumpct": 12.88,
+      "completepct": 12.88,
       "timestamp": 1783378800000,
       "psplus": false,
       "tags": [],
@@ -27598,7 +27599,7 @@
     },
     {
       "id": "15205",
-      "scrapetime": 1785335906156,
+      "scrapetime": 1787169914147,
       "title": "Dying Light 2: Stay Human",
       "image": "https://img.psnprofiles.com/game/l/15205/ae3de5b6-34c4-4b29-b2cc-d66356ef0af0.png",
       "url": "https://psnprofiles.com/trophies/15205-dying-light-2-stay-human",
@@ -27618,7 +27619,7 @@
         "bronze": 55
       },
       "dlccount": 1,
-      "platinumpct": 3.15,
+      "platinumpct": 3.14,
       "completepct": 0.73,
       "timestamp": 1785798000000,
       "psplus": false,
@@ -27627,7 +27628,7 @@
     },
     {
       "id": "15146",
-      "scrapetime": 1785335907577,
+      "scrapetime": 1787169912767,
       "title": "Dying Light 2: Stay Human",
       "image": "https://img.psnprofiles.com/game/l/15146/e3bd2793-aefd-49f1-b5bb-d08f6c2ac38a.png",
       "url": "https://psnprofiles.com/trophies/15146-dying-light-2-stay-human",
@@ -27647,8 +27648,8 @@
         "bronze": 55
       },
       "dlccount": 1,
-      "platinumpct": 5.24,
-      "completepct": 1.19,
+      "platinumpct": 5.19,
+      "completepct": 1.2,
       "timestamp": 1785798000000,
       "psplus": false,
       "tags": [],
@@ -27656,7 +27657,7 @@
     },
     {
       "id": "42435",
-      "scrapetime": 1785335924167,
+      "scrapetime": 1787169358780,
       "title": "Big Walk",
       "image": "https://img.psnprofiles.com/game/l/42435/47464bbc-c715-4995-b3c2-d53167243127.png",
       "url": "https://psnprofiles.com/trophies/42435-big-walk",
@@ -27676,16 +27677,18 @@
         "bronze": 0
       },
       "dlccount": 0,
-      "platinumpct": 66.67,
-      "completepct": 66.67,
+      "platinumpct": 10.91,
+      "completepct": 10.91,
       "timestamp": 1785798000000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Day one"
+      ],
       "note": "2026.08.04 > 2026.09.01"
     },
     {
       "id": "19014",
-      "scrapetime": 1785335938130,
+      "scrapetime": 1787170933182,
       "title": "Signalis",
       "image": "https://img.psnprofiles.com/game/l/19014/7c0aeeeb-8402-4794-a57a-5d2de31ebd10.png",
       "url": "https://psnprofiles.com/trophies/19014-signalis",
@@ -27706,12 +27709,187 @@
       },
       "region": "EU",
       "dlccount": 0,
-      "platinumpct": 27.01,
-      "completepct": 27.01,
+      "platinumpct": 22.95,
+      "completepct": 22.95,
       "timestamp": 1785798000000,
       "psplus": false,
       "tags": [],
       "note": "2026.08.04 > 2026.09.01"
+    },
+    {
+      "id": "31558",
+      "scrapetime": 1788373658293,
+      "title": "Sniper Elite: Resistance",
+      "image": "https://img.psnprofiles.com/game/l/31558/5f535b08-7610-42f1-8883-0e3779e7af22.png",
+      "url": "https://psnprofiles.com/trophies/31558-sniper-elite-resistance",
+      "points": 1920,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 5,
+        "silver": 13,
+        "bronze": 52
+      },
+      "dlccount": 4,
+      "platinumpct": 30.5,
+      "completepct": 20.75,
+      "timestamp": 1788249600000,
+      "psplus": false,
+      "tags": [],
+      "note": "2026.09.01 > 2026.10.06"
+    },
+    {
+      "id": "31567",
+      "scrapetime": 1788373239788,
+      "title": "Sniper Elite: Resistance",
+      "image": "https://img.psnprofiles.com/game/l/31567/839b35a8-00fa-4eb0-be92-ae8f3795b261.png",
+      "url": "https://psnprofiles.com/trophies/31567-sniper-elite-resistance",
+      "points": 1920,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 5,
+        "silver": 13,
+        "bronze": 52
+      },
+      "dlccount": 4,
+      "platinumpct": 20.1,
+      "completepct": 8.77,
+      "timestamp": 1788249600000,
+      "psplus": false,
+      "tags": [],
+      "note": "2026.09.01 > 2026.10.06"
+    },
+    {
+      "id": "40352",
+      "scrapetime": 1788373653804,
+      "title": "MLB The Show 26",
+      "image": "https://img.psnprofiles.com/game/l/40352/9058bc2c-c750-4d4e-8687-fd4ec7010fdd.png",
+      "url": "https://psnprofiles.com/trophies/40352-mlb-the-show-26",
+      "points": 1275,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 6,
+        "silver": 10,
+        "bronze": 9
+      },
+      "dlccount": 0,
+      "platinumpct": 16.88,
+      "completepct": 16.88,
+      "timestamp": 1788249600000,
+      "psplus": false,
+      "tags": [],
+      "note": "2026.09.01 > 2026.10.06"
+    },
+    {
+      "id": "21534",
+      "scrapetime": 1788373654736,
+      "title": "Wobbly Life",
+      "image": "https://img.psnprofiles.com/game/l/21534/bd73e974-b74b-474d-8907-8b2017e9c6cf.png",
+      "url": "https://psnprofiles.com/trophies/21534-wobbly-life",
+      "points": 1725,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 4,
+        "silver": 7,
+        "bronze": 57
+      },
+      "dlccount": 5,
+      "platinumpct": 6.13,
+      "completepct": 1.18,
+      "timestamp": 1788249600000,
+      "psplus": false,
+      "tags": [],
+      "note": "2026.09.01 > 2026.10.06"
+    },
+    {
+      "id": "36758",
+      "scrapetime": 1788373642626,
+      "title": "Wobbly Life",
+      "image": "https://img.psnprofiles.com/game/l/36758/0e76df8b-ff5b-42a9-8048-52ef7836193f.png",
+      "url": "https://psnprofiles.com/trophies/36758-wobbly-life",
+      "points": 1725,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 4,
+        "silver": 7,
+        "bronze": 57
+      },
+      "dlccount": 4,
+      "platinumpct": 2.82,
+      "completepct": 0.78,
+      "timestamp": 1788249600000,
+      "psplus": false,
+      "tags": [],
+      "note": "2026.09.01 > 2026.10.06"
+    },
+    {
+      "id": "19966",
+      "scrapetime": 1788373635832,
+      "title": "Chained Echoes",
+      "image": "https://img.psnprofiles.com/game/l/19966/2b095d4d-3ac6-4c35-8b68-1ecdd9c93e64.png",
+      "url": "https://psnprofiles.com/trophies/19966-chained-echoes",
+      "points": 1320,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 16,
+        "bronze": 18
+      },
+      "region": "EU",
+      "dlccount": 0,
+      "platinumpct": 30.36,
+      "completepct": 30.36,
+      "timestamp": 1788249600000,
+      "psplus": false,
+      "tags": [],
+      "note": "2026.09.01 > 2026.10.06"
     }
   ],
   "removeStartedGames": false,
