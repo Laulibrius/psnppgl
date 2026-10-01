@@ -19,7 +19,7 @@ Forum topics:
 > Extra/Premium: Since June 2026, games are available on varying dates in some countries (UK, US, Japan). See [blog article](https://blog.playstation.com/2026/06/10/playstation-plus-game-catalog-for-june-final-fantasy-xvi-sonic-x-shadow-generations-kingdom-come-deliverance-and-more/)
 
 ### [PS+ Premium PS3 (EU)](ps_premium_ps3_eu.json)
-Original PS3 games only available for streaming (*221 unique*)  
+Original PS3 games only available for streaming  
 `Last Update: 08/03/2026`  
 
 <details>
@@ -61,12 +61,12 @@ Original PS3 games only available for streaming (*221 unique*)
 </details>
 
 ### [PS+ Premium PS4/PS5 (EU)](ps_premium_ps4ps5_eu.json)
-Classic games (original or remastered) on PS4/PS5, available for download and streaming (with a few exceptions) (*148 unique*)  
-`Last Update: 18/08/2026`  
+Classic games (original or remastered) on PS4/PS5, available for download and streaming (with a few exceptions)  
+`Last Update: 01/10/2026`  
 > :label: PS1, PS2, PSP, PS3, VITA, Original, Remaster, Download Only, Streaming Only, Leaving soon
 
 <details>
-<summary>Missing games (30)</summary>
+<summary>Missing games (31)</summary>  
 
 - Armored Core (PS4/PS5) [Original, PS1] - 2025.03.18
 - Armored Core Master of Arena (PS4/PS5) [Original, PS1] - 2025.03.18
@@ -76,6 +76,7 @@ Classic games (original or remastered) on PS4/PS5, available for download and st
 - Gods Eater Burst (PS4/PS5) [Original, PSP] - 2024.03.19
 - Grandia (PS4/PS5) [Original, PS1] - 2023.11.21
 - Harvest Moon: Back to Nature (PS4/PS5) [Original, PS1] - 2023.02.21
+- Mega Man X Command Mission (PS4/PS5) [Original, PS2] - 2026.09.15
 - Mr. Driller (PS4/PS5) [Original, PS1] - 2022.06.23
 - Onimusha: Dawn of Dreams (PS4/PS5) [Original, PS2] - 2026.08.18 
 - R4 Ridge Racer Type 4 (PS4/PS5) [Original, PS1] - 2023.03.21
@@ -102,13 +103,13 @@ Classic games (original or remastered) on PS4/PS5, available for download and st
 </details>
 
 ### [PS+ Extra (EU)](ps_extra_eu.json)
-Games in PS+ Extra Catalog (*461 unique*)  
-`Last Update: 18/08/2026`
+Games in PS+ Extra Catalog  
+`Last Update: 01/10/2026`
 > :label: Leaving soon, Ubisoft+, Day one
 
 ### [PS+ Essential (EU)](ps_essential_eu.json)
 Monthly games & PS Collection  
-`Last Update: 02/09/2026`  
+`Last Update: 01/10/2026`  
 > :label: Collection, VR, Day one  
 
 <details>

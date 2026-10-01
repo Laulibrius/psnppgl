@@ -16,7 +16,7 @@
   "orderBy": "alphabetical",
   "direction": "ascending",
   "removeGames": "never",
-  "note": "Last update: 18/08/2026 - Leaving soon: 15/09/2026",
+  "note": "Last update: 01/10/2026 - Leaving soon: 21/10/2026",
   "games": [
     {
       "id": "27405",
@@ -1073,7 +1073,7 @@
     },
     {
       "id": "3805",
-      "scrapetime": 1787047206354,
+      "scrapetime": 1789740451752,
       "title": "Dishonored",
       "image": "https://img.psnprofiles.com/game/l/3805/20cec60e-5a23-4dc3-a588-eeff01cbde5f.png",
       "url": "https://psnprofiles.com/trophies/3805-dishonored",
@@ -1093,145 +1093,13 @@
         "bronze": 64
       },
       "dlccount": 3,
-      "platinumpct": 11.48,
+      "platinumpct": 11.49,
       "completepct": 0.97,
       "timestamp": 1681776000000,
       "psplus": false,
       "tags": [
         "PS3",
         "Remaster"
-      ],
-      "note": ""
-    },
-    {
-      "id": "27719",
-      "scrapetime": 1772482752233,
-      "title": "Toy Story 2: Buzz Lightyear to the Rescue!",
-      "image": "https://i.psnprofiles.com/games/6aee61/L36cfe3.png",
-      "url": "https://psnprofiles.com/trophies/27719-toy-story-2-buzz-lightyear-to-the-rescue",
-      "points": 1350,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 3,
-        "silver": 17,
-        "bronze": 18
-      },
-      "dlccount": 0,
-      "platinumpct": 59.06,
-      "completepct": 59.06,
-      "timestamp": 1655942400000,
-      "psplus": false,
-      "tags": [
-        "PS1",
-        "Original",
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "27715",
-      "scrapetime": 1772482803223,
-      "title": "Toy Story 2: Buzz Lightyear to the Rescue!",
-      "image": "https://i.psnprofiles.com/games/037b4c/Lcc13f1.png",
-      "url": "https://psnprofiles.com/trophies/27715-toy-story-2-buzz-lightyear-to-the-rescue",
-      "points": 1350,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 3,
-        "silver": 17,
-        "bronze": 18
-      },
-      "dlccount": 0,
-      "platinumpct": 52.68,
-      "completepct": 52.68,
-      "timestamp": 1655942400000,
-      "psplus": false,
-      "tags": [
-        "PS1",
-        "Original",
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "27718",
-      "scrapetime": 1772482769784,
-      "title": "Toy Story 3",
-      "image": "https://i.psnprofiles.com/games/582214/Ld11ff5.png",
-      "url": "https://psnprofiles.com/trophies/27718-toy-story-3",
-      "points": 1350,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 5,
-        "silver": 19,
-        "bronze": 2
-      },
-      "dlccount": 0,
-      "platinumpct": 53.97,
-      "completepct": 53.97,
-      "timestamp": 1663632000000,
-      "psplus": false,
-      "tags": [
-        "PSP",
-        "Original",
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "27721",
-      "scrapetime": 1772482814908,
-      "title": "Toy Story 3",
-      "image": "https://i.psnprofiles.com/games/7c924d/L54797a.png",
-      "url": "https://psnprofiles.com/trophies/27721-toy-story-3",
-      "points": 1350,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 5,
-        "silver": 19,
-        "bronze": 2
-      },
-      "dlccount": 0,
-      "platinumpct": 44.03,
-      "completepct": 44.03,
-      "timestamp": 1663632000000,
-      "psplus": false,
-      "tags": [
-        "PSP",
-        "Original",
-        "Leaving soon"
       ],
       "note": ""
     },
@@ -2028,9 +1896,9 @@
     },
     {
       "id": "3684",
-      "scrapetime": 1776519293157,
+      "scrapetime": 1789139647403,
       "title": "God of War III Remastered",
-      "image": "https://i.psnprofiles.com/games/8ad7d8/Lc9e04e.png",
+      "image": "https://img.psnprofiles.com/game/l/3684/ca5432c5-e098-46e5-8478-f3ab89542595.png",
       "url": "https://psnprofiles.com/trophies/3684-god-of-war-iii-remastered",
       "points": 1350,
       "platforms": {
@@ -2048,8 +1916,8 @@
         "bronze": 18
       },
       "dlccount": 0,
-      "platinumpct": 14.92,
-      "completepct": 14.92,
+      "platinumpct": 14.97,
+      "completepct": 14.97,
       "timestamp": 1655942400000,
       "psplus": false,
       "tags": [
@@ -2313,9 +2181,9 @@
     },
     {
       "id": "31632",
-      "scrapetime": 1772555773048,
+      "scrapetime": 1789660048627,
       "title": "Indiana Jones and the Staff of Kings",
-      "image": "https://i.psnprofiles.com/games/c84e98/L135cff.png",
+      "image": "https://img.psnprofiles.com/game/l/31632/e35773cb-8e1e-4ee0-97f2-5376d791d97b.png",
       "url": "https://psnprofiles.com/trophies/31632-indiana-jones-and-the-staff-of-kings",
       "points": 1350,
       "platforms": {
@@ -2333,8 +2201,8 @@
         "bronze": 2
       },
       "dlccount": 0,
-      "platinumpct": 37.56,
-      "completepct": 37.56,
+      "platinumpct": 36.46,
+      "completepct": 36.46,
       "timestamp": 1737417600000,
       "psplus": false,
       "tags": [
@@ -2377,9 +2245,9 @@
     },
     {
       "id": "31083",
-      "scrapetime": 1772555886919,
+      "scrapetime": 1789659673190,
       "title": "Jak and Daxter: The Precursor Legacy",
-      "image": "https://i.psnprofiles.com/games/04c58f/L477334.png",
+      "image": "https://img.psnprofiles.com/game/l/31083/d7c50bd6-4201-4611-a972-601772275e72.png",
       "url": "https://psnprofiles.com/trophies/31083-jak-and-daxter-the-precursor-legacy",
       "points": 1350,
       "platforms": {
@@ -2397,8 +2265,8 @@
         "bronze": 8
       },
       "dlccount": 0,
-      "platinumpct": 41.99,
-      "completepct": 41.99,
+      "platinumpct": 41.56,
+      "completepct": 41.56,
       "timestamp": 1734393600000,
       "psplus": false,
       "tags": [
@@ -3016,9 +2884,9 @@
     },
     {
       "id": "16430",
-      "scrapetime": 1772556724589,
+      "scrapetime": 1789659883889,
       "title": "I.Q. Intelligent Qube",
-      "image": "https://i.psnprofiles.com/games/eaeff6/Le479c0.png",
+      "image": "https://img.psnprofiles.com/game/l/16430/5024f255-f557-405d-84d6-e25634f97ee6.png",
       "url": "https://psnprofiles.com/trophies/16430-iq-intelligent-qube",
       "points": 1350,
       "platforms": {
@@ -3036,8 +2904,8 @@
         "bronze": 6
       },
       "dlccount": 0,
-      "platinumpct": 38.39,
-      "completepct": 38.39,
+      "platinumpct": 37.46,
+      "completepct": 37.46,
       "timestamp": 1655942400000,
       "psplus": false,
       "tags": [
@@ -3176,9 +3044,9 @@
     },
     {
       "id": "36591",
-      "scrapetime": 1772558134151,
+      "scrapetime": 1789660209186,
       "title": "Legacy of Kain: Defiance",
-      "image": "https://i.psnprofiles.com/games/22bf86/L98ccbc.png",
+      "image": "https://img.psnprofiles.com/game/l/36591/48fa4a13-3c7f-426d-ad60-7c684ca321d8.png",
       "url": "https://psnprofiles.com/trophies/36591-legacy-of-kain-defiance",
       "points": 1350,
       "platforms": {
@@ -3196,8 +3064,8 @@
         "bronze": 2
       },
       "dlccount": 0,
-      "platinumpct": 24.15,
-      "completepct": 24.15,
+      "platinumpct": 22.84,
+      "completepct": 22.84,
       "timestamp": 1757980800000,
       "psplus": false,
       "tags": [
@@ -3496,9 +3364,9 @@
     },
     {
       "id": "26858",
-      "scrapetime": 1772558811075,
+      "scrapetime": 1789659766536,
       "title": "MediEvil",
-      "image": "https://i.psnprofiles.com/games/99aaaf/Ld22d3a.png",
+      "image": "https://img.psnprofiles.com/game/l/26858/14aeb752-146c-4499-87f3-a60b385823a8.png",
       "url": "https://psnprofiles.com/trophies/26858-medievil",
       "points": 1350,
       "platforms": {
@@ -3516,8 +3384,8 @@
         "bronze": 18
       },
       "dlccount": 0,
-      "platinumpct": 41.72,
-      "completepct": 41.72,
+      "platinumpct": 40.9,
+      "completepct": 40.9,
       "timestamp": 1713225600000,
       "psplus": false,
       "tags": [
@@ -3911,9 +3779,9 @@
     },
     {
       "id": "34936",
-      "scrapetime": 1772559848480,
+      "scrapetime": 1789659708972,
       "title": "Oddworld: Abe's Oddysee",
-      "image": "https://i.psnprofiles.com/games/841202/Ld60d0b.png",
+      "image": "https://img.psnprofiles.com/game/l/34936/b0fe547b-1f8a-4327-8a40-df0c8b27435b.png",
       "url": "https://psnprofiles.com/trophies/34936-oddworld-abes-oddysee",
       "points": 1350,
       "platforms": {
@@ -3931,8 +3799,8 @@
         "bronze": 14
       },
       "dlccount": 0,
-      "platinumpct": 43.28,
-      "completepct": 43.28,
+      "platinumpct": 38.62,
+      "completepct": 38.62,
       "timestamp": 1655942400000,
       "psplus": false,
       "tags": [
@@ -4772,9 +4640,9 @@
     },
     {
       "id": "34377",
-      "scrapetime": 1772563717571,
+      "scrapetime": 1789660153581,
       "title": "Riven",
-      "image": "https://i.psnprofiles.com/games/b6be69/L229a03.png",
+      "image": "https://img.psnprofiles.com/game/l/34377/b9364b1f-9656-4a3b-ad34-a98b3726eece.png",
       "url": "https://psnprofiles.com/trophies/34377-riven",
       "points": 1350,
       "platforms": {
@@ -4792,8 +4660,8 @@
         "bronze": 8
       },
       "dlccount": 0,
-      "platinumpct": 26.42,
-      "completepct": 26.42,
+      "platinumpct": 28.98,
+      "completepct": 28.98,
       "timestamp": 1749081600000,
       "psplus": false,
       "tags": [
@@ -5027,9 +4895,9 @@
     },
     {
       "id": "27717",
-      "scrapetime": 1772564563419,
+      "scrapetime": 1789659907271,
       "title": "Sly Cooper and the Thievius Raccoonus",
-      "image": "https://i.psnprofiles.com/games/eadc39/L8190cc.png",
+      "image": "https://img.psnprofiles.com/game/l/27717/d71eac0e-8da4-4b4f-9b8a-ff429f1de2e0.png",
       "url": "https://psnprofiles.com/trophies/27717-sly-cooper-and-the-thievius-raccoonus",
       "points": 1350,
       "platforms": {
@@ -5047,8 +4915,8 @@
         "bronze": 22
       },
       "dlccount": 0,
-      "platinumpct": 33.97,
-      "completepct": 33.97,
+      "platinumpct": 33.81,
+      "completepct": 33.81,
       "timestamp": 1718064000000,
       "psplus": false,
       "tags": [
@@ -5155,9 +5023,9 @@
     },
     {
       "id": "31085",
-      "scrapetime": 1772564573190,
+      "scrapetime": 1789659815499,
       "title": "Sly 3: Honor Among Thieves",
-      "image": "https://i.psnprofiles.com/games/71f0b7/L01ff6f.png",
+      "image": "https://img.psnprofiles.com/game/l/31085/648f0349-4487-4131-83f5-4fdb6ef586e4.png",
       "url": "https://psnprofiles.com/trophies/31085-sly-3-honor-among-thieves",
       "points": 1350,
       "platforms": {
@@ -5175,8 +5043,8 @@
         "bronze": 18
       },
       "dlccount": 0,
-      "platinumpct": 41.31,
-      "completepct": 41.31,
+      "platinumpct": 41.04,
+      "completepct": 41.04,
       "timestamp": 1734393600000,
       "psplus": false,
       "tags": [
@@ -5219,9 +5087,9 @@
     },
     {
       "id": "32009",
-      "scrapetime": 1772564655798,
+      "scrapetime": 1789659478401,
       "title": "Star Wars: Demolition",
-      "image": "https://i.psnprofiles.com/games/4fc9c5/L114b41.png",
+      "image": "https://img.psnprofiles.com/game/l/32009/cf0c2064-7263-4d53-8586-deb04b1b93d1.png",
       "url": "https://psnprofiles.com/trophies/32009-star-wars-demolition",
       "points": 1350,
       "platforms": {
@@ -5239,8 +5107,8 @@
         "bronze": 14
       },
       "dlccount": 0,
-      "platinumpct": 52.04,
-      "completepct": 52.04,
+      "platinumpct": 50.58,
+      "completepct": 50.58,
       "timestamp": 1673913600000,
       "psplus": false,
       "tags": [
@@ -5824,9 +5692,9 @@
     },
     {
       "id": "22220",
-      "scrapetime": 1772565194764,
+      "scrapetime": 1789659524580,
       "title": "Syphon Filter: Logan's Shadow",
-      "image": "https://i.psnprofiles.com/games/97a1a4/La9fe8d.png",
+      "image": "https://img.psnprofiles.com/game/l/22220/53d915f9-7048-4bd1-89da-2d2e78b6e763.png",
       "url": "https://psnprofiles.com/trophies/22220-syphon-filter-logans-shadow",
       "points": 1350,
       "platforms": {
@@ -5844,8 +5712,8 @@
         "bronze": 2
       },
       "dlccount": 0,
-      "platinumpct": 49.78,
-      "completepct": 49.78,
+      "platinumpct": 49.11,
+      "completepct": 49.11,
       "timestamp": 1684195200000,
       "psplus": false,
       "tags": [
@@ -5856,7 +5724,7 @@
     },
     {
       "id": "2752",
-      "scrapetime": 1786886437804,
+      "scrapetime": 1789743496044,
       "title": "The Last of Us Remastered",
       "image": "https://img.psnprofiles.com/game/l/2752/90044d08-bc2b-46c7-a738-3592c4f76ff4.png",
       "url": "https://psnprofiles.com/trophies/2752-the-last-of-us-remastered",
@@ -5876,7 +5744,7 @@
         "bronze": 22
       },
       "dlccount": 4,
-      "platinumpct": 4.66,
+      "platinumpct": 4.65,
       "completepct": 2.7,
       "timestamp": 1655942400000,
       "psplus": false,
@@ -6596,9 +6464,9 @@
     },
     {
       "id": "3938",
-      "scrapetime": 1776522223250,
+      "scrapetime": 1789404426215,
       "title": "Uncharted: Drake's Fortune Remastered",
-      "image": "https://i.psnprofiles.com/games/2f2d01/Lf4c14b.png",
+      "image": "https://img.psnprofiles.com/game/l/3938/0b4ceb78-e366-483c-a503-ff73d82c9a07.png",
       "url": "https://psnprofiles.com/trophies/3938-uncharted-drakes-fortune-remastered",
       "points": 1515,
       "platforms": {
@@ -6616,8 +6484,8 @@
         "bronze": 41
       },
       "dlccount": 1,
-      "platinumpct": 14.25,
-      "completepct": 2.85,
+      "platinumpct": 14.27,
+      "completepct": 2.86,
       "timestamp": 1655942400000,
       "psplus": false,
       "tags": [
@@ -6628,9 +6496,9 @@
     },
     {
       "id": "3937",
-      "scrapetime": 1776522085232,
+      "scrapetime": 1789149876625,
       "title": "Uncharted 2: Among Thieves Remastered",
-      "image": "https://i.psnprofiles.com/games/212878/L0cd112.png",
+      "image": "https://img.psnprofiles.com/game/l/3937/76749033-21df-4aa2-9854-e51f1783c0df.png",
       "url": "https://psnprofiles.com/trophies/3937-uncharted-2-among-thieves-remastered",
       "points": 1530,
       "platforms": {
@@ -6648,8 +6516,8 @@
         "bronze": 38
       },
       "dlccount": 1,
-      "platinumpct": 17.8,
-      "completepct": 2.94,
+      "platinumpct": 17.83,
+      "completepct": 2.95,
       "timestamp": 1655942400000,
       "psplus": false,
       "tags": [
@@ -6660,9 +6528,9 @@
     },
     {
       "id": "3939",
-      "scrapetime": 1780427277659,
+      "scrapetime": 1789149884525,
       "title": "Uncharted 3: Drake's Deception Remastered",
-      "image": "https://i.psnprofiles.com/games/888b56/L61c711.png",
+      "image": "https://img.psnprofiles.com/game/l/3939/bd84e7b2-dc79-4fd5-8999-fe82e34624cc.png",
       "url": "https://psnprofiles.com/trophies/3939-uncharted-3-drakes-deception-remastered",
       "points": 1545,
       "platforms": {
@@ -6680,8 +6548,8 @@
         "bronze": 49
       },
       "dlccount": 1,
-      "platinumpct": 17.33,
-      "completepct": 3.11,
+      "platinumpct": 17.36,
+      "completepct": 3.12,
       "timestamp": 1655942400000,
       "psplus": false,
       "tags": [
@@ -7663,6 +7531,69 @@
       "tags": [
         "PS1",
         "Original"
+      ],
+      "note": ""
+    },
+    {
+      "id": "2824",
+      "scrapetime": 1789477176274,
+      "title": "Metro 2033 Redux",
+      "image": "https://img.psnprofiles.com/game/l/2824/0654e5db-9086-48c9-b5b5-7ec063a660ab.png",
+      "url": "https://psnprofiles.com/trophies/2824-metro-2033-redux",
+      "points": 1350,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 6,
+        "bronze": 40
+      },
+      "dlccount": 0,
+      "platinumpct": 12.81,
+      "completepct": 12.81,
+      "timestamp": 1789430400000,
+      "psplus": false,
+      "tags": [
+        "Remaster"
+      ],
+      "note": ""
+    },
+    {
+      "id": "2825",
+      "scrapetime": 1789477193026,
+      "title": "Metro: Last Light Redux",
+      "image": "https://img.psnprofiles.com/game/l/2825/562668eb-583d-4696-98f1-c215bf8ef5bf.png",
+      "url": "https://psnprofiles.com/trophies/2825-metro-last-light-redux",
+      "points": 1350,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 6,
+        "bronze": 40
+      },
+      "dlccount": 0,
+      "platinumpct": 15.67,
+      "completepct": 15.67,
+      "timestamp": 1789430400000,
+      "psplus": false,
+      "tags": [
+        "PS3",
+        "Remaster"
       ],
       "note": ""
     }
