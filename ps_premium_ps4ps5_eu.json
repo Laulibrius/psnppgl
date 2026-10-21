@@ -16,7 +16,7 @@
   "orderBy": "alphabetical",
   "direction": "ascending",
   "removeGames": "never",
-  "note": "Last update: 01/10/2026 - Leaving soon: 21/10/2026",
+  "note": "Last update: 20/10/2026",
   "games": [
     {
       "id": "27405",
@@ -7596,6 +7596,68 @@
         "Remaster"
       ],
       "note": ""
+    },
+    {
+      "id": "34272",
+      "scrapetime": 1792506449719,
+      "title": "Rollercoaster Tycoon 3",
+      "image": "https://img.psnprofiles.com/game/l/34272/082000da-2f41-4b57-95d7-e1047667d398.png",
+      "url": "https://psnprofiles.com/trophies/34272-rollercoaster-tycoon-3",
+      "points": 1275,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 5,
+        "silver": 11,
+        "bronze": 13
+      },
+      "dlccount": 0,
+      "platinumpct": 29.41,
+      "completepct": 29.41,
+      "timestamp": 1792454400000,
+      "psplus": false,
+      "tags": [
+        "Remaster"
+      ],
+      "note": "Complete Edition"
+    },
+    {
+      "id": "32618",
+      "scrapetime": 1792506456796,
+      "title": "RollerCoaster Tycoon 3",
+      "image": "https://img.psnprofiles.com/game/l/32618/47017461-86a9-450a-9a39-b533d4191121.png",
+      "url": "https://psnprofiles.com/trophies/32618-rollercoaster-tycoon-3",
+      "points": 1275,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 5,
+        "silver": 11,
+        "bronze": 13
+      },
+      "dlccount": 0,
+      "platinumpct": 14.17,
+      "completepct": 14.17,
+      "timestamp": 1792454400000,
+      "psplus": false,
+      "tags": [
+        "Remaster"
+      ],
+      "note": "Complete Edition"
     }
   ],
   "removeStartedGames": false,

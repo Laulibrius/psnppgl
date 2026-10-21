@@ -62,7 +62,7 @@ Original PS3 games only available for streaming
 
 ### [PS+ Premium PS4/PS5 (EU)](ps_premium_ps4ps5_eu.json)
 Classic games (original or remastered) on PS4/PS5, available for download and streaming (with a few exceptions)  
-`Last Update: 01/10/2026`  
+`Last Update: 20/10/2026`  
 > :label: PS1, PS2, PSP, PS3, VITA, Original, Remaster, Download Only, Streaming Only, Leaving soon
 
 <details>
@@ -72,6 +72,7 @@ Classic games (original or remastered) on PS4/PS5, available for download and st
 - Armored Core Master of Arena (PS4/PS5) [Original, PS1] - 2025.03.18
 - Armored Core Project Phantasma (PS4/PS5) [Original, PS1] - 2025.03.18
 - Dino Crisis (PS4/PS5) [Original, PS1] - 2024.10.15
+- Dino Crisis 2 (PS4/PS5) [Original, PS1] - 2026.10.20
 - Disney•Pixar Buzz Lightyear of Star Command (PS4/PS5) [Original, PS1] - 2023.12.19
 - Gods Eater Burst (PS4/PS5) [Original, PSP] - 2024.03.19
 - Grandia (PS4/PS5) [Original, PS1] - 2023.11.21
@@ -104,7 +105,7 @@ Classic games (original or remastered) on PS4/PS5, available for download and st
 
 ### [PS+ Extra (EU)](ps_extra_eu.json)
 Games in PS+ Extra Catalog  
-`Last Update: 01/10/2026`
+`Last Update: 20/10/2026`
 > :label: Leaving soon, Ubisoft+, Day one
 
 ### [PS+ Essential (EU)](ps_essential_eu.json)
