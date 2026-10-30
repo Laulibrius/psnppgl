@@ -110,7 +110,7 @@ Games in PS+ Extra Catalog
 
 ### [PS+ Essential (EU)](ps_essential_eu.json)
 Monthly games & PS Collection  
-`Last Update: 01/10/2026`  
+`Last Update: 30/10/2026`  
 > :label: Collection, VR, Day one  
 
 <details>
