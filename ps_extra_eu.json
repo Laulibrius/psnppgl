@@ -9,7 +9,7 @@
   "orderBy": "timestamp",
   "direction": "descending",
   "removeGames": "never",
-  "note": "Last update: 20/10/2026 / Leaving soon: 17/11/2026",
+  "note": "Last update: 10/10/2026 / Leaving soon: 17/11/2026",
   "games": [
     {
       "id": "25919",
@@ -7047,7 +7047,7 @@
     },
     {
       "id": "14824",
-      "scrapetime": 1792509170856,
+      "scrapetime": 1792600587603,
       "title": "Monster Boy and the Cursed Kingdom",
       "image": "https://img.psnprofiles.com/game/l/14824/1883f4cc-b9ea-4a1c-93b8-68bddae2da58.png",
       "url": "https://psnprofiles.com/trophies/14824-monster-boy-and-the-cursed-kingdom",
@@ -7067,8 +7067,8 @@
         "bronze": 18
       },
       "dlccount": 0,
-      "platinumpct": 20.03,
-      "completepct": 20.03,
+      "platinumpct": 20.01,
+      "completepct": 20.01,
       "timestamp": 1681776000000,
       "psplus": false,
       "tags": [
@@ -11384,7 +11384,7 @@
     },
     {
       "id": "24413",
-      "scrapetime": 1792509053981,
+      "scrapetime": 1793546101863,
       "title": "The Talos Principle II",
       "image": "https://img.psnprofiles.com/game/l/24413/d7dabe43-7a18-41e2-ac5d-a0d4c69c94c1.png",
       "url": "https://psnprofiles.com/trophies/24413-the-talos-principle-ii",
@@ -11404,8 +11404,8 @@
         "bronze": 57
       },
       "dlccount": 1,
-      "platinumpct": 14.59,
-      "completepct": 5.68,
+      "platinumpct": 14.52,
+      "completepct": 5.59,
       "timestamp": 1763424000000,
       "psplus": false,
       "tags": [
@@ -17132,7 +17132,7 @@
     },
     {
       "id": "25779",
-      "scrapetime": 1792066683943,
+      "scrapetime": 1793023141041,
       "title": "Helldivers 2",
       "image": "https://img.psnprofiles.com/game/l/25779/b4f586a4-0d5c-4c5d-a105-e12a0d8fc21b.png",
       "url": "https://psnprofiles.com/trophies/25779-helldivers-2",
@@ -17152,8 +17152,8 @@
         "bronze": 24
       },
       "dlccount": 0,
-      "platinumpct": 14.79,
-      "completepct": 14.79,
+      "platinumpct": 14.78,
+      "completepct": 14.78,
       "timestamp": 1786489200000,
       "psplus": false,
       "tags": [],
@@ -18087,6 +18087,325 @@
         "Day one"
       ],
       "note": ""
+    },
+    {
+      "id": "34699",
+      "scrapetime": 1794331128000,
+      "title": "Death Stranding 2: On the Beach",
+      "image": "https://img.psnprofiles.com/game/l/34699/95033d3a-7f94-445e-8309-d8cb65b96aa7.png",
+      "url": "https://psnprofiles.com/trophies/34699-death-stranding-2-on-the-beach",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 6,
+        "bronze": 46
+      },
+      "dlccount": 0,
+      "platinumpct": 28.13,
+      "completepct": 28.13,
+      "timestamp": 1794877200000,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "32119",
+      "scrapetime": 1794331183379,
+      "title": "Like a Dragon: Pirate Yakuza in Hawaii",
+      "image": "https://img.psnprofiles.com/game/l/32119/762798a5-54b3-4b01-bdc4-267fdbd8a793.png",
+      "url": "https://psnprofiles.com/trophies/32119-like-a-dragon-pirate-yakuza-in-hawaii",
+      "points": 1350,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 1,
+        "silver": 4,
+        "bronze": 56
+      },
+      "dlccount": 0,
+      "platinumpct": 62.7,
+      "completepct": 62.7,
+      "timestamp": 1794880800000,
+      "psplus": false,
+      "tags": [],
+      "note": "UK: 24/11/2026"
+    },
+    {
+      "id": "32098",
+      "scrapetime": 1794331185193,
+      "title": "Like a Dragon: Pirate Yakuza in Hawaii",
+      "image": "https://img.psnprofiles.com/game/l/32098/e3eb2ffa-2067-4fb5-9e9c-3562daae1882.png",
+      "url": "https://psnprofiles.com/trophies/32098-like-a-dragon-pirate-yakuza-in-hawaii",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 1,
+        "silver": 4,
+        "bronze": 56
+      },
+      "dlccount": 0,
+      "platinumpct": 55.78,
+      "completepct": 55.78,
+      "timestamp": 1794880800000,
+      "psplus": false,
+      "tags": [],
+      "note": "UK: 24/11/2026"
+    },
+    {
+      "id": "32707",
+      "scrapetime": 1794331205555,
+      "title": "Atomfall",
+      "image": "https://img.psnprofiles.com/game/l/32707/7c452325-b0c3-4bac-8b7b-45bbae082001.png",
+      "url": "https://psnprofiles.com/trophies/32707-atomfall",
+      "points": 1725,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 6,
+        "silver": 11,
+        "bronze": 37
+      },
+      "dlccount": 2,
+      "platinumpct": 27.4,
+      "completepct": 6.03,
+      "timestamp": 1794877200000,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "32553",
+      "scrapetime": 1794331206358,
+      "title": "Atomfall",
+      "image": "https://img.psnprofiles.com/game/l/32553/04176adb-2c4a-4bcb-a8e2-977b8ef789d7.png",
+      "url": "https://psnprofiles.com/trophies/32553-atomfall",
+      "points": 1725,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 6,
+        "silver": 11,
+        "bronze": 37
+      },
+      "dlccount": 2,
+      "platinumpct": 21.2,
+      "completepct": 3.47,
+      "timestamp": 1794877200000,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "30534",
+      "scrapetime": 1794331231716,
+      "title": "Dragon Quest III HD-2D Remake",
+      "image": "https://img.psnprofiles.com/game/l/30534/da18f659-cff9-4f7b-b7e2-0a8cb31340d9.png",
+      "url": "https://psnprofiles.com/trophies/30534-dragon-quest-iii-hd-2d-remake",
+      "points": 1305,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 4,
+        "silver": 6,
+        "bronze": 31
+      },
+      "dlccount": 0,
+      "platinumpct": 32.5,
+      "completepct": 32.5,
+      "timestamp": 1794877200000,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "23910",
+      "scrapetime": 1794331253421,
+      "title": "Trepang 2",
+      "image": "https://img.psnprofiles.com/game/l/23910/c6141206-0c28-41c0-9f27-a9ec90f6c4d4.png",
+      "url": "https://psnprofiles.com/trophies/23910-trepang-2",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 6,
+        "bronze": 40
+      },
+      "dlccount": 0,
+      "platinumpct": 3.64,
+      "completepct": 3.64,
+      "timestamp": 1794880800000,
+      "psplus": false,
+      "tags": [],
+      "note": "UK: 24/11/2026"
+    },
+    {
+      "id": "41115",
+      "scrapetime": 1794331273615,
+      "title": "MotoGP 26",
+      "image": "https://img.psnprofiles.com/game/l/41115/1af3c793-8b6e-4ee1-8596-af87358a4401.png",
+      "url": "https://psnprofiles.com/trophies/41115-motogp-26",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 1,
+        "silver": 15,
+        "bronze": 34
+      },
+      "dlccount": 0,
+      "platinumpct": 25.86,
+      "completepct": 25.86,
+      "timestamp": 1794880800000,
+      "psplus": false,
+      "tags": [],
+      "note": "UK: 24/11/2026"
+    },
+    {
+      "id": "14103",
+      "scrapetime": 1794331298477,
+      "title": "Hell Let Loose",
+      "image": "https://img.psnprofiles.com/game/l/14103/0f828651-f7f7-4654-ae9c-357a6cb6f5f7.png",
+      "url": "https://psnprofiles.com/trophies/14103-hell-let-loose",
+      "points": 2355,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 4,
+        "silver": 28,
+        "bronze": 57
+      },
+      "dlccount": 9,
+      "platinumpct": 1.49,
+      "completepct": 0.22,
+      "timestamp": 1794873600000,
+      "psplus": false,
+      "tags": [],
+      "note": "UK: 11/11/2026"
+    },
+    {
+      "id": "38350",
+      "scrapetime": 1794331339691,
+      "title": "Cricket 26",
+      "image": "https://img.psnprofiles.com/game/l/38350/b2112669-0744-44bd-98ba-72b585699d81.png",
+      "url": "https://psnprofiles.com/trophies/38350-cricket-26",
+      "points": 1320,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 7,
+        "silver": 7,
+        "bronze": 12
+      },
+      "dlccount": 0,
+      "platinumpct": 10.42,
+      "completepct": 10.42,
+      "timestamp": 1794880800000,
+      "psplus": false,
+      "tags": [],
+      "note": "UK: 24/11/2026"
+    },
+    {
+      "id": "38271",
+      "scrapetime": 1794331340718,
+      "title": "Cricket 26",
+      "image": "https://img.psnprofiles.com/game/l/38271/ab4ea398-f808-4131-ad91-7deacfd7825e.png",
+      "url": "https://psnprofiles.com/trophies/38271-cricket-26",
+      "points": 1320,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 7,
+        "silver": 7,
+        "bronze": 12
+      },
+      "dlccount": 0,
+      "platinumpct": 8.57,
+      "completepct": 8.57,
+      "timestamp": 1794880800000,
+      "psplus": false,
+      "tags": [],
+      "note": "UK: 24/11/2026"
     }
   ],
   "removeStartedGames": false,

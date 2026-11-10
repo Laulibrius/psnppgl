@@ -105,7 +105,7 @@ Classic games (original or remastered) on PS4/PS5, available for download and st
 
 ### [PS+ Extra (EU)](ps_extra_eu.json)
 Games in PS+ Extra Catalog  
-`Last Update: 20/10/2026`
+`Last Update: 10/11/2026`
 > :label: Leaving soon, Ubisoft+, Day one
 
 ### [PS+ Essential (EU)](ps_essential_eu.json)
