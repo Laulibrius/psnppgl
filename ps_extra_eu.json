@@ -9,7 +9,7 @@
   "orderBy": "timestamp",
   "direction": "descending",
   "removeGames": "never",
-  "note": "Last update: 10/10/2026 / Leaving soon: 17/11/2026",
+  "note": "Last update: 18/11/2026 / Leaving soon: 15/12/2026",
   "games": [
     {
       "id": "25919",
@@ -2430,68 +2430,6 @@
       "note": ""
     },
     {
-      "id": "24010",
-      "scrapetime": 1771009176400,
-      "title": "Cricket 24",
-      "image": "https://i.psnprofiles.com/games/948824/L496399.png",
-      "url": "https://psnprofiles.com/trophies/24010-cricket-24",
-      "points": 1320,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 7,
-        "silver": 7,
-        "bronze": 12
-      },
-      "dlccount": 0,
-      "platinumpct": 5.32,
-      "completepct": 5.32,
-      "timestamp": 1717545600000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "23761",
-      "scrapetime": 1771009177340,
-      "title": "Cricket 24",
-      "image": "https://i.psnprofiles.com/games/6ec255/L1e3ecb.png",
-      "url": "https://psnprofiles.com/trophies/23761-cricket-24",
-      "points": 1320,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 7,
-        "silver": 7,
-        "bronze": 12
-      },
-      "dlccount": 0,
-      "platinumpct": 5.39,
-      "completepct": 5.39,
-      "timestamp": 1717545600000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
       "id": "22560",
       "scrapetime": 1771009191728,
       "title": "Crime Boss: Rockay City",
@@ -3685,38 +3623,6 @@
       "note": ""
     },
     {
-      "id": "4128",
-      "scrapetime": 1771010091064,
-      "title": "Earth Defense Force 4.1: The Shadow of New Despair",
-      "image": "https://i.psnprofiles.com/games/7a2909/Lafc961.png",
-      "url": "https://psnprofiles.com/trophies/4128-earth-defense-force-41-the-shadow-of-new-despair",
-      "points": 1350,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 1,
-        "silver": 14,
-        "bronze": 36
-      },
-      "region": "WE",
-      "dlccount": 0,
-      "platinumpct": 0.81,
-      "completepct": 0.81,
-      "timestamp": 1655942400000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
       "id": "8510",
       "scrapetime": 1771010102016,
       "title": "Earth Defense Force 5",
@@ -4237,7 +4143,9 @@
       "completepct": 1.94,
       "timestamp": 1655942400000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -5058,7 +4966,9 @@
       "completepct": 21.35,
       "timestamp": 1765843200000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -5087,7 +4997,9 @@
       "completepct": 14.38,
       "timestamp": 1765843200000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -5117,68 +5029,6 @@
       "timestamp": 1655942400000,
       "psplus": false,
       "tags": [],
-      "note": ""
-    },
-    {
-      "id": "3147",
-      "scrapetime": 1789140091322,
-      "title": "Grand Theft Auto V",
-      "image": "https://img.psnprofiles.com/game/l/3147/d3ee0360-fb26-449d-84fb-2c75bdbe68a7.png",
-      "url": "https://psnprofiles.com/trophies/3147-grand-theft-auto-v",
-      "points": 1905,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 3,
-        "silver": 15,
-        "bronze": 59
-      },
-      "dlccount": 3,
-      "platinumpct": 2.04,
-      "completepct": 0.24,
-      "timestamp": 1763424000000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "15720",
-      "scrapetime": 1789140096427,
-      "title": "Grand Theft Auto V",
-      "image": "https://img.psnprofiles.com/game/l/15720/a98228a2-f3f1-4f99-ae5e-e1ad1ed1d748.png",
-      "url": "https://psnprofiles.com/trophies/15720-grand-theft-auto-v",
-      "points": 1905,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 3,
-        "silver": 15,
-        "bronze": 59
-      },
-      "dlccount": 3,
-      "platinumpct": 5.17,
-      "completepct": 0.8,
-      "timestamp": 1763424000000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
       "note": ""
     },
     {
@@ -5589,37 +5439,6 @@
       "timestamp": 1655942400000,
       "psplus": false,
       "tags": [],
-      "note": ""
-    },
-    {
-      "id": "11424",
-      "scrapetime": 1771011318789,
-      "title": "Hotshot Racing",
-      "image": "https://i.psnprofiles.com/games/17e40c/Ld7f31c.png",
-      "url": "https://psnprofiles.com/trophies/11424-hotshot-racing",
-      "points": 1395,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 2,
-        "silver": 10,
-        "bronze": 41
-      },
-      "dlccount": 1,
-      "platinumpct": 3.45,
-      "completepct": 3.02,
-      "timestamp": 1655942400000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
       "note": ""
     },
     {
@@ -7012,68 +6831,6 @@
       "timestamp": 1689638400000,
       "psplus": false,
       "tags": [],
-      "note": ""
-    },
-    {
-      "id": "8504",
-      "scrapetime": 1789142063799,
-      "title": "Monster Boy and the Cursed Kingdom",
-      "image": "https://img.psnprofiles.com/game/l/8504/54ae9f97-94ab-4d34-810b-77ccba151ba2.png",
-      "url": "https://psnprofiles.com/trophies/8504-monster-boy-and-the-cursed-kingdom",
-      "points": 1350,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 6,
-        "silver": 8,
-        "bronze": 18
-      },
-      "dlccount": 0,
-      "platinumpct": 32.72,
-      "completepct": 32.72,
-      "timestamp": 1681776000000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
-      "id": "14824",
-      "scrapetime": 1792600587603,
-      "title": "Monster Boy and the Cursed Kingdom",
-      "image": "https://img.psnprofiles.com/game/l/14824/1883f4cc-b9ea-4a1c-93b8-68bddae2da58.png",
-      "url": "https://psnprofiles.com/trophies/14824-monster-boy-and-the-cursed-kingdom",
-      "points": 1350,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 6,
-        "silver": 8,
-        "bronze": 18
-      },
-      "dlccount": 0,
-      "platinumpct": 20.01,
-      "completepct": 20.01,
-      "timestamp": 1681776000000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
       "note": ""
     },
     {
@@ -8880,37 +8637,6 @@
       "note": ""
     },
     {
-      "id": "6678",
-      "scrapetime": 1771013322571,
-      "title": "Rapala Fishing Pro Series",
-      "image": "https://i.psnprofiles.com/games/70c57c/L5bfd45.png",
-      "url": "https://psnprofiles.com/trophies/6678-rapala-fishing-pro-series",
-      "points": 1350,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 6,
-        "silver": 8,
-        "bronze": 18
-      },
-      "dlccount": 0,
-      "platinumpct": 2.17,
-      "completepct": 2.17,
-      "timestamp": 1655942400000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
       "id": "12996",
       "scrapetime": 1789750771456,
       "title": "Ratchet & Clank: Rift Apart",
@@ -9954,7 +9680,9 @@
       "completepct": 41.43,
       "timestamp": 1739836800000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -9982,7 +9710,9 @@
       "completepct": 31.51,
       "timestamp": 1739836800000,
       "psplus": false,
-      "tags": [],
+      "tags": [
+        "Leaving soon"
+      ],
       "note": ""
     },
     {
@@ -11380,37 +11110,6 @@
       "timestamp": 1655942400000,
       "psplus": false,
       "tags": [],
-      "note": ""
-    },
-    {
-      "id": "24413",
-      "scrapetime": 1793546101863,
-      "title": "The Talos Principle II",
-      "image": "https://img.psnprofiles.com/game/l/24413/d7dabe43-7a18-41e2-ac5d-a0d4c69c94c1.png",
-      "url": "https://psnprofiles.com/trophies/24413-the-talos-principle-ii",
-      "points": 1545,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 1,
-        "silver": 10,
-        "bronze": 57
-      },
-      "dlccount": 1,
-      "platinumpct": 14.52,
-      "completepct": 5.59,
-      "timestamp": 1763424000000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
       "note": ""
     },
     {
@@ -12861,37 +12560,6 @@
       "timestamp": 1655942400000,
       "psplus": false,
       "tags": [],
-      "note": ""
-    },
-    {
-      "id": "12542",
-      "scrapetime": 1771015956170,
-      "title": "Yet Another Zombie Defense HD",
-      "image": "https://i.psnprofiles.com/games/2d3bca/Le89cba.png",
-      "url": "https://psnprofiles.com/trophies/12542-yet-another-zombie-defense-hd",
-      "points": 1320,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 5,
-        "silver": 16,
-        "bronze": 6
-      },
-      "dlccount": 0,
-      "platinumpct": 17.53,
-      "completepct": 17.53,
-      "timestamp": 1655942400000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
       "note": ""
     },
     {
@@ -16194,37 +15862,6 @@
       "note": ""
     },
     {
-      "id": "37959",
-      "scrapetime": 1776279973677,
-      "title": "Football Manager 26",
-      "image": "https://i.psnprofiles.com/games/3caf2b/Le02752.png",
-      "url": "https://psnprofiles.com/trophies/37959-football-manager-26",
-      "points": 1350,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 3,
-        "silver": 12,
-        "bronze": 28
-      },
-      "dlccount": 0,
-      "platinumpct": 7.5,
-      "completepct": 7.5,
-      "timestamp": 1776729600000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
-      ],
-      "note": ""
-    },
-    {
       "id": "32014",
       "scrapetime": 1776280008528,
       "title": "Warriors: Abyss",
@@ -16397,37 +16034,6 @@
       "psplus": false,
       "tags": [
         "Ubisoft+"
-      ],
-      "note": ""
-    },
-    {
-      "id": "8370",
-      "scrapetime": 1789758280249,
-      "title": "Red Dead Redemption 2",
-      "image": "https://img.psnprofiles.com/game/l/8370/b20043be-8243-48b4-b64a-33985ad27f4d.png",
-      "url": "https://psnprofiles.com/trophies/8370-red-dead-redemption-2",
-      "points": 1350,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 3,
-        "silver": 4,
-        "bronze": 44
-      },
-      "dlccount": 0,
-      "platinumpct": 2.84,
-      "completepct": 2.84,
-      "timestamp": 1779148800000,
-      "psplus": false,
-      "tags": [
-        "Leaving soon"
       ],
       "note": ""
     },

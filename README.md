@@ -62,7 +62,7 @@ Original PS3 games only available for streaming
 
 ### [PS+ Premium PS4/PS5 (EU)](ps_premium_ps4ps5_eu.json)
 Classic games (original or remastered) on PS4/PS5, available for download and streaming (with a few exceptions)  
-`Last Update: 20/10/2026`  
+`Last Update: 18/11/2026`  
 > :label: PS1, PS2, PSP, PS3, VITA, Original, Remaster, Download Only, Streaming Only, Leaving soon
 
 <details>
@@ -105,7 +105,7 @@ Classic games (original or remastered) on PS4/PS5, available for download and st
 
 ### [PS+ Extra (EU)](ps_extra_eu.json)
 Games in PS+ Extra Catalog  
-`Last Update: 10/11/2026`
+`Last Update: 18/11/2026`
 > :label: Leaving soon, Ubisoft+, Day one
 
 ### [PS+ Essential (EU)](ps_essential_eu.json)

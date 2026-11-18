@@ -16,7 +16,7 @@
   "orderBy": "alphabetical",
   "direction": "ascending",
   "removeGames": "never",
-  "note": "Last update: 20/10/2026",
+  "note": "Last update: 18/11/2026",
   "games": [
     {
       "id": "27405",
@@ -7658,6 +7658,134 @@
         "Remaster"
       ],
       "note": "Complete Edition"
+    },
+    {
+      "id": "43507",
+      "scrapetime": 1795019609068,
+      "title": "Legacy of Kain: Soul Reaver 2",
+      "image": "https://img.psnprofiles.com/game/l/43507/54a30865-c736-4f69-8f88-ae14cba0b680.png",
+      "url": "https://psnprofiles.com/trophies/43507-legacy-of-kain-soul-reaver-2",
+      "points": 1350,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 7,
+        "silver": 13,
+        "bronze": 2
+      },
+      "dlccount": 0,
+      "platinumpct": 20,
+      "completepct": 20,
+      "timestamp": 1794877200000,
+      "psplus": false,
+      "tags": [
+        "PS2",
+        "Original"
+      ],
+      "note": ""
+    },
+    {
+      "id": "43506",
+      "scrapetime": 1795019610729,
+      "title": "Legacy of Kain: Soul Reaver 2",
+      "image": "https://img.psnprofiles.com/game/l/43506/f1762442-37b6-409e-94df-dab2cdbfae54.png",
+      "url": "https://psnprofiles.com/trophies/43506-legacy-of-kain-soul-reaver-2",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 7,
+        "silver": 13,
+        "bronze": 2
+      },
+      "dlccount": 0,
+      "platinumpct": 7.14,
+      "completepct": 7.14,
+      "timestamp": 1794877200000,
+      "psplus": false,
+      "tags": [
+        "PS2",
+        "Original"
+      ],
+      "note": ""
+    },
+    {
+      "id": "31406",
+      "scrapetime": 1795019637999,
+      "title": "Freedom Wars Remastered",
+      "image": "https://img.psnprofiles.com/game/l/31406/686e1350-1123-4e81-b05e-dc0392a100ab.png",
+      "url": "https://psnprofiles.com/trophies/31406-freedom-wars-remastered",
+      "points": 1275,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 7,
+        "bronze": 33
+      },
+      "dlccount": 0,
+      "platinumpct": 29.88,
+      "completepct": 29.88,
+      "timestamp": 1794877200000,
+      "psplus": false,
+      "tags": [
+        "VITA",
+        "Remaster"
+      ],
+      "note": ""
+    },
+    {
+      "id": "31415",
+      "scrapetime": 1795019639496,
+      "title": "Freedom Wars Remastered",
+      "image": "https://img.psnprofiles.com/game/l/31415/84878df6-74e4-41b8-a0d8-c48a1977e254.png",
+      "url": "https://psnprofiles.com/trophies/31415-freedom-wars-remastered",
+      "points": 1275,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 7,
+        "bronze": 33
+      },
+      "dlccount": 0,
+      "platinumpct": 18.87,
+      "completepct": 18.87,
+      "timestamp": 1794877200000,
+      "psplus": false,
+      "tags": [
+        "VITA",
+        "Remaster"
+      ],
+      "note": ""
     }
   ],
   "removeStartedGames": false,
